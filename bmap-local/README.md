@@ -15,5 +15,5 @@
 4. 访问HTML页面
 ```
 
-### Customize configuration
+### 百度地图 JavaScript API
 See http://lbsyun.baidu.com/index.php?title=jspopular.
