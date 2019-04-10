@@ -1,7 +1,6 @@
 const webpack = require('webpack')
 
 module.exports = {
-    // publicPath: '/html5/hcht/',
     publicPath: '/',
     outputDir: 'dist',
     assetsDir: 'public',
@@ -11,7 +10,7 @@ module.exports = {
             entry: 'src/main.js',
             template: 'public/index.html',
             filename: 'index.html',
-            title: '华创科技',
+            title: 'Vue使用jQueryUI-Demo',
             chunks: ['chunk-vendors', 'chunk-common', 'index']
         }
     },
@@ -26,7 +25,6 @@ module.exports = {
     //反向代理
     devServer: {
         // 环境配置
-        // host: 'test.e-paipian.com',
         host: 'localhost',
         port: 8080,
         https: false,
