@@ -1,0 +1,158 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 1,
+      "spaceType": "瘦身会所",
+      "spaceName": "瑜伽瘦身主题馆",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义站前东街天地悦港城A座2层218室",
+      "address2": "顺义站前东街天地悦港城A座2层218室",
+      "lat": 40.008178,
+      "lng": 116.484925
+    },
+    {
+      "id": 2,
+      "spaceType": "瘦身会所",
+      "spaceName": "亚太三宝专业减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园二区南门7号楼底商",
+      "address2": "顺义裕龙花园二区南门7号楼底商",
+      "lat": 40.126131,
+      "lng": 116.672176
+    },
+    {
+      "id": 3,
+      "spaceType": "瘦身会所",
+      "spaceName": "老太太火罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园三区14号楼底商",
+      "address2": "顺义裕龙花园三区14号楼底商",
+      "lat": 40.126131,
+      "lng": 116.672176
+    },
+    {
+      "id": 4,
+      "spaceType": "瘦身会所",
+      "spaceName": "寇氏减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园4区8号楼8-9西侧",
+      "address2": "顺义裕龙花园4区8号楼8-9西侧",
+      "lat": 40.126548,
+      "lng": 116.679618
+    },
+    {
+      "id": 5,
+      "spaceType": "瘦身会所",
+      "spaceName": "寇氏魔罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义万科四季花城南门",
+      "address2": "顺义万科四季花城南门",
+      "lat": 40.129794,
+      "lng": 116.645044
+    },
+    {
+      "id": 6,
+      "spaceType": "瘦身会所",
+      "spaceName": "享受就瘦",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义双兴北区7号楼1单元302",
+      "address2": "顺义双兴北区7号楼1单元302",
+      "lat": 40.148056,
+      "lng": 116.662399
+    },
+    {
+      "id": 7,
+      "spaceType": "瘦身会所",
+      "spaceName": "火罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义前景路东50米",
+      "address2": "顺义前景路东50米",
+      "lat": 40.13216,
+      "lng": 116.643307
+    },
+    {
+      "id": 8,
+      "spaceType": "瘦身会所",
+      "spaceName": "北京清潞源美容美发店",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义幸福东区丙18号楼5单元102",
+      "address2": "顺义幸福东区丙18号楼5单元102",
+      "lat": 40.141885,
+      "lng": 116.664447
+    },
+    {
+      "id": 9,
+      "spaceType": "瘦身会所",
+      "spaceName": "利明雪莲女子减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义光明府前东街东兴",
+      "address2": "顺义光明府前东街东兴",
+      "lat": 40.13575,
+      "lng": 116.668649
+    },
+    {
+      "id": 10,
+      "spaceType": "瘦身会所",
+      "spaceName": "伊人国际减肥美体终点站",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义光明南街建新北区南门33号楼5单元102门",
+      "address2": "顺义光明南街建新北区南门33号楼5单元102门",
+      "lat": 40.128345,
+      "lng": 116.659623
+    },
+    {
+      "id": 11,
+      "spaceType": "咖啡店",
+      "spaceName": "罗马湖Radiance Café",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区罗各庄罗马湖南岸左堤路7号",
+      "address2": "罗各庄罗马湖南岸左堤路7号",
+      "lat": 40.106622,
+      "lng": 116.529117
+    },
+    {
+      "id": 12,
+      "spaceType": "别墅",
+      "spaceName": "罗马湖美术馆别墅",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区沙峪街道罗马湖",
+      "address2": "沙峪街道罗马湖",
+      "lat": 40.108221,
+      "lng": 116.520703
+    },
+    {
+      "id": 13,
+      "spaceType": "别墅",
+      "spaceName": "11居可住30人聚会婚礼团建",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区后沙峪后沙峪西田各庄",
+      "address2": "后沙峪后沙峪西田各庄",
+      "lat": 40.111767,
+      "lng": 116.551449
+    },
+    {
+      "id": 14,
+      "spaceType": "别墅",
+      "spaceName": "顺义聚游记别墅",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区翰林书画院",
+      "address2": "翰林书画院",
+      "lat": 40.154951,
+      "lng": 116.728229
+    },
+    {
+      "id": 15,
+      "spaceType": "轰趴馆",
+      "spaceName": "【私处】轰趴工作室",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区后沙峪罗马湖左堤路罗各庄甲三号底商9-10号",
+      "address2": "后沙峪罗马湖左堤路罗各庄甲三号底商9-10号",
+      "lat": 40.111767,
+      "lng": 116.551449
+    }
+  ]
+}

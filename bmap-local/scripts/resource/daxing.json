@@ -1,0 +1,218 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 428,
+      "spaceType": "咖啡馆",
+      "spaceName": "意悦咖啡馆",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区荣华南路12号泰豪智能大厦A座一层",
+      "address2": "荣华南路12号泰豪智能大厦A座一层",
+      "lat": 39.793683,
+      "lng": 116.523435
+    },
+    {
+      "id": 429,
+      "spaceType": "咖啡馆",
+      "spaceName": "F.R.COFFEE",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区荣昌东街隆盛大厦A1层",
+      "address2": "荣昌东街隆盛大厦A1层",
+      "lat": 39.790027,
+      "lng": 116.531241
+    },
+    {
+      "id": 430,
+      "spaceType": "轰趴馆",
+      "spaceName": "约趴空间主题聚会轰趴别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区爱情海玫瑰文化博览园内",
+      "address2": "爱情海玫瑰文化博览园内",
+      "lat": 39.65279,
+      "lng": 116.425195
+    },
+    {
+      "id": 431,
+      "spaceType": "咖啡馆",
+      "spaceName": "帕丁顿西餐厅(亦庄易居国际店)",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄荣华中路5号院易居国际东门",
+      "address2": "亦庄荣华中路5号院易居国际东门",
+      "lat": 39.810347,
+      "lng": 116.506093
+    },
+    {
+      "id": 432,
+      "spaceType": "咖啡馆",
+      "spaceName": "77号咖茶吧",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄天华东路林肯公园c区底商三人学校",
+      "address2": "亦庄天华东路林肯公园c区底商三人学校",
+      "lat": 39.810404,
+      "lng": 116.497555
+    },
+    {
+      "id": 433,
+      "spaceType": "篮球馆",
+      "spaceName": "东方启明星篮球培训中心",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄国锐金嵿荣华天地会所",
+      "address2": "亦庄国锐金嵿荣华天地会所",
+      "lat": 39.828333,
+      "lng": 116.527543
+    },
+    {
+      "id": 434,
+      "spaceType": "别墅",
+      "spaceName": "独栋豪华花园别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区龙景湾二区",
+      "address2": "龙景湾二区",
+      "lat": 39.627198,
+      "lng": 116.320303
+    },
+    {
+      "id": 435,
+      "spaceType": "别墅",
+      "spaceName": "大兴300平欧式别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区庞各庄富力丹麦小镇",
+      "address2": "庞各庄富力丹麦小镇",
+      "lat": 39.619468,
+      "lng": 116.327454
+    },
+    {
+      "id": 436,
+      "spaceType": "别墅",
+      "spaceName": "新独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区庞各庄富力丹麦小镇",
+      "address2": "庞各庄富力丹麦小镇",
+      "lat": 39.619468,
+      "lng": 116.327454
+    },
+    {
+      "id": 437,
+      "spaceType": "别墅",
+      "spaceName": "少年派 团建轰趴独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区丽水佳园",
+      "address2": "丽水佳园",
+      "lat": 39.613256,
+      "lng": 116.341492
+    },
+    {
+      "id": 438,
+      "spaceType": "别墅",
+      "spaceName": "田园小清新独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区富力丹麦小镇",
+      "address2": "富力丹麦小镇",
+      "lat": 39.65279,
+      "lng": 116.425195
+    },
+    {
+      "id": 439,
+      "spaceType": "健身房",
+      "spaceName": "林肯会俱乐部",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区文化园西路林肯会俱乐部(林肯公园B区",
+      "address2": "文化园西路林肯会俱乐部(林肯公园B区",
+      "lat": 39.810913,
+      "lng": 116.502534
+    },
+    {
+      "id": 440,
+      "spaceType": "咖啡馆",
+      "spaceName": "紫陌啡语",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区文化园西路8号院45号楼1层102室",
+      "address2": "文化园西路8号院45号楼1层102室",
+      "lat": 39.810334,
+      "lng": 116.500865
+    },
+    {
+      "id": 441,
+      "spaceType": "轰趴管",
+      "spaceName": "镜之森林团建聚会别墅园区",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区南四环京开路与京良路交叉口",
+      "address2": "南四环京开路与京良路交叉口",
+      "lat": 39.728634,
+      "lng": 116.351778
+    },
+    {
+      "id": 442,
+      "spaceType": "咖啡馆",
+      "spaceName": "兰里咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区中建国际港09-09号",
+      "address2": "中建国际港09-09号",
+      "lat": 39.759416,
+      "lng": 116.337829
+    },
+    {
+      "id": 443,
+      "spaceType": "篮球馆",
+      "spaceName": "神奇篮球俱乐部",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区西红门双高路1号",
+      "address2": "西红门双高路1号",
+      "lat": 39.775841,
+      "lng": 116.34437
+    },
+    {
+      "id": 444,
+      "spaceType": "咖啡馆",
+      "spaceName": "亦咖咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区景园北街2号52-1",
+      "address2": "景园北街2号52-1",
+      "lat": 39.787268,
+      "lng": 116.528087
+    },
+    {
+      "id": 445,
+      "spaceType": "咖啡馆",
+      "spaceName": "言几又(荟聚购物中心西红门店)",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区欣宁街15号荟聚购物中心3楼",
+      "address2": "欣宁街15号荟聚购物中心3楼",
+      "lat": 39.793891,
+      "lng": 116.33501
+    },
+    {
+      "id": 446,
+      "spaceType": "篮球馆",
+      "spaceName": "青少年篮球培训",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区旧宫颐运康园羽毛球馆",
+      "address2": "旧宫颐运康园羽毛球馆",
+      "lat": 39.812387,
+      "lng": 116.453097
+    },
+    {
+      "id": 447,
+      "spaceType": "咖啡馆",
+      "spaceName": "巨门咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区黄村顺驰领海57号楼11号底商",
+      "address2": "黄村顺驰领海57号楼11号底商",
+      "lat": 39.679181,
+      "lng": 116.375673
+    },
+    {
+      "id": 448,
+      "spaceType": "篮球馆",
+      "spaceName": "百灵鸟篮球馆",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区黄村金星路",
+      "address2": "黄村金星路",
+      "lat": 39.767825,
+      "lng": 116.279983
+    }
+  ]
+}

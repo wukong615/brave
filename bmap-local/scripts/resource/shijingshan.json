@@ -1,0 +1,18 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 449,
+      "spaceType": "网球场",
+      "spaceName": "得乐网球培训(石景山古城店",
+      "spaceCounty": "石景山区",
+      "address1": "石景山区石景山路甲61号",
+      "address2": "石景山路甲61号",
+      "lat": 39.938867,
+      "lng": 116.184556
+    }
+  ]
+}

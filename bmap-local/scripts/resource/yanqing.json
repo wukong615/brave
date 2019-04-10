@@ -1,0 +1,28 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 687,
+      "spaceType": "别墅",
+      "spaceName": "北京延庆半山别墅",
+      "spaceCounty": "延庆县",
+      "address1": "延庆县张山营龙聚山庄",
+      "address2": "张山营龙聚山庄",
+      "lat": 40.520659,
+      "lng": 115.977517
+    },
+    {
+      "id": 688,
+      "spaceType": "别墅",
+      "spaceName": "延庆风景度假别墅",
+      "spaceCounty": "延庆县",
+      "address1": "延庆县融景美庐妫水南街8号院",
+      "address2": "融景美庐妫水南街8号院",
+      "lat": 40.455988,
+      "lng": 115.98913
+    }
+  ]
+}

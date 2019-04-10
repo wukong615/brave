@@ -1,0 +1,28 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 164,
+      "spaceType": "别墅",
+      "spaceName": "京郊绿色密云别墅",
+      "spaceCounty": "密云县",
+      "address1": "密云县密云懿品府",
+      "address2": "密云懿品府",
+      "lat": 40.37149,
+      "lng": 116.837441
+    },
+    {
+      "id": 165,
+      "spaceType": "别墅",
+      "spaceName": "近密云水库特色别致别墅",
+      "spaceCounty": "密云县",
+      "address1": "密云县穆家峪镇穆家峪镇阁老峪村",
+      "address2": "穆家峪镇穆家峪镇阁老峪村",
+      "lat": 40.44522,
+      "lng": 116.933323
+    }
+  ]
+}

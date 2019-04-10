@@ -1,0 +1,878 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 600,
+      "spaceType": "美术馆",
+      "spaceName": "西山美术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区马连洼东一路",
+      "address2": "马连洼东一路",
+      "lat": 40.037015,
+      "lng": 116.293821
+    },
+    {
+      "id": 601,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中央党校体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区颐和园大有庄100号",
+      "address2": "颐和园大有庄100号",
+      "lat": 40.018382,
+      "lng": 116.286258
+    },
+    {
+      "id": 602,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "小舞星旗舰店",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区长春桥路5号新起点嘉园12号楼706室",
+      "address2": "长春桥路5号新起点嘉园12号楼706室",
+      "lat": 39.966674,
+      "lng": 116.309979
+    },
+    {
+      "id": 603,
+      "spaceType": "美术馆",
+      "spaceName": "长歌行儿童艺术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区远大路20号宝蓝大厦C座8A",
+      "address2": "远大路20号宝蓝大厦C座8A",
+      "lat": 39.963267,
+      "lng": 116.293081
+    },
+    {
+      "id": 604,
+      "spaceType": "舞蹈室",
+      "spaceName": "北京V5舞蹈工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街长远天地A2座2层4212室",
+      "address2": "苏州街长远天地A2座2层4212室",
+      "lat": 39.983231,
+      "lng": 116.313446
+    },
+    {
+      "id": 605,
+      "spaceType": "健身房",
+      "spaceName": "3T健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街西屋国际D座9层",
+      "address2": "苏州街西屋国际D座9层",
+      "lat": 39.986453,
+      "lng": 116.313337
+    },
+    {
+      "id": 606,
+      "spaceType": "轰趴管",
+      "spaceName": "微风轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街12号西屋国际F座902室",
+      "address2": "苏州街12号西屋国际F座902室",
+      "lat": 39.986505,
+      "lng": 116.313938
+    },
+    {
+      "id": 607,
+      "spaceType": "健身房",
+      "spaceName": "奥里森国际健身会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区复兴路33号翠微百货B座B1层",
+      "address2": "复兴路33号翠微百货B座B1层",
+      "lat": 39.91404,
+      "lng": 116.311914
+    },
+    {
+      "id": 608,
+      "spaceType": "DIY手工坊",
+      "spaceName": "锐轩陶吧",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区圣熙8号购物中心四楼儿童区",
+      "address2": "圣熙8号购物中心四楼儿童区",
+      "lat": 40.014234,
+      "lng": 116.36058
+    },
+    {
+      "id": 609,
+      "spaceType": "DIY手工坊",
+      "spaceName": "古岳陶坊DIY陶艺",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区华清商务会馆6层607A",
+      "address2": "华清商务会馆6层607A",
+      "lat": 39.998079,
+      "lng": 116.339951
+    },
+    {
+      "id": 610,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "指尖芭蕾美甲沙龙",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区农大南路1号院1号楼上地华联商厦F2-24",
+      "address2": "农大南路1号院1号楼上地华联商厦F2-24",
+      "lat": 40.034659,
+      "lng": 116.317776
+    },
+    {
+      "id": 611,
+      "spaceType": "羽毛球馆",
+      "spaceName": "北京理工大学羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区魏公村中关村南大街5号北京理工大学内",
+      "address2": "魏公村中关村南大街5号北京理工大学内",
+      "lat": 39.966791,
+      "lng": 116.323202
+    },
+    {
+      "id": 612,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "WillDance舞蹈工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区魏公村1号韦伯豪双兴八座B1",
+      "address2": "魏公村1号韦伯豪双兴八座B1",
+      "lat": 39.9598,
+      "lng": 116.325498
+    },
+    {
+      "id": 613,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "盛舞悦雅芭蕾培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区广源闸路广源大厦4楼8439室",
+      "address2": "广源闸路广源大厦4楼8439室",
+      "lat": 39.949628,
+      "lng": 116.317985
+    },
+    {
+      "id": 614,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "It's ballet！",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区民族大学南路地震局地球物理研究所院内",
+      "address2": "民族大学南路地震局地球物理研究所院内",
+      "lat": 39.953744,
+      "lng": 116.322495
+    },
+    {
+      "id": 615,
+      "spaceType": "舞蹈室",
+      "spaceName": "糖芭蕾",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳亿城中心C座C2电梯上1502",
+      "address2": "万柳亿城中心C座C2电梯上1502",
+      "lat": 39.966496,
+      "lng": 116.307971
+    },
+    {
+      "id": 616,
+      "spaceType": "DIY手工坊",
+      "spaceName": "思迪木 工坊",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳中路6号",
+      "address2": "万柳中路6号",
+      "lat": 39.97513,
+      "lng": 116.304812
+    },
+    {
+      "id": 617,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "小舞星舞蹈培训工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳泉宗南路万柳怡水园4号楼1205室",
+      "address2": "万柳泉宗南路万柳怡水园4号楼1205室",
+      "lat": 39.96775,
+      "lng": 116.308582
+    },
+    {
+      "id": 618,
+      "spaceType": "轰趴馆",
+      "spaceName": "面聚·上地北高端主题轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万家创业园2楼8066号",
+      "address2": "万家创业园2楼8066号",
+      "lat": 40.033162,
+      "lng": 116.239678
+    },
+    {
+      "id": 619,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "蜗牛艺术",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北太平庄文慧园路志强北园30号楼如家酒店地下一层B01",
+      "address2": "北太平庄文慧园路志强北园30号楼如家酒店地下一层B01",
+      "lat": 39.957884,
+      "lng": 116.354401
+    },
+    {
+      "id": 620,
+      "spaceType": "咖啡馆",
+      "spaceName": "品咖啡",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北四环西路66号中国技术交易大厦一楼大厅内",
+      "address2": "北四环西路66号中国技术交易大厦一楼大厅内",
+      "lat": 39.989946,
+      "lng": 116.313979
+    },
+    {
+      "id": 621,
+      "spaceType": "羽毛球馆",
+      "spaceName": "陈梅体育(姐妹花羽毛球培训)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环蓟门桥西首都体育学院内",
+      "address2": "北三环蓟门桥西首都体育学院内",
+      "lat": 39.976563,
+      "lng": 116.35444
+    },
+    {
+      "id": 622,
+      "spaceType": "DIY手工坊",
+      "spaceName": "缝纫之家",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环中路辅路北太平庄桥东南角有研大厦C座底商",
+      "address2": "北三环中路辅路北太平庄桥东南角有研大厦C座底商",
+      "lat": 39.97347,
+      "lng": 116.377481
+    },
+    {
+      "id": 623,
+      "spaceType": "美术馆",
+      "spaceName": "精典画廊",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环西路23号蓝景丽家大钟寺家居广场",
+      "address2": "北三环西路23号蓝景丽家大钟寺家居广场",
+      "lat": 39.975048,
+      "lng": 116.350067
+    },
+    {
+      "id": 624,
+      "spaceType": "网球场",
+      "spaceName": "网动体育(北京友谊宾馆网球培训)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南大街1号",
+      "address2": "中关村南大街1号",
+      "lat": 39.969885,
+      "lng": 116.328012
+    },
+    {
+      "id": 625,
+      "spaceType": "别墅",
+      "spaceName": "特价周末两套联租",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西山温泉镇白家疃簸箕水村86号",
+      "address2": "西山温泉镇白家疃簸箕水村86号",
+      "lat": 40.033667,
+      "lng": 116.182783
+    },
+    {
+      "id": 626,
+      "spaceType": "网球场",
+      "spaceName": "昌泰365网球",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河力度家园",
+      "address2": "清河力度家园",
+      "lat": 40.036938,
+      "lng": 116.345409
+    },
+    {
+      "id": 627,
+      "spaceType": "网球场",
+      "spaceName": "三原色辉腾网球培训",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西三环北路83号",
+      "address2": "西三环北路83号",
+      "lat": 39.94251,
+      "lng": 116.315053
+    },
+    {
+      "id": 628,
+      "spaceType": "空手道馆",
+      "spaceName": "国际空手道联盟极真会馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北下关交大东路66号智地钻河中心2号楼B1层",
+      "address2": "北下关交大东路66号智地钻河中心2号楼B1层",
+      "lat": 39.950658,
+      "lng": 116.357431
+    },
+    {
+      "id": 629,
+      "spaceType": "桌游吧",
+      "spaceName": "神奈桌游吧轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区宝蓝世纪大厦C座11B(金源购物中心)",
+      "address2": "宝蓝世纪大厦C座11B(金源购物中心)",
+      "lat": 39.963033,
+      "lng": 116.292809
+    },
+    {
+      "id": 630,
+      "spaceType": "轰趴馆",
+      "spaceName": "西山小院-贰号院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区碧云寺路香山公园北门内侧",
+      "address2": "碧云寺路香山公园北门内侧",
+      "lat": 40.001449,
+      "lng": 116.201378
+    },
+    {
+      "id": 631,
+      "spaceType": "轰趴馆",
+      "spaceName": "迷.轰趴别墅",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区百望山北路",
+      "address2": "百望山北路",
+      "lat": 40.044428,
+      "lng": 116.259913
+    },
+    {
+      "id": 632,
+      "spaceType": "空手道馆",
+      "spaceName": "元融会空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区巴沟南路35号万泉新新家园4号楼健身会所",
+      "address2": "巴沟南路35号万泉新新家园4号楼健身会所",
+      "lat": 39.978919,
+      "lng": 116.304641
+    },
+    {
+      "id": 633,
+      "spaceType": "KTV",
+      "spaceName": "鑫金源KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区定慧桥往西第三个红绿灯右转京粮广场",
+      "address2": "定慧桥往西第三个红绿灯右转京粮广场",
+      "lat": 39.936499,
+      "lng": 116.260549
+    },
+    {
+      "id": 634,
+      "spaceType": "轰趴馆",
+      "spaceName": "拾玖空间 Verse & Wine ",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路89号恒兴大厦5A室",
+      "address2": "中关村东路89号恒兴大厦5A室",
+      "lat": 39.988471,
+      "lng": 116.339479
+    },
+    {
+      "id": 635,
+      "spaceType": "轰趴馆",
+      "spaceName": "此时此刻",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路16号院龙湖唐宁one2号楼A座127室底商",
+      "address2": "中关村东路16号院龙湖唐宁one2号楼A座127室底商",
+      "lat": 39.994583,
+      "lng": 116.340982
+    },
+    {
+      "id": 636,
+      "spaceType": "私人影院",
+      "spaceName": "77时尚主题私人影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路16号院甲2号楼一层102室",
+      "address2": "中关村东路16号院甲2号楼一层102室",
+      "lat": 39.994604,
+      "lng": 116.342457
+    },
+    {
+      "id": 637,
+      "spaceType": "KTV",
+      "spaceName": "炫舞180·KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村北大街18号",
+      "address2": "中关村北大街18号",
+      "lat": 40.022574,
+      "lng": 116.324912
+    },
+    {
+      "id": 638,
+      "spaceType": "空手道馆",
+      "spaceName": "真然馆空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村北京大学邱德拔体育馆B1层重竞技厅",
+      "address2": "中关村北京大学邱德拔体育馆B1层重竞技厅",
+      "lat": 39.994592,
+      "lng": 116.321801
+    },
+    {
+      "id": 639,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中央民族大学·体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南路27号中央民族大学内",
+      "address2": "中关村南路27号中央民族大学内",
+      "lat": 39.956908,
+      "lng": 116.326833
+    },
+    {
+      "id": 640,
+      "spaceType": "KTV",
+      "spaceName": "骏马国际会所ktv",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南一条甲1号骏马国际酒店",
+      "address2": "中关村南一条甲1号骏马国际酒店",
+      "lat": 39.986393,
+      "lng": 116.338888
+    },
+    {
+      "id": 641,
+      "spaceType": "私人影院",
+      "spaceName": "尚幕私人订制主题影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村大街40号当代商城8楼",
+      "address2": "中关村大街40号当代商城8楼",
+      "lat": 39.976247,
+      "lng": 116.327324
+    },
+    {
+      "id": 642,
+      "spaceType": "羽毛球馆",
+      "spaceName": "首都体育师范大学体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区双榆树北三环西路11号",
+      "address2": "双榆树北三环西路11号",
+      "lat": 39.976885,
+      "lng": 116.35468
+    },
+    {
+      "id": 643,
+      "spaceType": "轰趴馆",
+      "spaceName": "佛伦斯印象欧式别墅砖",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西四环中路辅路附近",
+      "address2": "西四环中路辅路附近",
+      "lat": 39.904582,
+      "lng": 116.282135
+    },
+    {
+      "id": 644,
+      "spaceType": "轰趴管",
+      "spaceName": "Party Now青年会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清华东路16号艺海大厦1505室",
+      "address2": "清华东路16号艺海大厦1505室",
+      "lat": 40.006065,
+      "lng": 116.35681
+    },
+    {
+      "id": 645,
+      "spaceType": "健身房",
+      "spaceName": "漾健身工作室(橡树湾一期店)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河小营橡树湾一期底商103号(良子足疗一层)",
+      "address2": "清河小营橡树湾一期底商103号(良子足疗一层)",
+      "lat": 40.041911,
+      "lng": 116.336811
+    },
+    {
+      "id": 646,
+      "spaceType": "羽毛球馆",
+      "spaceName": "泰山饭店羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河安宁庄北里8号",
+      "address2": "清河安宁庄北里8号",
+      "lat": 40.050313,
+      "lng": 116.328861
+    },
+    {
+      "id": 647,
+      "spaceType": "美术馆",
+      "spaceName": "大三生产业投行",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区成府路45号中关村智造大街C座2层",
+      "address2": "成府路45号中关村智造大街C座2层",
+      "lat": 40.001213,
+      "lng": 116.340853
+    },
+    {
+      "id": 648,
+      "spaceType": "DIY手工坊",
+      "spaceName": "畅颜十字绣",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区翠微路26号临119",
+      "address2": "翠微路26号临119",
+      "lat": 39.915402,
+      "lng": 116.308865
+    },
+    {
+      "id": 649,
+      "spaceType": "KTV",
+      "spaceName": "景晨轩KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地西路27号",
+      "address2": "上地西路27号",
+      "lat": 40.043423,
+      "lng": 116.312108
+    },
+    {
+      "id": 650,
+      "spaceType": "健身房",
+      "spaceName": "A+fitness私人教练健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地十街1号辉煌国际广场3号楼1818室",
+      "address2": "上地十街1号辉煌国际广场3号楼1818室",
+      "lat": 40.059312,
+      "lng": 116.308921
+    },
+    {
+      "id": 651,
+      "spaceType": "KTV",
+      "spaceName": "北华夜总会",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地街道东北旺东路52号",
+      "address2": "上地街道东北旺东路52号",
+      "lat": 40.050162,
+      "lng": 116.307901
+    },
+    {
+      "id": 652,
+      "spaceType": "健身房",
+      "spaceName": "Hey Heroes！私教健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区紫竹桥路华澳中心公寓610室",
+      "address2": "紫竹桥路华澳中心公寓610室",
+      "lat": 39.951122,
+      "lng": 116.312784
+    },
+    {
+      "id": 653,
+      "spaceType": "空手道馆",
+      "spaceName": "永海堂空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区紫竹桥海店区彰化路7号楼20号",
+      "address2": "紫竹桥海店区彰化路7号楼20号",
+      "lat": 39.948705,
+      "lng": 116.296592
+    },
+    {
+      "id": 654,
+      "spaceType": "羽毛球馆",
+      "spaceName": "尤尼克斯羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区四季青西四环北路132号",
+      "address2": "四季青西四环北路132号",
+      "lat": 39.948472,
+      "lng": 116.28659
+    },
+    {
+      "id": 655,
+      "spaceType": "KTV",
+      "spaceName": "名门世纪ktv",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区四季青杏石口76号",
+      "address2": "四季青杏石口76号",
+      "lat": 40.033162,
+      "lng": 116.239678
+    },
+    {
+      "id": 656,
+      "spaceType": "KTV",
+      "spaceName": "金嘉丽音乐广场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区采石北路橙天嘉禾影院5楼",
+      "address2": "采石北路橙天嘉禾影院5楼",
+      "lat": 39.922811,
+      "lng": 116.266455
+    },
+    {
+      "id": 657,
+      "spaceType": "私人影院",
+      "spaceName": "云影私人影吧",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区彩和坊路八号天创科技大厦东门地下一层",
+      "address2": "彩和坊路八号天创科技大厦东门地下一层",
+      "lat": 39.987787,
+      "lng": 116.315913
+    },
+    {
+      "id": 658,
+      "spaceType": "KTV",
+      "spaceName": "美丽神话KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区高梁桥斜街19号",
+      "address2": "高梁桥斜街19号",
+      "lat": 39.952718,
+      "lng": 116.348337
+    },
+    {
+      "id": 659,
+      "spaceType": "空手道馆",
+      "spaceName": "元融会空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区航天桥西三环世纪经贸大厦A座905室",
+      "address2": "航天桥西三环世纪经贸大厦A座905室",
+      "lat": 39.935146,
+      "lng": 116.317427
+    },
+    {
+      "id": 660,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中塔羽动羽毛球俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区公主坟/万寿路西三环中路11号",
+      "address2": "公主坟/万寿路西三环中路11号",
+      "lat": 39.924753,
+      "lng": 116.312929
+    },
+    {
+      "id": 661,
+      "spaceType": "桌游吧",
+      "spaceName": "假面骑士狼人杀俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交通大学路交大嘉园5栋底商假面club",
+      "address2": "交通大学路交大嘉园5栋底商假面club",
+      "lat": 39.955657,
+      "lng": 116.353049
+    },
+    {
+      "id": 662,
+      "spaceType": "轰趴馆",
+      "spaceName": "优士帝轰趴馆Party House",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交通大学路交大嘉园1号院5-6号楼底商",
+      "address2": "交通大学路交大嘉园1号院5-6号楼底商",
+      "lat": 39.954821,
+      "lng": 116.351475
+    },
+    {
+      "id": 663,
+      "spaceType": "DIY手工坊",
+      "spaceName": "大爱金工银饰diy",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交大东路66号院钻河中心1号1楼1-120室",
+      "address2": "交大东路66号院钻河中心1号1楼1-120室",
+      "lat": 39.950201,
+      "lng": 116.357817
+    },
+    {
+      "id": 664,
+      "spaceType": "桌游吧",
+      "spaceName": "惑星桌游",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交大东路60号舒至嘉园4号楼背面底商",
+      "address2": "交大东路60号舒至嘉园4号楼背面底商",
+      "lat": 39.952904,
+      "lng": 116.356175
+    },
+    {
+      "id": 665,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路69号蓝色港湾购物中心5楼",
+      "address2": "五棵松复兴路69号蓝色港湾购物中心5楼",
+      "lat": 39.918372,
+      "lng": 116.283281
+    },
+    {
+      "id": 666,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路69号五棵松Hi-UpB1层501-503室",
+      "address2": "五棵松复兴路69号五棵松Hi-UpB1层501-503室",
+      "lat": 39.916132,
+      "lng": 116.277952
+    },
+    {
+      "id": 667,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路51号凯德晶品3楼东侧",
+      "address2": "五棵松复兴路51号凯德晶品3楼东侧",
+      "lat": 39.915055,
+      "lng": 116.30327
+    },
+    {
+      "id": 668,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "y7瑜伽培训机构馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松丽泽雅苑6号楼301",
+      "address2": "五棵松丽泽雅苑6号楼301",
+      "lat": 39.912522,
+      "lng": 116.275293
+    },
+    {
+      "id": 669,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "屹婵瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松八里庄路62号院定慧福里1号楼五层508室",
+      "address2": "五棵松八里庄路62号院定慧福里1号楼五层508室",
+      "lat": 39.934445,
+      "lng": 116.283146
+    },
+    {
+      "id": 670,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "锦云舒瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松西翠路17号院17号楼五单元202室",
+      "address2": "五棵松西翠路17号院17号楼五单元202室",
+      "lat": 39.920904,
+      "lng": 116.285867
+    },
+    {
+      "id": 671,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "志强园健身会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松志强北园北",
+      "address2": "五棵松志强北园北",
+      "lat": 39.960073,
+      "lng": 116.372056
+    },
+    {
+      "id": 672,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "玉海园.境瑜伽培训机构会馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松玉海园五里20号楼久筑物业三层",
+      "address2": "五棵松玉海园五里20号楼久筑物业三层",
+      "lat": 39.927352,
+      "lng": 116.266201
+    },
+    {
+      "id": 673,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "北京天润明鸽舞蹈中心",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松永定路百郎园A座",
+      "address2": "五棵松永定路百郎园A座",
+      "lat": 39.916132,
+      "lng": 116.277952
+    },
+    {
+      "id": 674,
+      "spaceType": "羽毛球馆",
+      "spaceName": "羽网天下羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松永定路西里小区12号楼",
+      "address2": "五棵松永定路西里小区12号楼",
+      "lat": 39.912616,
+      "lng": 116.269183
+    },
+    {
+      "id": 675,
+      "spaceType": "桌游吧",
+      "spaceName": "神之眼狼人杀俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五道口东升园12号楼地下一层D06",
+      "address2": "五道口东升园12号楼地下一层D06",
+      "lat": 39.99422,
+      "lng": 116.344168
+    },
+    {
+      "id": 676,
+      "spaceType": "私人影院",
+      "spaceName": "V映私人影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五道口地铁站西南角华清嘉园1号楼底商",
+      "address2": "五道口地铁站西南角华清嘉园1号楼底商",
+      "lat": 39.997941,
+      "lng": 116.343319
+    },
+    {
+      "id": 677,
+      "spaceType": "KTV",
+      "spaceName": "流金岁月音乐广场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区金沟河路19号万城大厦4楼",
+      "address2": "金沟河路19号万城大厦4楼",
+      "lat": 39.924119,
+      "lng": 116.267708
+    },
+    {
+      "id": 678,
+      "spaceType": "KTV",
+      "spaceName": "鑫百顺城",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区玉泉路3号",
+      "address2": "玉泉路3号",
+      "lat": 39.931294,
+      "lng": 116.258658
+    },
+    {
+      "id": 679,
+      "spaceType": "羽毛球馆",
+      "spaceName": "泰川羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区京包路7号",
+      "address2": "京包路7号",
+      "lat": 40.088583,
+      "lng": 116.296085
+    },
+    {
+      "id": 680,
+      "spaceType": "美术馆",
+      "spaceName": "趣过北京错觉装置艺术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学清路甲8号圣熙8号购物中心4楼",
+      "address2": "学清路甲8号圣熙8号购物中心4楼",
+      "lat": 40.014234,
+      "lng": 116.36058
+    },
+    {
+      "id": 681,
+      "spaceType": "舞蹈室",
+      "spaceName": "X-Square Dance Lab",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学清路甲18号中关村东升科技园学院8号大厦D座电梯",
+      "address2": "学清路甲18号中关村东升科技园学院8号大厦D座电梯",
+      "lat": 40.015304,
+      "lng": 116.360599
+    },
+    {
+      "id": 682,
+      "spaceType": "健身房",
+      "spaceName": "唯朗健身俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学院路科大天工大厦A座3层",
+      "address2": "学院路科大天工大厦A座3层",
+      "lat": 39.993897,
+      "lng": 116.3621
+    },
+    {
+      "id": 683,
+      "spaceType": "书店",
+      "spaceName": "言几又",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区海淀图书城西大街35号3栋1层，中关村创业大街内",
+      "address2": "海淀图书城西大街35号3栋1层，中关村创业大街内",
+      "lat": 39.989433,
+      "lng": 116.313141
+    },
+    {
+      "id": 684,
+      "spaceType": "空手道馆",
+      "spaceName": "国际空手道联盟极真会馆龚道场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区花园路甲2号同观商业中心B1层",
+      "address2": "花园路甲2号同观商业中心B1层",
+      "lat": 39.986042,
+      "lng": 116.372462
+    },
+    {
+      "id": 685,
+      "spaceType": "DIY手工坊",
+      "spaceName": "度态制造",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区花园路13号院天博中润2-219",
+      "address2": "花园路13号院天博中润2-219",
+      "lat": 39.978875,
+      "lng": 116.37193
+    },
+    {
+      "id": 686,
+      "spaceType": "DIY手工坊",
+      "spaceName": "涂乐汇(DIY手绘零基础画室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区杏石口路南艺术家工坊132号",
+      "address2": "杏石口路南艺术家工坊132号",
+      "lat": 39.959785,
+      "lng": 116.239418
+    }
+  ]
+}

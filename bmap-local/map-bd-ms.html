@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />  
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <title>BaiduMapDevelop</title>
+	    <link rel="stylesheet" type="text/css" href="css/lib/bootstrap.min.css" />
+	    <link rel="stylesheet" type="text/css" href="css/lib/mui.min.css" />
+	    <link rel="stylesheet" type="text/css" href="css/base.css" />
+	    <link rel="stylesheet" type="text/css" href="css/map-bd.css" />
+	    <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+	    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=申请的浏览器端AK"></script>
+	</head>
+	<body>
+		<!--工具盒-->
+		<div class="tools-box">
+			<button type="button" class="btn btn-default tool-expand-btn" aria-label="Left Align">
+				<span class="glyphicon glyphicon-resize-full" aria-hidden="true"></span>
+			</button>
+		</div>
+		<!--搜索区-->
+		<div class="search-box">
+			<table id="myPageTop" class="table table-bordered">
+				<tr>
+					<td class="ct">
+						<div class="tool-shrink-btn">
+							<span class="glyphicon glyphicon-resize-small" aria-hidden="true"></span>
+						</div>
+						<button class="space-list-btn">
+							<span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>
+						</button>
+					</td>
+				</tr>
+				<tr>
+					<td class="ct">
+						<select id="districtSlt">
+							<option value="">请选择区</option>
+							<!-- <option value="test">测试区</option> -->
+							<option value="dongcheng">东城区</option>
+							<option value="fengtai">丰台区</option>
+							<option value="daxing">大兴区</option>
+							<option value="miyun">密云县</option>
+							<option value="pinggu">平谷区</option>
+							<option value="yanqing">延庆县</option>
+							<option value="huairou">怀柔区</option>
+							<option value="fangshan">房山区</option>
+							<option value="changping">昌平区</option>
+							<option value="chaoyang">朝阳区</option>
+							<option value="haidian">海淀区</option>
+							<option value="shijingshan">石景山区</option>
+							<option value="xicheng">西城区</option>
+							<option value="tongzhou">通州区</option>
+							<option value="shunyi">顺义区</option>
+						</select>
+					</td>
+				</tr>
+				<tr style="display: none;">
+					<td class="">
+						<input type="radio" name="searchType" value="keyword" checked="checked" style="display: none;" />
+						<input type="text" name="txtSearch" id="txtSearch" value="" placeholder="请输入地址" id="address" />
+						<button class="btn-search">
+							<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+						</button>
+					</td>
+				</tr>
+				<tr style="display: none;">
+					<td class="">
+						<input type="hidden" value="" id="addressCopy" placeholder="地址信息副本" />
+						<input type="text" value="" placeholder="地址坐标" id="txtCoordinate" name="coordinate" class="coordinate" readonly="readonly" />
+						<button class="save-result">
+							<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+						</button>
+					</td>
+				</tr>
+			</table>
+			<div id="txtSearchMessage" class="message hide"><!--提示信息--></div>
+		</div>
+		<!--地图容器-->
+		<div id="mapContainer" class="map-container">
+			<div id="container" class="map-container"></div>
+		</div>
+
+		<!--Mui 蒙板-->
+        <div class="mui-backdrop2" style="display: none;"></div>
+        <!-- 遮罩 -->
+        <div class="zhezhao">
+            <div class="sk-double-bounce">
+                <div class="sk-child sk-double-bounce1"></div>
+                <div class="sk-child sk-double-bounce2"></div>
+            </div>
+        </div>
+        <!--分页-->
+        <div class="page-box">
+			<button class="btn btn-info batch-update-btn" type="button" style="display: none;">批量更新坐标</button>
+			<button class="btn btn-default previous-btn" type="button" disabled="disabled">上一页</button>
+			<button class="btn btn-default next-btn" type="button">下一页</button>
+		</div>
+		<!--空间列表-->
+		<div class="space-list-layer">
+			<div class="interface-datas" data-index="" data-status=""><!--接口数据--></div>
+			<table id="spaceListTbl" class="table table-bordered">
+				<thead>
+					<th>序号</th>
+					<th>空间类别</th>
+					<th>空间名</th>
+					<th>所在区</th>
+					<th>空间地址</th>
+					<th>坐标</th>
+					<!-- <th>操作</th> -->
+				</thead>
+				<tr>
+					<td>1</td>
+					<td>奥斯卡京东方哈可视对讲返回</td>
+					<td>
+						<button class="btn btn-default">编辑</button>
+						<button class="btn btn-danger">删除</button>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<!-- Bootstrap core JavaScript -->
+        <script type="text/javascript" src="scripts/lib/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="scripts/lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="scripts/lib/mui.min.js"></script>
+        <script type="text/javascript" src="scripts/note/modernizr.custom.js"></script>
+        <!-- page JavaScript -->
+		<script type="text/javascript" src="scripts/tools/global-m.js"></script>
+		<script type="text/javascript" src="scripts/map-bd-ms.js"></script>
+		<script type="text/javascript">document.title = "空间走访";</script>
+	</body>
+</html>

@@ -1,0 +1,6888 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 1,
+      "spaceType": "瘦身会所",
+      "spaceName": "瑜伽瘦身主题馆",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义站前东街天地悦港城A座2层218室",
+      "address2": "顺义站前东街天地悦港城A座2层218室",
+      "lat": 40.008178,
+      "lng": 116.484925
+    },
+    {
+      "id": 2,
+      "spaceType": "瘦身会所",
+      "spaceName": "亚太三宝专业减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园二区南门7号楼底商",
+      "address2": "顺义裕龙花园二区南门7号楼底商",
+      "lat": 40.126131,
+      "lng": 116.672176
+    },
+    {
+      "id": 3,
+      "spaceType": "瘦身会所",
+      "spaceName": "老太太火罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园三区14号楼底商",
+      "address2": "顺义裕龙花园三区14号楼底商",
+      "lat": 40.126131,
+      "lng": 116.672176
+    },
+    {
+      "id": 4,
+      "spaceType": "瘦身会所",
+      "spaceName": "寇氏减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义裕龙花园4区8号楼8-9西侧",
+      "address2": "顺义裕龙花园4区8号楼8-9西侧",
+      "lat": 40.126548,
+      "lng": 116.679618
+    },
+    {
+      "id": 5,
+      "spaceType": "瘦身会所",
+      "spaceName": "寇氏魔罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义万科四季花城南门",
+      "address2": "顺义万科四季花城南门",
+      "lat": 40.129794,
+      "lng": 116.645044
+    },
+    {
+      "id": 6,
+      "spaceType": "瘦身会所",
+      "spaceName": "享受就瘦",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义双兴北区7号楼1单元302",
+      "address2": "顺义双兴北区7号楼1单元302",
+      "lat": 40.148056,
+      "lng": 116.662399
+    },
+    {
+      "id": 7,
+      "spaceType": "瘦身会所",
+      "spaceName": "火罐减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义前景路东50米",
+      "address2": "顺义前景路东50米",
+      "lat": 40.13216,
+      "lng": 116.643307
+    },
+    {
+      "id": 8,
+      "spaceType": "瘦身会所",
+      "spaceName": "北京清潞源美容美发店",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义幸福东区丙18号楼5单元102",
+      "address2": "顺义幸福东区丙18号楼5单元102",
+      "lat": 40.141885,
+      "lng": 116.664447
+    },
+    {
+      "id": 9,
+      "spaceType": "瘦身会所",
+      "spaceName": "利明雪莲女子减肥",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义光明府前东街东兴",
+      "address2": "顺义光明府前东街东兴",
+      "lat": 40.13575,
+      "lng": 116.668649
+    },
+    {
+      "id": 10,
+      "spaceType": "瘦身会所",
+      "spaceName": "伊人国际减肥美体终点站",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区顺义光明南街建新北区南门33号楼5单元102门",
+      "address2": "顺义光明南街建新北区南门33号楼5单元102门",
+      "lat": 40.128345,
+      "lng": 116.659623
+    },
+    {
+      "id": 11,
+      "spaceType": "咖啡店",
+      "spaceName": "罗马湖Radiance Café",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区罗各庄罗马湖南岸左堤路7号",
+      "address2": "罗各庄罗马湖南岸左堤路7号",
+      "lat": 40.106622,
+      "lng": 116.529117
+    },
+    {
+      "id": 12,
+      "spaceType": "别墅",
+      "spaceName": "罗马湖美术馆别墅",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区沙峪街道罗马湖",
+      "address2": "沙峪街道罗马湖",
+      "lat": 40.108221,
+      "lng": 116.520703
+    },
+    {
+      "id": 13,
+      "spaceType": "别墅",
+      "spaceName": "11居可住30人聚会婚礼团建",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区后沙峪后沙峪西田各庄",
+      "address2": "后沙峪后沙峪西田各庄",
+      "lat": 40.111767,
+      "lng": 116.551449
+    },
+    {
+      "id": 14,
+      "spaceType": "别墅",
+      "spaceName": "顺义聚游记别墅",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区翰林书画院",
+      "address2": "翰林书画院",
+      "lat": 40.154951,
+      "lng": 116.728229
+    },
+    {
+      "id": 15,
+      "spaceType": "轰趴馆",
+      "spaceName": "【私处】轰趴工作室",
+      "spaceCounty": "顺义区",
+      "address1": "顺义区后沙峪罗马湖左堤路罗各庄甲三号底商9-10号",
+      "address2": "后沙峪罗马湖左堤路罗各庄甲三号底商9-10号",
+      "lat": 40.111767,
+      "lng": 116.551449
+    },
+    {
+      "id": 16,
+      "spaceType": "别墅",
+      "spaceName": "怀柔山里的度假别墅",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区怀柔幽谷神潭对面黄土梁村",
+      "address2": "怀柔幽谷神潭对面黄土梁村",
+      "lat": 40.536849,
+      "lng": 116.679954
+    },
+    {
+      "id": 17,
+      "spaceType": "别墅",
+      "spaceName": "茶马古道上的那家客栈",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区怀柔河防口村311号",
+      "address2": "怀柔河防口村311号",
+      "lat": 40.440769,
+      "lng": 116.679755
+    },
+    {
+      "id": 18,
+      "spaceType": "别墅",
+      "spaceName": "怀柔慕田峪红螺寺",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区西三村临100号西院别墅",
+      "address2": "西三村临100号西院别墅",
+      "lat": 40.372879,
+      "lng": 116.60095
+    },
+    {
+      "id": 19,
+      "spaceType": "别墅",
+      "spaceName": "怀柔慕田峪雁西湖皇家林园",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区莲花池村",
+      "address2": "莲花池村",
+      "lat": 40.448884,
+      "lng": 116.588744
+    },
+    {
+      "id": 20,
+      "spaceType": "轰趴馆",
+      "spaceName": "谜墓诡窟密室",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马连道卫强校甲40号中都雅润B1层",
+      "address2": "马连道卫强校甲40号中都雅润B1层",
+      "lat": 39.879319,
+      "lng": 116.334733
+    },
+    {
+      "id": 21,
+      "spaceType": "轰趴馆",
+      "spaceName": "朋派乐活",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马连道中里三区4号楼北侧入口地下一层",
+      "address2": "马连道中里三区4号楼北侧入口地下一层",
+      "lat": 39.890999,
+      "lng": 116.337642
+    },
+    {
+      "id": 22,
+      "spaceType": "咖啡馆",
+      "spaceName": "茶咖包间",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马家堡东路七克拉东门院内7号楼16层",
+      "address2": "马家堡东路七克拉东门院内7号楼16层",
+      "lat": 39.845671,
+      "lng": 116.391753
+    },
+    {
+      "id": 23,
+      "spaceType": "轰趴馆",
+      "spaceName": "朋友圈轰趴馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马家堡东路121号7克拉2号楼219室",
+      "address2": "马家堡东路121号7克拉2号楼219室",
+      "lat": 39.845671,
+      "lng": 116.391753
+    },
+    {
+      "id": 24,
+      "spaceType": "舞蹈室",
+      "spaceName": "928舞蹈工作室",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马家堡东路106号自然新天地928、901室",
+      "address2": "马家堡东路106号自然新天地928、901室",
+      "lat": 39.847797,
+      "lng": 116.394563
+    },
+    {
+      "id": 25,
+      "spaceType": "轰趴馆",
+      "spaceName": "爱聚屋",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马家堡路180号蓝光云鼎912",
+      "address2": "马家堡路180号蓝光云鼎912",
+      "lat": 39.841382,
+      "lng": 116.385769
+    },
+    {
+      "id": 26,
+      "spaceType": "肚皮舞培训室",
+      "spaceName": "格洛莉雅舞蹈培训中心",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区马家堡西路15号时代风帆大厦2区1902",
+      "address2": "马家堡西路15号时代风帆大厦2区1902",
+      "lat": 39.852702,
+      "lng": 116.376507
+    },
+    {
+      "id": 27,
+      "spaceType": "溜冰场",
+      "spaceName": "风采轮滑培训俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区开阳里小区",
+      "address2": "开阳里小区",
+      "lat": 39.871396,
+      "lng": 116.375732
+    },
+    {
+      "id": 28,
+      "spaceType": "足球馆",
+      "spaceName": "紫谷庄园足球俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区卢沟桥农场路紫谷庄园足球场",
+      "address2": "卢沟桥农场路紫谷庄园足球场",
+      "lat": 39.838747,
+      "lng": 116.242823
+    },
+    {
+      "id": 29,
+      "spaceType": "轰趴馆",
+      "spaceName": "对门轰趴馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区刘家窑方群公寓C座801室",
+      "address2": "刘家窑方群公寓C座801室",
+      "lat": 39.866428,
+      "lng": 116.420749
+    },
+    {
+      "id": 30,
+      "spaceType": "花店",
+      "spaceName": "花悦",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区丰桥路三环新城6号院3号楼甲3-56号",
+      "address2": "丰桥路三环新城6号院3号楼甲3-56号",
+      "lat": 39.85682,
+      "lng": 116.315759
+    },
+    {
+      "id": 31,
+      "spaceType": "花店",
+      "spaceName": "唯爱(北京二十一店)",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区丰台路口西四环南路19号花之恋鲜花店",
+      "address2": "丰台路口西四环南路19号花之恋鲜花店",
+      "lat": 39.872982,
+      "lng": 116.299004
+    },
+    {
+      "id": 32,
+      "spaceType": "花店",
+      "spaceName": "万宁花语鲜花(看丹桥店)",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区丰台南路120号",
+      "address2": "丰台南路120号",
+      "lat": 39.847141,
+      "lng": 116.294758
+    },
+    {
+      "id": 33,
+      "spaceType": "花店",
+      "spaceName": "花千束品牌鲜花馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区东大街西里",
+      "address2": "东大街西里",
+      "lat": 39.867908,
+      "lng": 116.297392
+    },
+    {
+      "id": 34,
+      "spaceType": "舞蹈室",
+      "spaceName": "m.t舞蹈工作室",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区东大街嘉城广场D座3号楼605 M.T舞蹈工作室",
+      "address2": "东大街嘉城广场D座3号楼605 M.T舞蹈工作室",
+      "lat": 39.86305,
+      "lng": 116.29906
+    },
+    {
+      "id": 35,
+      "spaceType": "轰趴馆",
+      "spaceName": "房车轰趴馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区东三环南路98号高和蓝峰大厦1层",
+      "address2": "东三环南路98号高和蓝峰大厦1层",
+      "lat": 39.871307,
+      "lng": 116.468534
+    },
+    {
+      "id": 36,
+      "spaceType": "花店",
+      "spaceName": "四季百盛花房",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区槐房西路316号院",
+      "address2": "槐房西路316号院",
+      "lat": 39.812545,
+      "lng": 116.375937
+    },
+    {
+      "id": 37,
+      "spaceType": "肚皮舞培训室",
+      "spaceName": "舞拳拳击工作室",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区怡海花园恒泰园10号楼105",
+      "address2": "怡海花园恒泰园10号楼105",
+      "lat": 39.840629,
+      "lng": 116.306751
+    },
+    {
+      "id": 38,
+      "spaceType": "私人影院",
+      "spaceName": "森森私家影院",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区六里桥北京西站太平桥东里",
+      "address2": "六里桥北京西站太平桥东里",
+      "lat": 39.903473,
+      "lng": 116.327694
+    },
+    {
+      "id": 39,
+      "spaceType": "私人影院",
+      "spaceName": "疯狂影酷(北京银座和谐广场店)",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区六里桥/丽泽桥六里桥莲宝中路银座和谐广场5",
+      "address2": "六里桥/丽泽桥六里桥莲宝中路银座和谐广场5",
+      "lat": 39.887809,
+      "lng": 116.304566
+    },
+    {
+      "id": 40,
+      "spaceType": "私人影院",
+      "spaceName": "漫步情侣",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区洋桥/木樨园永定门外大街101-2号附近",
+      "address2": "洋桥/木樨园永定门外大街101-2号附近",
+      "lat": 39.867094,
+      "lng": 116.415909
+    },
+    {
+      "id": 41,
+      "spaceType": "足球馆",
+      "spaceName": "万芳亭公园足球场",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区木樨园洋桥西里甲2号万芳亭公园内",
+      "address2": "木樨园洋桥西里甲2号万芳亭公园内",
+      "lat": 39.864794,
+      "lng": 116.382489
+    },
+    {
+      "id": 42,
+      "spaceType": "溜冰场",
+      "spaceName": "奥康店",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区木樨园京温服装市场二期4168",
+      "address2": "木樨园京温服装市场二期4168",
+      "lat": 39.855942,
+      "lng": 116.40607
+    },
+    {
+      "id": 43,
+      "spaceType": "网球场",
+      "spaceName": "得乐网球培训",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区田各庄路321号",
+      "address2": "田各庄路321号",
+      "lat": 39.87845,
+      "lng": 116.274687
+    },
+    {
+      "id": 44,
+      "spaceType": "别墅",
+      "spaceName": "罗马假日欧式精装",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区泉湖东路青龙湖旁高档别墅区",
+      "address2": "泉湖东路青龙湖旁高档别墅区",
+      "lat": 39.793886,
+      "lng": 116.088129
+    },
+    {
+      "id": 45,
+      "spaceType": "别墅",
+      "spaceName": "龙湖景区独栋别墅",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区王佐乡羊圈头村",
+      "address2": "王佐乡羊圈头村",
+      "lat": 39.84747,
+      "lng": 116.088999
+    },
+    {
+      "id": 46,
+      "spaceType": "足球馆",
+      "spaceName": "爱踢客青少年足球俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区北京西站/六里桥岳各庄东路万丰公园足球场",
+      "address2": "北京西站/六里桥岳各庄东路万丰公园足球场",
+      "lat": 39.889811,
+      "lng": 116.299903
+    },
+    {
+      "id": 47,
+      "spaceType": "轰趴馆",
+      "spaceName": "绘心乐活馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区方庄南路58号院晶城秀府12号楼207室",
+      "address2": "方庄南路58号院晶城秀府12号楼207室",
+      "lat": 39.8527,
+      "lng": 116.446749
+    },
+    {
+      "id": 48,
+      "spaceType": "溜冰场",
+      "spaceName": "飞速轮滑培训班",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区方庄体育公园",
+      "address2": "方庄体育公园",
+      "lat": 39.87305,
+      "lng": 116.434687
+    },
+    {
+      "id": 49,
+      "spaceType": "足球馆",
+      "spaceName": "颐方会馆-足球场",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区方庄成寿寺路甲12号",
+      "address2": "方庄成寿寺路甲12号",
+      "lat": 39.85957,
+      "lng": 116.454511
+    },
+    {
+      "id": 50,
+      "spaceType": "私人影院",
+      "spaceName": "万达影城",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区分钟寺/成寿寺万达广场西门金街",
+      "address2": "分钟寺/成寿寺万达广场西门金街",
+      "lat": 39.859682,
+      "lng": 116.455575
+    },
+    {
+      "id": 51,
+      "spaceType": "轰趴馆",
+      "spaceName": "樂未央百人轰趴馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区南四环西路188号总部基地17区",
+      "address2": "南四环西路188号总部基地17区",
+      "lat": 39.829292,
+      "lng": 116.298718
+    },
+    {
+      "id": 52,
+      "spaceType": "花店",
+      "spaceName": "九州花语轩",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区南四环西路178",
+      "address2": "南四环西路178",
+      "lat": 39.835737,
+      "lng": 116.300049
+    },
+    {
+      "id": 53,
+      "spaceType": "足球馆",
+      "spaceName": "gogo泡泡足球俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区南四环西路128号院4号楼12层1515-1516室",
+      "address2": "南四环西路128号院4号楼12层1515-1516室",
+      "lat": 39.835436,
+      "lng": 116.304898
+    },
+    {
+      "id": 54,
+      "spaceType": "轰趴馆",
+      "spaceName": "全友聚会轰趴馆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区南三环中路70号南曦大厦底商华夏金融会所三层",
+      "address2": "南三环中路70号南曦大厦底商华夏金融会所三层",
+      "lat": 39.862612,
+      "lng": 116.408355
+    },
+    {
+      "id": 55,
+      "spaceType": "轰趴馆",
+      "spaceName": "聚齐发小儿Club",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区南苑团河路民俗旅游文化街西37号",
+      "address2": "南苑团河路民俗旅游文化街西37号",
+      "lat": 39.801449,
+      "lng": 116.384038
+    },
+    {
+      "id": 56,
+      "spaceType": "足球馆",
+      "spaceName": "舒华五人制足球场",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区大红门路舒华五人制足球场",
+      "address2": "大红门路舒华五人制足球场",
+      "lat": 39.850063,
+      "lng": 116.413873
+    },
+    {
+      "id": 57,
+      "spaceType": "私人影院",
+      "spaceName": "家庭影院体验厅",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区草桥西路草桥欣园4区附近",
+      "address2": "草桥西路草桥欣园4区附近",
+      "lat": 39.850829,
+      "lng": 116.357615
+    },
+    {
+      "id": 58,
+      "spaceType": "溜冰场",
+      "spaceName": "龙城旱冰场",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区草桥右外斜街与中顶村路交汇北侧",
+      "address2": "草桥右外斜街与中顶村路交汇北侧",
+      "lat": 39.862456,
+      "lng": 116.365127
+    },
+    {
+      "id": 59,
+      "spaceType": "肚皮舞培训室",
+      "spaceName": "纳兰舞社",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区宋庄路71号扑满山大厦3号楼1202室",
+      "address2": "宋庄路71号扑满山大厦3号楼1202室",
+      "lat": 39.85143,
+      "lng": 116.433849
+    },
+    {
+      "id": 60,
+      "spaceType": "私人影院",
+      "spaceName": "云乐迪私影汇",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区宋庄路71号扑满山2层",
+      "address2": "宋庄路71号扑满山2层",
+      "lat": 39.851196,
+      "lng": 116.43406
+    },
+    {
+      "id": 61,
+      "spaceType": "花店",
+      "spaceName": "爱慕鲜花(开心花坊鲜花婚庆",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区宋庄路18号开心花坊鲜花婚庆",
+      "address2": "宋庄路18号开心花坊鲜花婚庆",
+      "lat": 39.85651,
+      "lng": 116.435199
+    },
+    {
+      "id": 62,
+      "spaceType": "足球馆",
+      "spaceName": "华夏醒狮足球俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区青塔卢沟桥",
+      "address2": "青塔卢沟桥",
+      "lat": 39.903675,
+      "lng": 116.274817
+    },
+    {
+      "id": 63,
+      "spaceType": "花店",
+      "spaceName": "兰景丽园鲜花(青塔店)",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区青塔西路1号",
+      "address2": "青塔西路1号",
+      "lat": 39.900983,
+      "lng": 116.270697
+    },
+    {
+      "id": 64,
+      "spaceType": "肚皮舞培训室",
+      "spaceName": "英姿东方舞",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区成寿寺路甲12号",
+      "address2": "成寿寺路甲12号",
+      "lat": 39.85957,
+      "lng": 116.454511
+    },
+    {
+      "id": 65,
+      "spaceType": "私人影院",
+      "spaceName": "第六感影吧西餐厅",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区新发地银地家园B区",
+      "address2": "新发地银地家园B区",
+      "lat": 39.825162,
+      "lng": 116.337974
+    },
+    {
+      "id": 66,
+      "spaceType": "花店",
+      "spaceName": "小怪兽的花",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区城南嘉园",
+      "address2": "城南嘉园",
+      "lat": 39.841811,
+      "lng": 116.375941
+    },
+    {
+      "id": 67,
+      "spaceType": "花店",
+      "spaceName": "唯爱花艺(丰台店)",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区七里庄丰台东大街5号院社区",
+      "address2": "七里庄丰台东大街5号院社区",
+      "lat": 39.868291,
+      "lng": 116.30401
+    },
+    {
+      "id": 68,
+      "spaceType": "私人影院",
+      "spaceName": "天际影视",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区旧宫南苑路和义东里京都酒厂院内7号楼",
+      "address2": "旧宫南苑路和义东里京都酒厂院内7号楼",
+      "lat": 39.820011,
+      "lng": 116.41273
+    },
+    {
+      "id": 69,
+      "spaceType": "足球馆",
+      "spaceName": "北京银潮足球俱乐部",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区蒲方路芳星园二区11层",
+      "address2": "蒲方路芳星园二区11层",
+      "lat": 39.870452,
+      "lng": 116.44176
+    },
+    {
+      "id": 70,
+      "spaceType": "足球馆",
+      "spaceName": "国际米兰足球青训",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区花乡南四环西路129号北京八中怡海分校",
+      "address2": "花乡南四环西路129号北京八中怡海分校",
+      "lat": 39.840462,
+      "lng": 116.308939
+    },
+    {
+      "id": 71,
+      "spaceType": "足球馆",
+      "spaceName": "南宫体育公园足球训练营",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区云岗南宫滨河路",
+      "address2": "云岗南宫滨河路",
+      "lat": 39.80697,
+      "lng": 116.150553
+    },
+    {
+      "id": 72,
+      "spaceType": "肚皮舞培训室",
+      "spaceName": "传雅体育发展有限公司",
+      "spaceCounty": "丰台区",
+      "address1": "丰台区云岗南宫路8号院6号楼28号",
+      "address2": "云岗南宫路8号院6号楼28号",
+      "lat": 39.810595,
+      "lng": 116.164408
+    },
+    {
+      "id": 73,
+      "spaceType": "酒吧",
+      "spaceName": "胡同儿Bar",
+      "spaceCounty": "东城区",
+      "address1": "东城区铁树斜街109号",
+      "address2": "铁树斜街109号",
+      "lat": 39.898642,
+      "lng": 116.393275
+    },
+    {
+      "id": 74,
+      "spaceType": "酒吧",
+      "spaceName": "春光酒吧",
+      "spaceCounty": "东城区",
+      "address1": "东城区簋街西口板桥南巷人民美术印刷厂",
+      "address2": "簋街西口板桥南巷人民美术印刷厂",
+      "lat": 39.944944,
+      "lng": 116.424091
+    },
+    {
+      "id": 75,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "莲新瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区兴化西里15号楼底商",
+      "address2": "兴化西里15号楼底商",
+      "lat": 39.968097,
+      "lng": 116.41703
+    },
+    {
+      "id": 76,
+      "spaceType": "咖啡馆",
+      "spaceName": "幸福咖啡馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东环广场A座1层（亮视点）",
+      "address2": "东环广场A座1层（亮视点）",
+      "lat": 39.944579,
+      "lng": 116.442936
+    },
+    {
+      "id": 77,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "锦上禅瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区东单北大街国旅大厦D1楼",
+      "address2": "东单北大街国旅大厦D1楼",
+      "lat": 39.921225,
+      "lng": 116.423699
+    },
+    {
+      "id": 78,
+      "spaceType": "茶馆",
+      "spaceName": "观什茶舍",
+      "spaceCounty": "东城区",
+      "address1": "东城区东单王府井银泰in88五层",
+      "address2": "东单王府井银泰in88五层",
+      "lat": 39.914785,
+      "lng": 116.424934
+    },
+    {
+      "id": 79,
+      "spaceType": "轰趴馆",
+      "spaceName": "集合石轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门东方银座B座29e",
+      "address2": "东直门东方银座B座29e",
+      "lat": 39.946284,
+      "lng": 116.442872
+    },
+    {
+      "id": 80,
+      "spaceType": "高尔夫球场",
+      "spaceName": "乾坤伟业房地产开发有限公司",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门东中街46号鸿基大厦7层",
+      "address2": "东直门东中街46号鸿基大厦7层",
+      "lat": 39.940965,
+      "lng": 116.443488
+    },
+    {
+      "id": 81,
+      "spaceType": "健身房",
+      "spaceName": "VBROS健身",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门东中街30号东环置业3层",
+      "address2": "东直门东中街30号东环置业3层",
+      "lat": 39.943615,
+      "lng": 116.443282
+    },
+    {
+      "id": 82,
+      "spaceType": "茶馆",
+      "spaceName": "器生茶时",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门北小街聚才大厦A402号",
+      "address2": "东直门北小街聚才大厦A402号",
+      "lat": 39.948439,
+      "lng": 116.428865
+    },
+    {
+      "id": 83,
+      "spaceType": "轰趴馆",
+      "spaceName": "帕丁顿轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门北小街北官厅胡同内20米",
+      "address2": "东直门北小街北官厅胡同内20米",
+      "lat": 39.952829,
+      "lng": 116.43351
+    },
+    {
+      "id": 84,
+      "spaceType": "轰趴馆",
+      "spaceName": "聚优汇交友桌游轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东直门外大街42号宇飞大厦14层1417室",
+      "address2": "东直门外大街42号宇飞大厦14层1417室",
+      "lat": 39.946135,
+      "lng": 116.444009
+    },
+    {
+      "id": 85,
+      "spaceType": "茶馆",
+      "spaceName": "清珠茶道",
+      "spaceCounty": "东城区",
+      "address1": "东城区东城区安定门东大街51号",
+      "address2": "东城区安定门东大街51号",
+      "lat": 39.955033,
+      "lng": 116.421512
+    },
+    {
+      "id": 86,
+      "spaceType": "咖啡厅",
+      "spaceName": "越狱空间咖啡厅",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四北大街107号科林大厦A座B1",
+      "address2": "东四北大街107号科林大厦A座B1",
+      "lat": 39.943756,
+      "lng": 116.422154
+    },
+    {
+      "id": 87,
+      "spaceType": "茶馆",
+      "spaceName": "曲廊院",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四十条东十一条25号",
+      "address2": "东四十条东十一条25号",
+      "lat": 39.939804,
+      "lng": 116.432567
+    },
+    {
+      "id": 88,
+      "spaceType": "轰趴馆",
+      "spaceName": "蘭舍·私人聚会轰趴会馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四十条柏树胡同30号都一斋负一层",
+      "address2": "东四十条柏树胡同30号都一斋负一层",
+      "lat": 39.923795,
+      "lng": 116.420356
+    },
+    {
+      "id": 89,
+      "spaceType": "轰趴馆",
+      "spaceName": "一来二去自拍主题轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四十条32号2楼",
+      "address2": "东四十条32号2楼",
+      "lat": 39.939479,
+      "lng": 116.434519
+    },
+    {
+      "id": 90,
+      "spaceType": "酒吧",
+      "spaceName": "吾肆酒吧",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四四条五十四号",
+      "address2": "东四四条五十四号",
+      "lat": 39.933419,
+      "lng": 116.428231
+    },
+    {
+      "id": 91,
+      "spaceType": "健身房",
+      "spaceName": "一兆韦德健身(瑞士公寓会所)",
+      "spaceCounty": "东城区",
+      "address1": "东城区东四工体北路66号瑞士公寓E座B2楼",
+      "address2": "东四工体北路66号瑞士公寓E座B2楼",
+      "lat": 39.939057,
+      "lng": 116.443919
+    },
+    {
+      "id": 92,
+      "spaceType": "咖啡馆",
+      "spaceName": "醒觉咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区雍和宫大街北新胡同40号雍和宫正门往南走第二个胡同",
+      "address2": "雍和宫大街北新胡同40号雍和宫正门往南走第二个胡同",
+      "lat": 39.950844,
+      "lng": 116.423428
+    },
+    {
+      "id": 93,
+      "spaceType": "轰趴馆",
+      "spaceName": "时光别院·四合院·会议聚会活动",
+      "spaceCounty": "东城区",
+      "address1": "东城区雍和宫大街北新胡同38号",
+      "address2": "雍和宫大街北新胡同38号",
+      "lat": 39.950831,
+      "lng": 116.423702
+    },
+    {
+      "id": 94,
+      "spaceType": "花店",
+      "spaceName": "花治lab店",
+      "spaceCounty": "东城区",
+      "address1": "东城区雍和宫/地坛国子监箭厂胡同25号",
+      "address2": "雍和宫/地坛国子监箭厂胡同25号",
+      "lat": 39.952382,
+      "lng": 116.418039
+    },
+    {
+      "id": 95,
+      "spaceType": "高尔夫球场",
+      "spaceName": "恒华伟业科技股份有限公司",
+      "spaceCounty": "东城区",
+      "address1": "东城区雍和宫/地坛安定门外大街138号皇城国际中心A座十二层",
+      "address2": "雍和宫/地坛安定门外大街138号皇城国际中心A座十二层",
+      "lat": 39.961963,
+      "lng": 116.415162
+    },
+    {
+      "id": 96,
+      "spaceType": "花店",
+      "spaceName": "唯美时光鲜花店",
+      "spaceCounty": "东城区",
+      "address1": "东城区广渠门内大街通正国际大厦向南50米",
+      "address2": "广渠门内大街通正国际大厦向南50米",
+      "lat": 39.898408,
+      "lng": 116.43535
+    },
+    {
+      "id": 97,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "宇曼瑜伽培训机构肚皮舞",
+      "spaceCounty": "东城区",
+      "address1": "东城区广渠门内大街新景家园西花市南里东区15号楼七单元303",
+      "address2": "广渠门内大街新景家园西花市南里东区15号楼七单元303",
+      "lat": 39.900023,
+      "lng": 116.43164
+    },
+    {
+      "id": 98,
+      "spaceType": "轰趴馆",
+      "spaceName": "Openclub-one真人密室逃脱体验馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区广渠门外大街双井优士阁A座2302室",
+      "address2": "广渠门外大街双井优士阁A座2302室",
+      "lat": 39.898501,
+      "lng": 116.465209
+    },
+    {
+      "id": 99,
+      "spaceType": "花店",
+      "spaceName": "先花店",
+      "spaceCounty": "东城区",
+      "address1": "东城区和平里北街和平里一区6号楼底商",
+      "address2": "和平里北街和平里一区6号楼底商",
+      "lat": 39.965162,
+      "lng": 116.429574
+    },
+    {
+      "id": 100,
+      "spaceType": "咖啡馆",
+      "spaceName": "我与地坛the corner",
+      "spaceCounty": "东城区",
+      "address1": "东城区和平里南街西口甲8号B+汽车服务体验中心西侧",
+      "address2": "和平里南街西口甲8号B+汽车服务体验中心西侧",
+      "lat": 39.960213,
+      "lng": 116.425225
+    },
+    {
+      "id": 101,
+      "spaceType": "别墅",
+      "spaceName": "北二环内COCOpark",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门内朝内大街137号孚王府东院科",
+      "address2": "朝阳门内朝内大街137号孚王府东院科",
+      "lat": 39.929785,
+      "lng": 116.440191
+    },
+    {
+      "id": 102,
+      "spaceType": "健身房",
+      "spaceName": "宝力豪健身俱乐部",
+      "spaceCounty": "东城区",
+      "address1": "东城区北京站建国门内大街8号中粮广场C座B2",
+      "address2": "北京站建国门内大街8号中粮广场C座B2",
+      "lat": 39.913026,
+      "lng": 116.43602
+    },
+    {
+      "id": 103,
+      "spaceType": "轰趴馆",
+      "spaceName": "科技森林社交空间",
+      "spaceCounty": "东城区",
+      "address1": "东城区北京站建国门恒基商城B1-35",
+      "address2": "北京站建国门恒基商城B1-35",
+      "lat": 39.911568,
+      "lng": 116.434854
+    },
+    {
+      "id": 104,
+      "spaceType": "健身房",
+      "spaceName": "LIKE 力刻健身",
+      "spaceCounty": "东城区",
+      "address1": "东城区北花市大街2号",
+      "address2": "北花市大街2号",
+      "lat": 39.905916,
+      "lng": 116.434144
+    },
+    {
+      "id": 105,
+      "spaceType": "咖啡馆",
+      "spaceName": "北平咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区南锣鼓巷中段左边",
+      "address2": "南锣鼓巷中段左边",
+      "lat": 39.942648,
+      "lng": 116.409524
+    },
+    {
+      "id": 106,
+      "spaceType": "花店",
+      "spaceName": "多肉植物馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区南锣鼓巷/鼓楼东大街北锣鼓巷101号",
+      "address2": "南锣鼓巷/鼓楼东大街北锣鼓巷101号",
+      "lat": 39.94758,
+      "lng": 116.409346
+    },
+    {
+      "id": 107,
+      "spaceType": "咖啡馆",
+      "spaceName": "豆瓣咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区豆瓣胡同3—5号（近朝阳门）",
+      "address2": "豆瓣胡同3—5号（近朝阳门）",
+      "lat": 39.934072,
+      "lng": 116.438222
+    },
+    {
+      "id": 108,
+      "spaceType": "健身房",
+      "spaceName": "乐刻运动健身",
+      "spaceCounty": "东城区",
+      "address1": "东城区天坛珠市口东大街2号奉泰中心地下一层",
+      "address2": "天坛珠市口东大街2号奉泰中心地下一层",
+      "lat": 39.898645,
+      "lng": 116.422666
+    },
+    {
+      "id": 109,
+      "spaceType": "健身房",
+      "spaceName": "自健身",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门银河SOHO B座20118室",
+      "address2": "朝阳门银河SOHO B座20118室",
+      "lat": 39.927042,
+      "lng": 116.439904
+    },
+    {
+      "id": 110,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "伽提瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门北京INN4号楼A座1009",
+      "address2": "朝阳门北京INN4号楼A座1009",
+      "lat": 39.929785,
+      "lng": 116.440191
+    },
+    {
+      "id": 111,
+      "spaceType": "轰趴馆",
+      "spaceName": "朝内没有狼-狼人杀俱乐部",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门内大街甲190号院5号楼B1",
+      "address2": "朝阳门内大街甲190号院5号楼B1",
+      "lat": 39.929558,
+      "lng": 116.430269
+    },
+    {
+      "id": 112,
+      "spaceType": "花店",
+      "spaceName": "花屋",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门内大街79-3",
+      "address2": "朝阳门内大街79-3",
+      "lat": 39.930717,
+      "lng": 116.436864
+    },
+    {
+      "id": 113,
+      "spaceType": "轰趴馆",
+      "spaceName": "四合院轰趴馆之铁瓷儿",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门地铁H口 禄米仓胡同(奥士凯禄米仓超市)",
+      "address2": "朝阳门地铁H口 禄米仓胡同(奥士凯禄米仓超市)",
+      "lat": 39.923191,
+      "lng": 116.43723
+    },
+    {
+      "id": 114,
+      "spaceType": "高尔夫球场",
+      "spaceName": "德诚乾元体育发展有限公司",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门崇文门广渠门外大街",
+      "address2": "朝阳门崇文门广渠门外大街",
+      "lat": 39.907086,
+      "lng": 116.428209
+    },
+    {
+      "id": 115,
+      "spaceType": "茶馆",
+      "spaceName": "金玄茶道馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区朝阳门SOHO",
+      "address2": "朝阳门SOHO",
+      "lat": 39.928222,
+      "lng": 116.439381
+    },
+    {
+      "id": 116,
+      "spaceType": "轰趴馆",
+      "spaceName": "米宝工厂桌游轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区忠实里南街甲6号崇菜物美超市西门B1",
+      "address2": "忠实里南街甲6号崇菜物美超市西门B1",
+      "lat": 39.900255,
+      "lng": 116.453442
+    },
+    {
+      "id": 117,
+      "spaceType": "茶馆",
+      "spaceName": "陈升福元茶楼",
+      "spaceCounty": "东城区",
+      "address1": "东城区地安门东大街地铁南锣鼓巷站A口西侧10米",
+      "address2": "地安门东大街地铁南锣鼓巷站A口西侧10米",
+      "lat": 39.939729,
+      "lng": 116.409123
+    },
+    {
+      "id": 118,
+      "spaceType": "酒吧",
+      "spaceName": "东岸爵士吧",
+      "spaceCounty": "东城区",
+      "address1": "东城区地安门外大街前海南沿2号楼2楼",
+      "address2": "地安门外大街前海南沿2号楼2楼",
+      "lat": 39.941423,
+      "lng": 116.399719
+    },
+    {
+      "id": 119,
+      "spaceType": "酒吧",
+      "spaceName": "燕家2号",
+      "spaceCounty": "东城区",
+      "address1": "东城区大棚栏西街燕家胡同2号",
+      "address2": "大棚栏西街燕家胡同2号",
+      "lat": 39.900561,
+      "lng": 116.397942
+    },
+    {
+      "id": 120,
+      "spaceType": "高尔夫球场",
+      "spaceName": "国家体育总局训练局高尔夫练习场",
+      "spaceCounty": "东城区",
+      "address1": "东城区体育馆路4号训练局院内",
+      "address2": "体育馆路4号训练局院内",
+      "lat": 39.889988,
+      "lng": 116.433784
+    },
+    {
+      "id": 121,
+      "spaceType": "花店",
+      "spaceName": "MS CHLOE(北京坊店)",
+      "spaceCounty": "东城区",
+      "address1": "东城区前门廊坊头条21号院北京坊西区9号楼101",
+      "address2": "前门廊坊头条21号院北京坊西区9号楼101",
+      "lat": 39.903766,
+      "lng": 116.40164
+    },
+    {
+      "id": 122,
+      "spaceType": "茶馆",
+      "spaceName": "老舍茶馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区前门西大街正阳市场3号楼",
+      "address2": "前门西大街正阳市场3号楼",
+      "lat": 39.906209,
+      "lng": 116.399954
+    },
+    {
+      "id": 123,
+      "spaceType": "花店",
+      "spaceName": "TiAmoFlower缇爱梦生活定制坊",
+      "spaceCounty": "东城区",
+      "address1": "东城区西坝河中里35号UPLANCOFFEE216室",
+      "address2": "西坝河中里35号UPLANCOFFEE216室",
+      "lat": 39.968738,
+      "lng": 116.445215
+    },
+    {
+      "id": 124,
+      "spaceType": "轰趴馆",
+      "spaceName": "AUV真人机械密室逃脱体验馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区西花市大街55号",
+      "address2": "西花市大街55号",
+      "lat": 39.90353,
+      "lng": 116.429259
+    },
+    {
+      "id": 125,
+      "spaceType": "健身房",
+      "spaceName": "Mr.X健身工作室",
+      "spaceCounty": "东城区",
+      "address1": "东城区西花市大街29号2层",
+      "address2": "西花市大街29号2层",
+      "lat": 39.90355,
+      "lng": 116.431562
+    },
+    {
+      "id": 126,
+      "spaceType": "健身房",
+      "spaceName": "LIKE 力刻健身",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门北花市大街2号",
+      "address2": "崇文门北花市大街2号",
+      "lat": 39.905916,
+      "lng": 116.434144
+    },
+    {
+      "id": 127,
+      "spaceType": "咖啡馆",
+      "spaceName": "1901咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门西大街6—2号（近新桥饭店）",
+      "address2": "崇文门西大街6—2号（近新桥饭店）",
+      "lat": 39.906834,
+      "lng": 116.420019
+    },
+    {
+      "id": 128,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "河之洲私人嫵苑(在水一方店",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门西花市大街120号国瑞城A座606室",
+      "address2": "崇文门西花市大街120号国瑞城A座606室",
+      "lat": 39.905226,
+      "lng": 116.426994
+    },
+    {
+      "id": 129,
+      "spaceType": "花店",
+      "spaceName": "一朵思享",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门新世界百货青春馆地下一层",
+      "address2": "崇文门新世界百货青春馆地下一层",
+      "lat": 39.90328,
+      "lng": 116.423488
+    },
+    {
+      "id": 130,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "圣贝瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门新世界二期太华公寓2座903室",
+      "address2": "崇文门新世界二期太华公寓2座903室",
+      "lat": 39.902209,
+      "lng": 116.42351
+    },
+    {
+      "id": 131,
+      "spaceType": "轰趴馆",
+      "spaceName": "四合院轰趴馆之幸会",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门磁器口地铁G口(近新裕商务大厦)",
+      "address2": "崇文门磁器口地铁G口(近新裕商务大厦)",
+      "lat": 39.898671,
+      "lng": 116.426226
+    },
+    {
+      "id": 132,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "瑜舍连锁瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门国瑞城东区3号楼",
+      "address2": "崇文门国瑞城东区3号楼",
+      "lat": 39.903689,
+      "lng": 116.4325
+    },
+    {
+      "id": 133,
+      "spaceType": "茶馆",
+      "spaceName": "吴裕泰茶庄",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门外大街新成文化大厦底商",
+      "address2": "崇文门外大街新成文化大厦底商",
+      "lat": 39.900721,
+      "lng": 116.424661
+    },
+    {
+      "id": 134,
+      "spaceType": "轰趴馆",
+      "spaceName": "colorhouse智能轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门外大街5号新世界太华公寓1座1902",
+      "address2": "崇文门外大街5号新世界太华公寓1座1902",
+      "lat": 39.9031,
+      "lng": 116.423403
+    },
+    {
+      "id": 135,
+      "spaceType": "轰趴馆",
+      "spaceName": "colorhouse智能轰趴馆",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门外大街5号新世界太华公寓1座1902",
+      "address2": "崇文门外大街5号新世界太华公寓1座1902",
+      "lat": 39.9031,
+      "lng": 116.423403
+    },
+    {
+      "id": 136,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "舒朗(新世界店)",
+      "spaceCounty": "东城区",
+      "address1": "东城区崇文门外大街3号新世界商场3楼",
+      "address2": "崇文门外大街3号新世界商场3楼",
+      "lat": 39.903087,
+      "lng": 116.424657
+    },
+    {
+      "id": 137,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "梵灵瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区新怡家园4号楼5单元302",
+      "address2": "新怡家园4号楼5单元302",
+      "lat": 39.903738,
+      "lng": 116.422171
+    },
+    {
+      "id": 138,
+      "spaceType": "花店",
+      "spaceName": "紫藤儿",
+      "spaceCounty": "东城区",
+      "address1": "东城区沙滩/美术馆灯市口美术馆后街68号",
+      "address2": "沙滩/美术馆灯市口美术馆后街68号",
+      "lat": 39.934053,
+      "lng": 116.415625
+    },
+    {
+      "id": 139,
+      "spaceType": "高尔夫球场",
+      "spaceName": "华丽伟业体育场馆建设有限公司",
+      "spaceCounty": "东城区",
+      "address1": "东城区左安门内大街19号",
+      "address2": "左安门内大街19号",
+      "lat": 39.881907,
+      "lng": 116.443822
+    },
+    {
+      "id": 140,
+      "spaceType": "舞蹈室",
+      "spaceName": "YJ 小班制舞蹈瑜伽俱乐部",
+      "spaceCounty": "东城区",
+      "address1": "东城区国瑞城C座505(崇文门地铁G2口，国瑞城购物中心后面)",
+      "address2": "国瑞城C座505(崇文门地铁G2口，国瑞城购物中心后面)",
+      "lat": 39.903975,
+      "lng": 116.425838
+    },
+    {
+      "id": 141,
+      "spaceType": "咖啡馆",
+      "spaceName": "库布里克咖啡书店（Kubrick）",
+      "spaceCounty": "东城区",
+      "address1": "东城区香河园路1号北区（百脑汇电影院对面）",
+      "address2": "香河园路1号北区（百脑汇电影院对面）",
+      "lat": 39.956186,
+      "lng": 116.445716
+    },
+    {
+      "id": 142,
+      "spaceType": "轰趴馆",
+      "spaceName": "Hacker J密室逃脱",
+      "spaceCounty": "东城区",
+      "address1": "东城区幸福家园1号楼1-3号底商地下一层",
+      "address2": "幸福家园1号楼1-3号底商地下一层",
+      "lat": 39.89923,
+      "lng": 116.436221
+    },
+    {
+      "id": 143,
+      "spaceType": "甜品店",
+      "spaceName": "蒲公英甜品点",
+      "spaceCounty": "东城区",
+      "address1": "东城区鼓楼东大街40—6号",
+      "address2": "鼓楼东大街40—6号",
+      "lat": 39.947044,
+      "lng": 116.412881
+    },
+    {
+      "id": 144,
+      "spaceType": "酒吧",
+      "spaceName": "藏真Café&Bar",
+      "spaceCounty": "东城区",
+      "address1": "东城区鼓楼东大街286号",
+      "address2": "鼓楼东大街286号",
+      "lat": 39.946946,
+      "lng": 116.403776
+    },
+    {
+      "id": 145,
+      "spaceType": "酒吧",
+      "spaceName": "The Pool Bar",
+      "spaceCounty": "东城区",
+      "address1": "东城区鼓楼东大街106号",
+      "address2": "鼓楼东大街106号",
+      "lat": 39.947088,
+      "lng": 116.409728
+    },
+    {
+      "id": 146,
+      "spaceType": "酒吧",
+      "spaceName": "四季厅酒吧",
+      "spaceCounty": "东城区",
+      "address1": "东城区建国门内大街9号北京国际饭店2层",
+      "address2": "建国门内大街9号北京国际饭店2层",
+      "lat": 39.915778,
+      "lng": 116.4348
+    },
+    {
+      "id": 147,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "朴筑·瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区金成建国五号1218建国门桥西北300米",
+      "address2": "金成建国五号1218建国门桥西北300米",
+      "lat": 39.91968,
+      "lng": 116.440673
+    },
+    {
+      "id": 148,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "艺加瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区冠城名敦道4号楼6层601",
+      "address2": "冠城名敦道4号楼6层601",
+      "lat": 39.898188,
+      "lng": 116.454797
+    },
+    {
+      "id": 149,
+      "spaceType": "茶馆",
+      "spaceName": "昱翠昱宝",
+      "spaceCounty": "东城区",
+      "address1": "东城区王府井东长安街1号东方广场E3座平层",
+      "address2": "王府井东长安街1号东方广场E3座平层",
+      "lat": 39.915972,
+      "lng": 116.423457
+    },
+    {
+      "id": 150,
+      "spaceType": "轰趴馆",
+      "spaceName": "和密室-日系物语主题密室",
+      "spaceCounty": "东城区",
+      "address1": "东城区王府井大街淘汇新天地购物中心四层",
+      "address2": "王府井大街淘汇新天地购物中心四层",
+      "lat": 39.922645,
+      "lng": 116.417566
+    },
+    {
+      "id": 151,
+      "spaceType": "健身房",
+      "spaceName": "力禾健身会所",
+      "spaceCounty": "东城区",
+      "address1": "东城区王府井大街88-58号",
+      "address2": "王府井大街88-58号",
+      "lat": 39.922306,
+      "lng": 116.418569
+    },
+    {
+      "id": 152,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "悠季瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区王府井大街218-2号东方广场W3座1505室",
+      "address2": "王府井大街218-2号东方广场W3座1505室",
+      "lat": 39.916003,
+      "lng": 116.418664
+    },
+    {
+      "id": 153,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "桔子瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区安乐林路鼎盛园商务楼5号楼503室",
+      "address2": "安乐林路鼎盛园商务楼5号楼503室",
+      "lat": 39.871298,
+      "lng": 116.415352
+    },
+    {
+      "id": 154,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "瑜舍连锁瑜伽培训机构",
+      "spaceCounty": "东城区",
+      "address1": "东城区安德里北街湖景苑",
+      "address2": "安德里北街湖景苑",
+      "lat": 39.961576,
+      "lng": 116.404806
+    },
+    {
+      "id": 155,
+      "spaceType": "花店",
+      "spaceName": "花治植物美学实验室",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门内大街谢家胡同5号",
+      "address2": "安定门内大街谢家胡同5号",
+      "lat": 39.951126,
+      "lng": 116.414126
+    },
+    {
+      "id": 156,
+      "spaceType": "咖啡馆",
+      "spaceName": "双城咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门内大街方家胡同48号（近北新桥地铁站）",
+      "address2": "安定门内大街方家胡同48号（近北新桥地铁站）",
+      "lat": 39.950131,
+      "lng": 116.4173
+    },
+    {
+      "id": 157,
+      "spaceType": "家具，下午茶",
+      "spaceName": "梵几客厅",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门内国子监街41号",
+      "address2": "安定门内国子监街41号",
+      "lat": 39.951833,
+      "lng": 116.416905
+    },
+    {
+      "id": 158,
+      "spaceType": "茶馆",
+      "spaceName": "一拙",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门内五道营胡同西口84号",
+      "address2": "安定门内五道营胡同西口84号",
+      "lat": 39.952228,
+      "lng": 116.409448
+    },
+    {
+      "id": 159,
+      "spaceType": "酒吧",
+      "spaceName": "jiaobar交吧",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门大街方家胡同65号",
+      "address2": "安定门大街方家胡同65号",
+      "lat": 39.950435,
+      "lng": 116.41553
+    },
+    {
+      "id": 160,
+      "spaceType": "咖啡馆",
+      "spaceName": "脚下咖啡",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门西大街2号",
+      "address2": "安定门西大街2号",
+      "lat": 39.954784,
+      "lng": 116.413205
+    },
+    {
+      "id": 161,
+      "spaceType": "轰趴馆",
+      "spaceName": "自在场头",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门鼓楼东大街小经厂胡同",
+      "address2": "安定门鼓楼东大街小经厂胡同",
+      "lat": 39.959237,
+      "lng": 116.416791
+    },
+    {
+      "id": 162,
+      "spaceType": "高尔夫球场",
+      "spaceName": "青年湖高尔夫俱乐部",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门安外大街青年湖公园内西北角",
+      "address2": "安定门安外大街青年湖公园内西北角",
+      "lat": 39.959237,
+      "lng": 116.416791
+    },
+    {
+      "id": 163,
+      "spaceType": "健身房",
+      "spaceName": "安贞大厦健身中心",
+      "spaceCounty": "东城区",
+      "address1": "东城区安定门安外大街2号安贞大厦B3俱乐部",
+      "address2": "安定门安外大街2号安贞大厦B3俱乐部",
+      "lat": 39.974464,
+      "lng": 116.415441
+    },
+    {
+      "id": 164,
+      "spaceType": "别墅",
+      "spaceName": "京郊绿色密云别墅",
+      "spaceCounty": "密云县",
+      "address1": "密云县密云懿品府",
+      "address2": "密云懿品府",
+      "lat": 40.37149,
+      "lng": 116.837441
+    },
+    {
+      "id": 165,
+      "spaceType": "别墅",
+      "spaceName": "近密云水库特色别致别墅",
+      "spaceCounty": "密云县",
+      "address1": "密云县穆家峪镇穆家峪镇阁老峪村",
+      "address2": "穆家峪镇穆家峪镇阁老峪村",
+      "lat": 40.44522,
+      "lng": 116.933323
+    },
+    {
+      "id": 166,
+      "spaceType": "台球馆",
+      "spaceName": "亿龙达台球厅",
+      "spaceCounty": "房山区",
+      "address1": "房山区阎村镇嘉煜宾馆西20米",
+      "address2": "阎村镇嘉煜宾馆西20米",
+      "lat": 39.726509,
+      "lng": 116.091034
+    },
+    {
+      "id": 167,
+      "spaceType": "台球馆",
+      "spaceName": "碰撞人生台球会所",
+      "spaceCounty": "房山区",
+      "address1": "房山区长阳镇长阳路45号",
+      "address2": "长阳镇长阳路45号",
+      "lat": 39.759633,
+      "lng": 116.2252
+    },
+    {
+      "id": 168,
+      "spaceType": "游泳馆",
+      "spaceName": "长阳体育馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区长阳路农业职业学院主校区内",
+      "address2": "长阳路农业职业学院主校区内",
+      "lat": 39.757069,
+      "lng": 116.206176
+    },
+    {
+      "id": 169,
+      "spaceType": "游泳馆",
+      "spaceName": "活月游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区窦店镇大于路北京城建·琨廷售楼处负一楼",
+      "address2": "窦店镇大于路北京城建·琨廷售楼处负一楼",
+      "lat": 39.657738,
+      "lng": 116.074536
+    },
+    {
+      "id": 170,
+      "spaceType": "台球馆",
+      "spaceName": "云川台球连锁俱乐部(198窦店店",
+      "spaceCounty": "房山区",
+      "address1": "房山区窦店镇山水汇豪苑项目1号楼4层",
+      "address2": "窦店镇山水汇豪苑项目1号楼4层",
+      "lat": 39.654655,
+      "lng": 116.080897
+    },
+    {
+      "id": 171,
+      "spaceType": "游泳馆",
+      "spaceName": "君力游泳健身会馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区昊天大街加州水郡西区商业广场负一楼",
+      "address2": "昊天大街加州水郡西区商业广场负一楼",
+      "lat": 39.767904,
+      "lng": 116.166516
+    },
+    {
+      "id": 172,
+      "spaceType": "游泳馆",
+      "spaceName": "加州水郡游泳健身",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡昊天大街48-218-2号楼",
+      "address2": "良乡昊天大街48-218-2号楼",
+      "lat": 39.747132,
+      "lng": 116.156741
+    },
+    {
+      "id": 173,
+      "spaceType": "游泳馆",
+      "spaceName": "ao奥力游泳健身会所",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡昊天大街3106号",
+      "address2": "良乡昊天大街3106号",
+      "lat": 39.747132,
+      "lng": 116.156741
+    },
+    {
+      "id": 174,
+      "spaceType": "台球馆",
+      "spaceName": "云川台球城(良乡178店)",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡拱辰大街49号科豪大厦4层",
+      "address2": "良乡拱辰大街49号科豪大厦4层",
+      "lat": 39.7413,
+      "lng": 116.148281
+    },
+    {
+      "id": 175,
+      "spaceType": "别墅",
+      "spaceName": "英伦乡村别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区韩村河韩村河镇",
+      "address2": "韩村河韩村河镇",
+      "lat": 39.607865,
+      "lng": 115.960534
+    },
+    {
+      "id": 176,
+      "spaceType": "别墅",
+      "spaceName": "豪华温泉独栋别墅",
+      "spaceCounty": "房山区",
+      "address1": "北京房山区长阳长阳",
+      "address2": "长阳长阳",
+      "lat": 39.726753,
+      "lng": 115.862836
+    },
+    {
+      "id": 177,
+      "spaceType": "别墅",
+      "spaceName": "私家园子 民宅别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区凯旋大街",
+      "address2": "凯旋大街",
+      "lat": 39.710681,
+      "lng": 116.128992
+    },
+    {
+      "id": 178,
+      "spaceType": "别墅",
+      "spaceName": "2号阳光别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡阳光邑上",
+      "address2": "良乡阳光邑上",
+      "lat": 39.736858,
+      "lng": 116.167707
+    },
+    {
+      "id": 179,
+      "spaceType": "别墅",
+      "spaceName": "1号阳光派别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡良乡阳光邑上2号楼102",
+      "address2": "良乡良乡阳光邑上2号楼102",
+      "lat": 39.736858,
+      "lng": 116.167707
+    },
+    {
+      "id": 180,
+      "spaceType": "别墅",
+      "spaceName": "乐聚派2号",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡良乡理工大学附近",
+      "address2": "良乡良乡理工大学附近",
+      "lat": 39.741621,
+      "lng": 116.159602
+    },
+    {
+      "id": 181,
+      "spaceType": "别墅",
+      "spaceName": "乐聚派4号",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡大学城西站阳光邑上小区22号别墅101",
+      "address2": "良乡大学城西站阳光邑上小区22号别墅101",
+      "lat": 39.730224,
+      "lng": 116.16419
+    },
+    {
+      "id": 182,
+      "spaceType": "别墅",
+      "spaceName": "全新600平别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡加州水郡东区",
+      "address2": "良乡加州水郡东区",
+      "lat": 39.773849,
+      "lng": 116.176037
+    },
+    {
+      "id": 183,
+      "spaceType": "别墅",
+      "spaceName": "十渡风景山居小墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区房山一渡",
+      "address2": "房山一渡",
+      "lat": 39.603426,
+      "lng": 115.697842
+    },
+    {
+      "id": 184,
+      "spaceType": "别墅",
+      "spaceName": "大宁私享俱乐部",
+      "spaceCounty": "房山区",
+      "address1": "房山区大宁山庄别墅一区14排",
+      "address2": "大宁山庄别墅一区14排",
+      "lat": 39.816007,
+      "lng": 116.218289
+    },
+    {
+      "id": 185,
+      "spaceType": "别墅",
+      "spaceName": "十渡依山面水独栋泳池别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区十渡镇西关上村",
+      "address2": "十渡镇西关上村",
+      "lat": 39.646436,
+      "lng": 115.595943
+    },
+    {
+      "id": 186,
+      "spaceType": "台球馆",
+      "spaceName": "天湖会议中心-保龄球馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区青龙湖镇小苑上村150号",
+      "address2": "青龙湖镇小苑上村150号",
+      "lat": 39.789373,
+      "lng": 116.071317
+    },
+    {
+      "id": 187,
+      "spaceType": "游泳馆",
+      "spaceName": "天宇顺通游泳健身俱乐部",
+      "spaceCounty": "房山区",
+      "address1": "房山区城关镇房山仓房小区房山一中对面丰源大厦",
+      "address2": "城关镇房山仓房小区房山一中对面丰源大厦",
+      "lat": 39.708352,
+      "lng": 115.992367
+    },
+    {
+      "id": 188,
+      "spaceType": "游泳馆",
+      "spaceName": "普度山庄宾馆游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区十渡镇十大路普渡山庄宾馆",
+      "address2": "十渡镇十大路普渡山庄宾馆",
+      "lat": 39.637306,
+      "lng": 115.584067
+    },
+    {
+      "id": 189,
+      "spaceType": "游泳馆",
+      "spaceName": "燕化游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区燕山工体街44号",
+      "address2": "燕山工体街44号",
+      "lat": 39.738375,
+      "lng": 115.966763
+    },
+    {
+      "id": 190,
+      "spaceType": "别墅",
+      "spaceName": "平谷京东大溶洞",
+      "spaceCounty": "平谷区",
+      "address1": "平谷区平谷京东大溶洞别墅区",
+      "address2": "平谷京东大溶洞别墅区",
+      "lat": 40.219292,
+      "lng": 117.260744
+    },
+    {
+      "id": 191,
+      "spaceType": "轰趴馆",
+      "spaceName": "拾光别墅轰趴",
+      "spaceCounty": "通州区",
+      "address1": "通州区靶场路枫露皇苑1-57号(物资学院旁）",
+      "address2": "靶场路枫露皇苑1-57号(物资学院旁）",
+      "lat": 39.940673,
+      "lng": 116.674792
+    },
+    {
+      "id": 192,
+      "spaceType": "足球公园",
+      "spaceName": "健龙森青鸟盛地足球公园",
+      "spaceCounty": "通州区",
+      "address1": "通州区梨园南街85号，史家小学对面(奥迪旁)",
+      "address2": "梨园南街85号，史家小学对面(奥迪旁)",
+      "lat": 39.889681,
+      "lng": 116.69661
+    },
+    {
+      "id": 193,
+      "spaceType": "别墅",
+      "spaceName": "通州北苑轰趴馆",
+      "spaceCounty": "通州区",
+      "address1": "通州区靶场路",
+      "address2": "靶场路",
+      "lat": 39.809815,
+      "lng": 116.740079
+    },
+    {
+      "id": 194,
+      "spaceType": "别墅",
+      "spaceName": "55c北京最佳聚会别墅",
+      "spaceCounty": "通州区",
+      "address1": "通州区通州三河·行宫西大街235号圣得花园别墅",
+      "address2": "通州三河·行宫西大街235号圣得花园别墅",
+      "lat": 39.954019,
+      "lng": 116.802456
+    },
+    {
+      "id": 195,
+      "spaceType": "别墅",
+      "spaceName": "通州豪华别墅短租",
+      "spaceCounty": "通州区",
+      "address1": "通州区宋庄镇艺术东区东轴斜街",
+      "address2": "宋庄镇艺术东区东轴斜街",
+      "lat": 39.946729,
+      "lng": 116.73401
+    },
+    {
+      "id": 196,
+      "spaceType": "别墅",
+      "spaceName": "D8紫苑别墅度假聚会",
+      "spaceCounty": "通州区",
+      "address1": "通州区燕郊开发区燕顺路达观别墅和安花园小区",
+      "address2": "燕郊开发区燕顺路达观别墅和安花园小区",
+      "lat": 39.809815,
+      "lng": 116.740079
+    },
+    {
+      "id": 197,
+      "spaceType": "酒吧",
+      "spaceName": "HALF MOON音乐酒吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区龙湖长楹天街西区商业街负111号",
+      "address2": "龙湖长楹天街西区商业街负111号",
+      "lat": 39.836521,
+      "lng": 116.509704
+    },
+    {
+      "id": 198,
+      "spaceType": "舞蹈室",
+      "spaceName": "盛舞堂流行舞蹈学校",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区龙湖长楹天街商业街西区3层C319号",
+      "address2": "龙湖长楹天街商业街西区3层C319号",
+      "lat": 39.931442,
+      "lng": 116.61028
+    },
+    {
+      "id": 199,
+      "spaceType": "舞蹈室",
+      "spaceName": "DL Dance 舞蹈工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区驼房营南路8号新华科技大厦11层1110室",
+      "address2": "驼房营南路8号新华科技大厦11层1110室",
+      "lat": 39.964286,
+      "lng": 116.514068
+    },
+    {
+      "id": 200,
+      "spaceType": "舞蹈室",
+      "spaceName": "DL Dance 舞蹈工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区驼房营南路8号新华科技大厦11层1110室",
+      "address2": "驼房营南路8号新华科技大厦11层1110室",
+      "lat": 39.964286,
+      "lng": 116.514068
+    },
+    {
+      "id": 201,
+      "spaceType": "轰趴馆",
+      "spaceName": "玩美轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区驼房营南里甲6号东风艺术区门面房27号二层",
+      "address2": "驼房营南里甲6号东风艺术区门面房27号二层",
+      "lat": 39.963152,
+      "lng": 116.51519
+    },
+    {
+      "id": 202,
+      "spaceType": "体育馆",
+      "spaceName": "睿腾体能馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区顺白路133号万荷艺术区3号院21号楼",
+      "address2": "顺白路133号万荷艺术区3号院21号楼",
+      "lat": 40.008533,
+      "lng": 116.5145
+    },
+    {
+      "id": 203,
+      "spaceType": "舞蹈室",
+      "spaceName": "舞次方街舞培训班培训学校",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区长楹天街星座2栋2702室",
+      "address2": "长楹天街星座2栋2702室",
+      "lat": 39.958953,
+      "lng": 116.521695
+    },
+    {
+      "id": 204,
+      "spaceType": "网球场",
+      "spaceName": "tiger tennis泰格网球馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区观音堂桥东北角泰格高尔夫院内",
+      "address2": "观音堂桥东北角泰格高尔夫院内",
+      "lat": 39.891597,
+      "lng": 116.559692
+    },
+    {
+      "id": 205,
+      "spaceType": "VR体验馆",
+      "spaceName": "RASS13区虚拟现实VR体验馆游戏",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区蓝色港湾朝阳公园路6号蓝色港湾M层",
+      "address2": "蓝色港湾朝阳公园路6号蓝色港湾M层",
+      "lat": 39.95509,
+      "lng": 116.482486
+    },
+    {
+      "id": 206,
+      "spaceType": "咖啡馆",
+      "spaceName": "SeSe's Garden",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区蓝色港湾西门商场一层SeSe婚礼王国店铺内最南侧",
+      "address2": "蓝色港湾西门商场一层SeSe婚礼王国店铺内最南侧",
+      "lat": 39.95509,
+      "lng": 116.482486
+    },
+    {
+      "id": 207,
+      "spaceType": "轰趴馆",
+      "spaceName": "Alpha聚吧轰趴馆(总店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区环铁艺术城C-30(中国电影博物馆)",
+      "address2": "环铁艺术城C-30(中国电影博物馆)",
+      "lat": 39.996444,
+      "lng": 116.52831
+    },
+    {
+      "id": 208,
+      "spaceType": "健身房",
+      "spaceName": "飞鱼游泳培训",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区对外经贸胜古北里29号楼富仁名苑小区",
+      "address2": "对外经贸胜古北里29号楼富仁名苑小区",
+      "lat": 39.980829,
+      "lng": 116.420876
+    },
+    {
+      "id": 209,
+      "spaceType": "玩具店",
+      "spaceName": "小螃蟹玩具饰品",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区对外经贸惠新里239号",
+      "address2": "对外经贸惠新里239号",
+      "lat": 39.98351,
+      "lng": 116.427682
+    },
+    {
+      "id": 210,
+      "spaceType": "博物馆",
+      "spaceName": "中国现代文学馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区对外经贸文学馆路45号",
+      "address2": "对外经贸文学馆路45号",
+      "lat": 39.99005,
+      "lng": 116.436482
+    },
+    {
+      "id": 211,
+      "spaceType": "健身房",
+      "spaceName": "ULife悦体健身",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区复兴路69号蓝色港湾购物中心南区5层",
+      "address2": "复兴路69号蓝色港湾购物中心南区5层",
+      "lat": 39.95509,
+      "lng": 116.482486
+    },
+    {
+      "id": 212,
+      "spaceType": "桌游吧",
+      "spaceName": "小宇宙狼人杀桌游吧&轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区华威里2号楼6层靠近潘家园地铁站C口(翌景嘉园)",
+      "address2": "华威里2号楼6层靠近潘家园地铁站C口(翌景嘉园)",
+      "lat": 39.879142,
+      "lng": 116.466505
+    },
+    {
+      "id": 213,
+      "spaceType": "舞蹈室",
+      "spaceName": "路美人舞蹈工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区劲松富顿中心A座508(近国贸双井大望路)",
+      "address2": "劲松富顿中心A座508(近国贸双井大望路)",
+      "lat": 39.890737,
+      "lng": 116.468946
+    },
+    {
+      "id": 214,
+      "spaceType": "花店",
+      "spaceName": "近藤花艺",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村马甸花卉A6",
+      "address2": "亚运村马甸花卉A6",
+      "lat": 39.985726,
+      "lng": 116.39728
+    },
+    {
+      "id": 215,
+      "spaceType": "玩具店",
+      "spaceName": "KIDSLAND(远洋万和)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村东四环路73号3层",
+      "address2": "亚运村东四环路73号3层",
+      "lat": 39.889126,
+      "lng": 116.498174
+    },
+    {
+      "id": 216,
+      "spaceType": "花店",
+      "spaceName": "花艺鲜花",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村惠新里安贞小关",
+      "address2": "亚运村惠新里安贞小关",
+      "lat": 39.987354,
+      "lng": 116.425602
+    },
+    {
+      "id": 217,
+      "spaceType": "桌游吧",
+      "spaceName": "HT（悍跳）GAMING CLUB 狼人杀馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村惠安轩甲17号二层202",
+      "address2": "亚运村惠安轩甲17号二层202",
+      "lat": 39.990271,
+      "lng": 116.422367
+    },
+    {
+      "id": 218,
+      "spaceType": "花店",
+      "spaceName": "花尚鲜花",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村北土城西路10号",
+      "address2": "亚运村北土城西路10号",
+      "lat": 39.983299,
+      "lng": 116.399501
+    },
+    {
+      "id": 219,
+      "spaceType": "花店",
+      "spaceName": "花音集",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村北辰购物中心B1",
+      "address2": "亚运村北辰购物中心B1",
+      "lat": 39.997984,
+      "lng": 116.413468
+    },
+    {
+      "id": 220,
+      "spaceType": "博物馆",
+      "spaceName": "国家动物博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村北辰西路1号院5号大屯路中国科学院动物研究所",
+      "address2": "亚运村北辰西路1号院5号大屯路中国科学院动物研究所",
+      "lat": 40.009349,
+      "lng": 116.388374
+    },
+    {
+      "id": 221,
+      "spaceType": "花店",
+      "spaceName": "石狮鲜花店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村北苑路178号院-9号楼",
+      "address2": "亚运村北苑路178号院-9号楼",
+      "lat": 39.997859,
+      "lng": 116.426856
+    },
+    {
+      "id": 222,
+      "spaceType": "花店",
+      "spaceName": "美学花艺鲜花店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村大屯北里",
+      "address2": "亚运村大屯北里",
+      "lat": 40.002625,
+      "lng": 116.419139
+    },
+    {
+      "id": 223,
+      "spaceType": "花店",
+      "spaceName": "常春藤鲜花",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村湖景东路9号新奥购物中心",
+      "address2": "亚运村湖景东路9号新奥购物中心",
+      "lat": 40.007599,
+      "lng": 116.400001
+    },
+    {
+      "id": 224,
+      "spaceType": "花店",
+      "spaceName": "蝶恋花(飘亮店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村安立路68号飘亮购物中心2",
+      "address2": "亚运村安立路68号飘亮购物中心2",
+      "lat": 40.003791,
+      "lng": 116.414889
+    },
+    {
+      "id": 225,
+      "spaceType": "健身房",
+      "spaceName": "德贝潜水俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村安定路1号奥体中心英东游泳馆125室",
+      "address2": "亚运村安定路1号奥体中心英东游泳馆125室",
+      "lat": 39.992437,
+      "lng": 116.408619
+    },
+    {
+      "id": 226,
+      "spaceType": "花店",
+      "spaceName": "天马座花艺",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村安慧北里安园3号楼",
+      "address2": "亚运村安慧北里安园3号楼",
+      "lat": 40.00839,
+      "lng": 116.41758
+    },
+    {
+      "id": 227,
+      "spaceType": "花店",
+      "spaceName": "约时代花坊",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亚运村安苑东里一区2号楼一层",
+      "address2": "亚运村安苑东里一区2号楼一层",
+      "lat": 39.989675,
+      "lng": 116.417547
+    },
+    {
+      "id": 228,
+      "spaceType": "玩具店",
+      "spaceName": "FAMILY(金隅嘉品mall店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东坝中路38号金隅嘉品mall3层",
+      "address2": "东坝中路38号金隅嘉品mall3层",
+      "lat": 39.958943,
+      "lng": 116.553988
+    },
+    {
+      "id": 229,
+      "spaceType": "轰趴馆",
+      "spaceName": "聚时光轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东大桥路8号SOHO尚都北塔B1层B139室",
+      "address2": "东大桥路8号SOHO尚都北塔B1层B139室",
+      "lat": 39.925164,
+      "lng": 116.457748
+    },
+    {
+      "id": 230,
+      "spaceType": "舞蹈室",
+      "spaceName": "尚翼舞社舞蹈培训(SOHO尚都店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东大桥路8号SOHO尚都西塔2层1235 ",
+      "address2": "东大桥路8号SOHO尚都西塔2层1235 ",
+      "lat": 39.924507,
+      "lng": 116.458605
+    },
+    {
+      "id": 231,
+      "spaceType": "咖啡馆",
+      "spaceName": "Bunny Drop",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东四环北路88号观湖国际二期东门（华章路口北）",
+      "address2": "东四环北路88号观湖国际二期东门（华章路口北）",
+      "lat": 39.940864,
+      "lng": 116.500854
+    },
+    {
+      "id": 232,
+      "spaceType": "体育馆",
+      "spaceName": "首创会中国区vip中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环北路辅路",
+      "address2": "东三环北路辅路",
+      "lat": 39.945517,
+      "lng": 116.468653
+    },
+    {
+      "id": 233,
+      "spaceType": "轰趴馆",
+      "spaceName": "明日世界/密室轰趴狼杀射箭K歌",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环百子湾路京粮大厦东200米路南御宸上院底商b1",
+      "address2": "东三环百子湾路京粮大厦东200米路南御宸上院底商b1",
+      "lat": 39.905984,
+      "lng": 116.470945
+    },
+    {
+      "id": 234,
+      "spaceType": "咖啡馆",
+      "spaceName": "蜗牛咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环中路建外SOHO东区6号楼0662E号（下沉广场）",
+      "address2": "东三环中路建外SOHO东区6号楼0662E号（下沉广场）",
+      "lat": 39.911763,
+      "lng": 116.465551
+    },
+    {
+      "id": 235,
+      "spaceType": "咖啡馆",
+      "spaceName": "小时光猫语时光咖啡书吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环中路7号财富购物中心2层",
+      "address2": "东三环中路7号财富购物中心2层",
+      "lat": 39.923489,
+      "lng": 116.465595
+    },
+    {
+      "id": 236,
+      "spaceType": "健身房",
+      "spaceName": "ORIGINAIR 原气健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环中路39号建外Soho东区8号楼2801室",
+      "address2": "东三环中路39号建外Soho东区8号楼2801室",
+      "lat": 39.911553,
+      "lng": 116.464842
+    },
+    {
+      "id": 237,
+      "spaceType": "轰趴馆",
+      "spaceName": "聚游记桌游轰趴馆home party",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区东三环中路39号建外soho3号楼0703室",
+      "address2": "东三环中路39号建外soho3号楼0703室",
+      "lat": 39.911162,
+      "lng": 116.46343
+    },
+    {
+      "id": 238,
+      "spaceType": "酒吧",
+      "spaceName": "066bar",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区芍药居甲2号院17-15号",
+      "address2": "芍药居甲2号院17-15号",
+      "lat": 39.983357,
+      "lng": 116.438598
+    },
+    {
+      "id": 239,
+      "spaceType": "玩具店",
+      "spaceName": "Nici",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区潘家园王府井东方新天地",
+      "address2": "潘家园王府井东方新天地",
+      "lat": 39.916049,
+      "lng": 116.418444
+    },
+    {
+      "id": 240,
+      "spaceType": "私人影院",
+      "spaceName": "云乐迪私影汇",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区惠新东街19号 惠侨饭店4层",
+      "address2": "惠新东街19号 惠侨饭店4层",
+      "lat": 39.984229,
+      "lng": 116.430942
+    },
+    {
+      "id": 241,
+      "spaceType": "舞蹈室",
+      "spaceName": "北京CICI舞蹈",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区惠新西街南口罗马花园A座4层",
+      "address2": "惠新西街南口罗马花园A座4层",
+      "lat": 39.990076,
+      "lng": 116.424493
+    },
+    {
+      "id": 242,
+      "spaceType": "茶馆",
+      "spaceName": "清音堂古琴培训",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区惠新西街18号罗马花园C座",
+      "address2": "惠新西街18号罗马花园C座",
+      "lat": 39.990655,
+      "lng": 116.424473
+    },
+    {
+      "id": 243,
+      "spaceType": "舞蹈室",
+      "spaceName": "北京I.F.舞蹈工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区广渠门外大街优士阁大厦A座1112室",
+      "address2": "广渠门外大街优士阁大厦A座1112室",
+      "lat": 39.898814,
+      "lng": 116.465216
+    },
+    {
+      "id": 244,
+      "spaceType": "舞蹈室",
+      "spaceName": "GPS舞蹈教室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区广渠路首城国际B座2层212室",
+      "address2": "广渠路首城国际B座2层212室",
+      "lat": 39.898346,
+      "lng": 116.476122
+    },
+    {
+      "id": 245,
+      "spaceType": "轰趴馆",
+      "spaceName": "party's派对聚会屋",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区广渠路36号首城国际5号楼C座1227室",
+      "address2": "广渠路36号首城国际5号楼C座1227室",
+      "lat": 39.898243,
+      "lng": 116.476274
+    },
+    {
+      "id": 246,
+      "spaceType": "轰趴馆",
+      "spaceName": "66号狼人杀桌游轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区广渠路36号院5号楼首城国际B座地下一层102、128室",
+      "address2": "广渠路36号院5号楼首城国际B座地下一层102、128室",
+      "lat": 39.898346,
+      "lng": 116.476122
+    },
+    {
+      "id": 247,
+      "spaceType": "咖啡馆",
+      "spaceName": "井观书房",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区广渠路11号金泰国际大厦A座5层阳光中庭（798艺术街）",
+      "address2": "广渠路11号金泰国际大厦A座5层阳光中庭（798艺术街）",
+      "lat": 39.899805,
+      "lng": 116.506944
+    },
+    {
+      "id": 248,
+      "spaceType": "体育馆",
+      "spaceName": "瑞得万（北京）国际卡丁车场",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区崔各庄乡善各庄村来广营东路88号",
+      "address2": "崔各庄乡善各庄村来广营东路88号",
+      "lat": 40.036853,
+      "lng": 116.484194
+    },
+    {
+      "id": 249,
+      "spaceType": "网球场",
+      "spaceName": "中国网球公开赛(钻石球场)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区林萃路3号国家网球中心",
+      "address2": "林萃路3号国家网球中心",
+      "lat": 40.02628,
+      "lng": 116.382005
+    },
+    {
+      "id": 250,
+      "spaceType": "网球场",
+      "spaceName": "国家网球中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区林萃路2号",
+      "address2": "林萃路2号",
+      "lat": 40.025796,
+      "lng": 116.381151
+    },
+    {
+      "id": 251,
+      "spaceType": "咖啡厅",
+      "spaceName": "塞拉姆咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亮马桥新源南路5号北京公馆1层配套商业5—3号",
+      "address2": "亮马桥新源南路5号北京公馆1层配套商业5—3号",
+      "lat": 39.95423,
+      "lng": 116.461445
+    },
+    {
+      "id": 252,
+      "spaceType": "VR体验馆",
+      "spaceName": "朝阳公园真人CS",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亮马桥/三元桥亮马桥路73号对面（朝阳公园北门内）",
+      "address2": "亮马桥/三元桥亮马桥路73号对面（朝阳公园北门内）",
+      "lat": 39.960785,
+      "lng": 116.489071
+    },
+    {
+      "id": 253,
+      "spaceType": "健身房",
+      "spaceName": "二十一世纪饭店游泳馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亮马桥/三元桥亮马桥路40号二十一世纪饭店内",
+      "address2": "亮马桥/三元桥亮马桥路40号二十一世纪饭店内",
+      "lat": 39.95809,
+      "lng": 116.480239
+    },
+    {
+      "id": 254,
+      "spaceType": "博物馆",
+      "spaceName": "中国国际展览中心老馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区亮马桥/三元桥北三环东路6号",
+      "address2": "亮马桥/三元桥北三环东路6号",
+      "lat": 39.967217,
+      "lng": 116.446481
+    },
+    {
+      "id": 255,
+      "spaceType": "轰趴馆",
+      "spaceName": "物智空间",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区立水桥北路园塞纳维拉水景花园(龙德广场)3801 ",
+      "address2": "立水桥北路园塞纳维拉水景花园(龙德广场)3801 ",
+      "lat": 40.065711,
+      "lng": 116.42193
+    },
+    {
+      "id": 256,
+      "spaceType": "健身房",
+      "spaceName": "尚沐水世界水上乐园",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区立水桥安立路3号",
+      "address2": "立水桥安立路3号",
+      "lat": 40.050189,
+      "lng": 116.417493
+    },
+    {
+      "id": 257,
+      "spaceType": "酒吧",
+      "spaceName": "御湘堂",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区来广营乡清河营郊野公园5号A栋",
+      "address2": "来广营乡清河营郊野公园5号A栋",
+      "lat": 40.060462,
+      "lng": 116.451435
+    },
+    {
+      "id": 258,
+      "spaceType": "轰趴馆",
+      "spaceName": "Echoo回声轰趴(798店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区万红路5号院瑞达电子院内17号楼(蓝涛中心旁)",
+      "address2": "万红路5号院瑞达电子院内17号楼(蓝涛中心旁)",
+      "lat": 39.986678,
+      "lng": 116.500459
+    },
+    {
+      "id": 259,
+      "spaceType": "跆拳道馆",
+      "spaceName": "正道会跆拳道",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区欢乐谷垡头西街22号",
+      "address2": "欢乐谷垡头西街22号",
+      "lat": 39.8713,
+      "lng": 116.513994
+    },
+    {
+      "id": 260,
+      "spaceType": "别墅",
+      "spaceName": "柠檬聚会轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区豆各庄东五环豆各庄东村创意基地",
+      "address2": "豆各庄东五环豆各庄东村创意基地",
+      "lat": 39.87803,
+      "lng": 116.579459
+    },
+    {
+      "id": 261,
+      "spaceType": "轰趴馆",
+      "spaceName": "面团儿桌游俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区北苑路领地officeC座703室",
+      "address2": "北苑路领地officeC座703室",
+      "lat": 40.046632,
+      "lng": 116.420888
+    },
+    {
+      "id": 262,
+      "spaceType": "轰趴馆",
+      "spaceName": "尘客轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区北苑路180号2号楼5层503",
+      "address2": "北苑路180号2号楼5层503",
+      "lat": 39.997724,
+      "lng": 116.421779
+    },
+    {
+      "id": 263,
+      "spaceType": "健身房",
+      "spaceName": "洲曼游泳健身会所",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区北苑家园红军营东路8号院甲2号楼",
+      "address2": "北苑家园红军营东路8号院甲2号楼",
+      "lat": 40.034903,
+      "lng": 116.445898
+    },
+    {
+      "id": 264,
+      "spaceType": "咖啡厅",
+      "spaceName": "乐咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京东田运动造型底商",
+      "address2": "望京东田运动造型底商",
+      "lat": 40.003081,
+      "lng": 116.486588
+    },
+    {
+      "id": 265,
+      "spaceType": "咖啡厅",
+      "spaceName": "咖啡里奥",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京东湖街道博泰国际商业广场",
+      "address2": "望京东湖街道博泰国际商业广场",
+      "lat": 40.003081,
+      "lng": 116.486588
+    },
+    {
+      "id": 266,
+      "spaceType": "舞蹈室",
+      "spaceName": "乐舞舞蹈培训中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京广顺北大街六佰本商业中心南区二层乐舞时代",
+      "address2": "望京广顺北大街六佰本商业中心南区二层乐舞时代",
+      "lat": 40.013137,
+      "lng": 116.473393
+    },
+    {
+      "id": 267,
+      "spaceType": "花店",
+      "spaceName": "幸福的味道花店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京广顺北大街33号凯德MALL商场临街商铺01-22",
+      "address2": "望京广顺北大街33号凯德MALL商场临街商铺01-22",
+      "lat": 40.00071,
+      "lng": 116.474139
+    },
+    {
+      "id": 268,
+      "spaceType": "跆拳道馆",
+      "spaceName": "正宗跆拳道(望京华彩商业中心店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京广顺北大街16号望京华彩商业中心5",
+      "address2": "望京广顺北大街16号望京华彩商业中心5",
+      "lat": 40.01632,
+      "lng": 116.474788
+    },
+    {
+      "id": 269,
+      "spaceType": "体育馆",
+      "spaceName": "私人健身会所",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京北路甲16南门",
+      "address2": "望京北路甲16南门",
+      "lat": 40.017013,
+      "lng": 116.482141
+    },
+    {
+      "id": 270,
+      "spaceType": "健身房",
+      "spaceName": "阳光游泳培训基地",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京方恒购物中心5层",
+      "address2": "望京方恒购物中心5层",
+      "lat": 39.996157,
+      "lng": 116.489114
+    },
+    {
+      "id": 271,
+      "spaceType": "咖啡厅",
+      "spaceName": "ZOO fit健身沙拉",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京阜通西大街宝星华庭5号楼底商",
+      "address2": "望京阜通西大街宝星华庭5号楼底商",
+      "lat": 40.005437,
+      "lng": 116.485701
+    },
+    {
+      "id": 272,
+      "spaceType": "咖啡厅",
+      "spaceName": "MAAN COFFEE",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京阜安西路",
+      "address2": "望京阜安西路",
+      "lat": 40.003081,
+      "lng": 116.486588
+    },
+    {
+      "id": 273,
+      "spaceType": "健身房",
+      "spaceName": "丽池阳光国际游泳健身会所",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京小街方恒购物中心五层",
+      "address2": "望京小街方恒购物中心五层",
+      "lat": 39.996157,
+      "lng": 116.489114
+    },
+    {
+      "id": 274,
+      "spaceType": "健身房",
+      "spaceName": "Easy Fitness私教健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京合生麒麟社10号楼907室",
+      "address2": "望京合生麒麟社10号楼907室",
+      "lat": 39.999701,
+      "lng": 116.476343
+    },
+    {
+      "id": 275,
+      "spaceType": "咖啡厅",
+      "spaceName": "NA.coffee 那点咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京宏泰东街保利中央公园保利好食界8号楼底商8-13",
+      "address2": "望京宏泰东街保利中央公园保利好食界8号楼底商8-13",
+      "lat": 40.003081,
+      "lng": 116.486588
+    },
+    {
+      "id": 276,
+      "spaceType": "咖啡厅",
+      "spaceName": "W Coffee Club",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京宏泰东街浦项中心",
+      "address2": "望京宏泰东街浦项中心",
+      "lat": 40.006118,
+      "lng": 116.496099
+    },
+    {
+      "id": 277,
+      "spaceType": "咖啡厅",
+      "spaceName": "大雨澳斯特咖啡厅",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京京顺路99号大雨澳斯特酒店内",
+      "address2": "望京京顺路99号大雨澳斯特酒店内",
+      "lat": 39.985264,
+      "lng": 116.482997
+    },
+    {
+      "id": 278,
+      "spaceType": "咖啡厅",
+      "spaceName": "GENIE BEANS咖啡厅",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京夏都家园三号楼底商",
+      "address2": "望京夏都家园三号楼底商",
+      "lat": 40.002228,
+      "lng": 116.474025
+    },
+    {
+      "id": 279,
+      "spaceType": "咖啡厅",
+      "spaceName": "Ti Coffee Express",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区望京SOHO塔-1122号",
+      "address2": "望京SOHO塔-1122号",
+      "lat": 40.002734,
+      "lng": 116.486737
+    },
+    {
+      "id": 280,
+      "spaceType": "酒吧",
+      "spaceName": "买买音乐餐吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区芳园西路2号",
+      "address2": "芳园西路2号",
+      "lat": 39.981338,
+      "lng": 116.489366
+    },
+    {
+      "id": 281,
+      "spaceType": "轰趴馆",
+      "spaceName": "星空罐头 starrysky轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区平房路安湃文创园第二个集装箱",
+      "address2": "平房路安湃文创园第二个集装箱",
+      "lat": 39.962935,
+      "lng": 116.54695
+    },
+    {
+      "id": 282,
+      "spaceType": "舞蹈室",
+      "spaceName": "TIGERFISH舞蹈塑形工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区阜通东大街望京soho塔1B座15层1503室",
+      "address2": "阜通东大街望京soho塔1B座15层1503室",
+      "lat": 40.002013,
+      "lng": 116.488527
+    },
+    {
+      "id": 283,
+      "spaceType": "健身房",
+      "spaceName": "博瓦德尼健身俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区阜通东大街6-4号楼方恒购物中心三层",
+      "address2": "阜通东大街6-4号楼方恒购物中心三层",
+      "lat": 39.996157,
+      "lng": 116.489114
+    },
+    {
+      "id": 284,
+      "spaceType": "咖啡馆",
+      "spaceName": "cup one",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区阜通西大街8—1号合生麒麟社（麒麟新天地二楼）",
+      "address2": "阜通西大街8—1号合生麒麟社（麒麟新天地二楼）",
+      "lat": 40.003724,
+      "lng": 116.484817
+    },
+    {
+      "id": 285,
+      "spaceType": "健身房",
+      "spaceName": "Gym Box私教健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区阜安西路7号望京SOHO塔2A座商业6层2611室",
+      "address2": "阜安西路7号望京SOHO塔2A座商业6层2611室",
+      "lat": 40.002734,
+      "lng": 116.486737
+    },
+    {
+      "id": 286,
+      "spaceType": "酒吧",
+      "spaceName": "CONTAINER TOP LOUNGE露台酒吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区阜安西路11号合生麒麟新天地BF301",
+      "address2": "阜安西路11号合生麒麟新天地BF301",
+      "lat": 40.00244,
+      "lng": 116.484568
+    },
+    {
+      "id": 287,
+      "spaceType": "茶馆",
+      "spaceName": "和静园茶人会所养生餐",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区百子湾路32号6-88",
+      "address2": "百子湾路32号6-88",
+      "lat": 39.905442,
+      "lng": 116.474956
+    },
+    {
+      "id": 288,
+      "spaceType": "VR体验馆",
+      "spaceName": "奥北vr主题轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区百子湾后现代城C区12号楼204室",
+      "address2": "百子湾后现代城C区12号楼204室",
+      "lat": 39.90422,
+      "lng": 116.493135
+    },
+    {
+      "id": 289,
+      "spaceType": "舞蹈室",
+      "spaceName": "舞乐乐文化传播有限公司",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区八里庄村陈家林甲2号F座105室",
+      "address2": "八里庄村陈家林甲2号F座105室",
+      "lat": 39.918098,
+      "lng": 116.516246
+    },
+    {
+      "id": 290,
+      "spaceType": "跆拳道馆",
+      "spaceName": "弘尚跆拳道(慈云寺馆)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区八里庄慈云寺苏宁生活广场东口向北100米东弘尚跆拳道2层",
+      "address2": "八里庄慈云寺苏宁生活广场东口向北100米东弘尚跆拳道2层",
+      "lat": 39.923347,
+      "lng": 116.499755
+    },
+    {
+      "id": 291,
+      "spaceType": "轰趴馆",
+      "spaceName": "紅莊里CLUB ",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区白家楼甲1号红庄国际文化创新保税园B-2-7",
+      "address2": "白家楼甲1号红庄国际文化创新保税园B-2-7",
+      "lat": 39.935683,
+      "lng": 116.547114
+    },
+    {
+      "id": 292,
+      "spaceType": "咖啡馆",
+      "spaceName": "雨花咖啡生活馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区南银大厦后院地质宾馆一层",
+      "address2": "南银大厦后院地质宾馆一层",
+      "lat": 39.963382,
+      "lng": 116.464767
+    },
+    {
+      "id": 293,
+      "spaceType": "体育馆",
+      "spaceName": "深呼吸俱乐部(南湖南路店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区南湖南路8号",
+      "address2": "南湖南路8号",
+      "lat": 40.000328,
+      "lng": 116.469795
+    },
+    {
+      "id": 294,
+      "spaceType": "博物馆",
+      "spaceName": "中国传媒博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区定福庄朝阳路辅路",
+      "address2": "定福庄朝阳路辅路",
+      "lat": 39.922334,
+      "lng": 116.560973
+    },
+    {
+      "id": 295,
+      "spaceType": "博物馆",
+      "spaceName": "北京民俗博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳门外大街141号",
+      "address2": "朝阳门外大街141号",
+      "lat": 39.929629,
+      "lng": 116.450612
+    },
+    {
+      "id": 296,
+      "spaceType": "私人影院",
+      "spaceName": "ColorColor影院",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳路85号院电影产业园11栋A座",
+      "address2": "朝阳路85号院电影产业园11栋A座",
+      "lat": 39.922411,
+      "lng": 116.542263
+    },
+    {
+      "id": 297,
+      "spaceType": "健身房",
+      "spaceName": "Ever Fitness私人健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳北路青年汇112号楼1层130底商",
+      "address2": "朝阳北路青年汇112号楼1层130底商",
+      "lat": 39.928483,
+      "lng": 116.518363
+    },
+    {
+      "id": 298,
+      "spaceType": "轰趴馆",
+      "spaceName": "熊猫人原创桌游吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳北路青年公社102号楼713室",
+      "address2": "朝阳北路青年公社102号楼713室 ",
+      "lat": 39.928759,
+      "lng": 116.521444
+    },
+    {
+      "id": 299,
+      "spaceType": "轰趴馆",
+      "spaceName": "APC美式聚会轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳北路青年公社102号楼203室",
+      "address2": "朝阳北路青年公社102号楼203室",
+      "lat": 39.928759,
+      "lng": 116.521444
+    },
+    {
+      "id": 300,
+      "spaceType": "轰趴馆",
+      "spaceName": "疯人院桌游轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳北路102号楼2层213室",
+      "address2": "朝阳北路102号楼2层213室",
+      "lat": 39.928888,
+      "lng": 116.521378
+    },
+    {
+      "id": 301,
+      "spaceType": "茶馆",
+      "spaceName": "福慧轩棋牌据点",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳公园团结湖东四环北路88号院甲8号楼B1层",
+      "address2": "朝阳公园团结湖东四环北路88号院甲8号楼B1层",
+      "lat": 39.944118,
+      "lng": 116.498386
+    },
+    {
+      "id": 302,
+      "spaceType": "健身房",
+      "spaceName": "CrossFit Shifu 综合体能训练馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳公园路19号(佳隆大厦B1-110室)",
+      "address2": "朝阳公园路19号(佳隆大厦B1-110室)",
+      "lat": 39.940263,
+      "lng": 116.478779
+    },
+    {
+      "id": 303,
+      "spaceType": "茶馆",
+      "spaceName": "王府茶楼养生宴",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳公园西路1号院",
+      "address2": "朝阳公园西路1号院",
+      "lat": 39.955268,
+      "lng": 116.478405
+    },
+    {
+      "id": 304,
+      "spaceType": "健身房",
+      "spaceName": "朝阳公园沙滩浴场",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳公园/团结湖农展南路1号朝阳公园内",
+      "address2": "朝阳公园/团结湖农展南路1号朝阳公园内",
+      "lat": 39.950512,
+      "lng": 116.495843
+    },
+    {
+      "id": 305,
+      "spaceType": "跆拳道馆",
+      "spaceName": "苍轩炼心正统跆拳道",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝阳区霄云路35号院内67-70栋",
+      "address2": "朝阳区霄云路35号院内67-70栋",
+      "lat": 39.963042,
+      "lng": 116.469215
+    },
+    {
+      "id": 306,
+      "spaceType": "VR体验馆",
+      "spaceName": "抉择VR体验馆虚拟现实体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外南街悠唐广场2期2层2-206/2-207",
+      "address2": "朝外南街悠唐广场2期2层2-206/2-207",
+      "lat": 39.927553,
+      "lng": 116.446985
+    },
+    {
+      "id": 307,
+      "spaceType": "花店",
+      "spaceName": "花摄花香",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外大街朝外大街甲6号万通中心B1层1008",
+      "address2": "朝外大街朝外大街甲6号万通中心B1层1008",
+      "lat": 39.925294,
+      "lng": 116.463736
+    },
+    {
+      "id": 308,
+      "spaceType": "茶馆",
+      "spaceName": "颐园美食茶室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外大街金桐东路新城国际8号楼101底商",
+      "address2": "朝外大街金桐东路新城国际8号楼101底商",
+      "lat": 39.923792,
+      "lng": 116.462857
+    },
+    {
+      "id": 309,
+      "spaceType": "咖啡馆",
+      "spaceName": "friend'café老友记",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外大街乙6号朝外SOHOA座6层0616室",
+      "address2": "朝外大街乙6号朝外SOHOA座6层0616室",
+      "lat": 39.9253,
+      "lng": 116.461239
+    },
+    {
+      "id": 310,
+      "spaceType": "健身房",
+      "spaceName": "i Fitness Space私人教练工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外大街乙6号朝外SOHOA座0710室",
+      "address2": "朝外大街乙6号朝外SOHOA座0710室",
+      "lat": 39.9253,
+      "lng": 116.461239
+    },
+    {
+      "id": 311,
+      "spaceType": "跆拳道馆",
+      "spaceName": "首泰格斗馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区朝外大街乙6号朝外soho B座0219 0220 0235号二楼",
+      "address2": "朝外大街乙6号朝外soho B座0219 0220 0235号二楼",
+      "lat": 39.9253,
+      "lng": 116.461239
+    },
+    {
+      "id": 312,
+      "spaceType": "瘦身会所",
+      "spaceName": "康宝莱营养健康中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路现代城",
+      "address2": "大望路现代城",
+      "lat": 39.911962,
+      "lng": 116.482496
+    },
+    {
+      "id": 313,
+      "spaceType": "瘦身会所",
+      "spaceName": "悦本堂美容减肥",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路东四环中路41号嘉泰国际大厦B座",
+      "address2": "大望路东四环中路41号嘉泰国际大厦B座",
+      "lat": 39.922355,
+      "lng": 116.493743
+    },
+    {
+      "id": 314,
+      "spaceType": "瘦身会所",
+      "spaceName": "逸枫国际",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路广渠门外大街优士阁B",
+      "address2": "大望路广渠门外大街优士阁B",
+      "lat": 39.898824,
+      "lng": 116.465226
+    },
+    {
+      "id": 315,
+      "spaceType": "瘦身会所",
+      "spaceName": "辟谷养生减肥",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路万达广场3-1-121号",
+      "address2": "大望路万达广场3-1-121号",
+      "lat": 39.917095,
+      "lng": 116.477848
+    },
+    {
+      "id": 316,
+      "spaceType": "瘦身会所",
+      "spaceName": "五行经络代谢减肥馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路北京朝阳区恋日国际18号楼",
+      "address2": "大望路北京朝阳区恋日国际18号楼",
+      "lat": 39.911148,
+      "lng": 116.471519
+    },
+    {
+      "id": 317,
+      "spaceType": "瘦身会所",
+      "spaceName": "茗缘休闲会所",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路百子湾路",
+      "address2": "大望路百子湾路",
+      "lat": 39.921828,
+      "lng": 116.481599
+    },
+    {
+      "id": 318,
+      "spaceType": "咖啡厅",
+      "spaceName": "碎梦咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路国贸桥恋日国际1909",
+      "address2": "大望路国贸桥恋日国际1909",
+      "lat": 39.91102,
+      "lng": 116.471371
+    },
+    {
+      "id": 319,
+      "spaceType": "瘦身会所",
+      "spaceName": "美斯美抗衰研发中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路建国路98号盛世嘉园2号楼13层12a01",
+      "address2": "大望路建国路98号盛世嘉园2号楼13层12a01",
+      "lat": 39.912645,
+      "lng": 116.478765
+    },
+    {
+      "id": 320,
+      "spaceType": "瘦身会所",
+      "spaceName": "泰爱spa(北京店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路建国路93号万达广场1号楼205室",
+      "address2": "大望路建国路93号万达广场1号楼205室",
+      "lat": 39.914842,
+      "lng": 116.477904
+    },
+    {
+      "id": 321,
+      "spaceType": "玩具店",
+      "spaceName": "HABA(SKP新光天地店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路建国路87号新光天地5楼",
+      "address2": "大望路建国路87号新光天地5楼",
+      "lat": 39.915743,
+      "lng": 116.485337
+    },
+    {
+      "id": 322,
+      "spaceType": "博物馆",
+      "spaceName": "中国紫檀博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路建国路23号",
+      "address2": "大望路建国路23号",
+      "lat": 39.916717,
+      "lng": 116.532537
+    },
+    {
+      "id": 323,
+      "spaceType": "瘦身会所",
+      "spaceName": "韵spa",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路建国路",
+      "address2": "大望路建国路",
+      "lat": 39.921828,
+      "lng": 116.481599
+    },
+    {
+      "id": 324,
+      "spaceType": "瘦身会所",
+      "spaceName": "克里缇娜专业美容院",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路甘露园17号",
+      "address2": "大望路甘露园17号",
+      "lat": 39.92294,
+      "lng": 116.520871
+    },
+    {
+      "id": 325,
+      "spaceType": "咖啡馆",
+      "spaceName": "地中海咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大望路SOHO现代城公寓2号楼107室",
+      "address2": "大望路SOHO现代城公寓2号楼107室",
+      "lat": 39.911988,
+      "lng": 116.483514
+    },
+    {
+      "id": 326,
+      "spaceType": "博物馆",
+      "spaceName": "观复博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大山子张万坟金南路18号",
+      "address2": "大山子张万坟金南路18号",
+      "lat": 39.990349,
+      "lng": 116.49488
+    },
+    {
+      "id": 327,
+      "spaceType": "花店",
+      "spaceName": "ROOP 多肉植物专卖店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区大山子798艺术区陶瓷二街",
+      "address2": "大山子798艺术区陶瓷二街",
+      "lat": 39.99105,
+      "lng": 116.501431
+    },
+    {
+      "id": 328,
+      "spaceType": "VR体验馆",
+      "spaceName": "9D虚拟现实体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区太阳宫凯德MALL太阳宫店B1-101内K30号",
+      "address2": "太阳宫凯德MALL太阳宫店B1-101内K30号",
+      "lat": 39.978136,
+      "lng": 116.451256
+    },
+    {
+      "id": 329,
+      "spaceType": "健身房",
+      "spaceName": "热炼普拉提健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区太阳宫北街金星园18号楼1202室",
+      "address2": "太阳宫北街金星园18号楼1202室",
+      "lat": 39.97429,
+      "lng": 116.46558
+    },
+    {
+      "id": 330,
+      "spaceType": "轰趴馆",
+      "spaceName": "阡陌客私人定制会所(2号馆)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区草场地艺术区300号(CCD300内)",
+      "address2": "草场地艺术区300号(CCD300内)",
+      "lat": 40.004866,
+      "lng": 116.514151
+    },
+    {
+      "id": 331,
+      "spaceType": "轰趴馆",
+      "spaceName": "阡陌客私人定制会所(1号馆)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区草场地国际艺术园区240号(独栋白色三层小楼)",
+      "address2": "草场地国际艺术园区240号(独栋白色三层小楼)",
+      "lat": 40.003192,
+      "lng": 116.511733
+    },
+    {
+      "id": 332,
+      "spaceType": "玩具店",
+      "spaceName": "乐高机器人创意美术科技中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区双桥路2号国泰百货5",
+      "address2": "双桥路2号国泰百货5",
+      "lat": 39.914131,
+      "lng": 116.58393
+    },
+    {
+      "id": 333,
+      "spaceType": "咖啡馆",
+      "spaceName": "蜗牛咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区双花园南里3区5号楼101室",
+      "address2": "双花园南里3区5号楼101室",
+      "lat": 39.904687,
+      "lng": 116.463039
+    },
+    {
+      "id": 334,
+      "spaceType": "咖啡馆",
+      "spaceName": "阅",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区双花园南里3区21—1室",
+      "address2": "双花园南里3区21—1室",
+      "lat": 39.904751,
+      "lng": 116.46585
+    },
+    {
+      "id": 335,
+      "spaceType": "健身房",
+      "spaceName": "富力万丽游泳",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区双井东三环中路61号北京富力万丽酒店27层",
+      "address2": "双井东三环中路61号北京富力万丽酒店27层",
+      "lat": 39.903542,
+      "lng": 116.467332
+    },
+    {
+      "id": 336,
+      "spaceType": "健身房",
+      "spaceName": "LIKE FITNESS乐健身工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路华纺新天地4号楼309、214室",
+      "address2": "青年路华纺新天地4号楼309、214室",
+      "lat": 39.938529,
+      "lng": 116.520837
+    },
+    {
+      "id": 337,
+      "spaceType": "轰趴馆",
+      "spaceName": "大鱼·小柴狼人杀轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路天鹅湾商务特区22号楼206",
+      "address2": "青年路天鹅湾商务特区22号楼206",
+      "lat": 39.928678,
+      "lng": 116.527672
+    },
+    {
+      "id": 338,
+      "spaceType": "轰趴馆",
+      "spaceName": "Amazing Party",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路褡裢坡地铁站",
+      "address2": "青年路朝阳北路褡裢坡地铁站",
+      "lat": 39.928846,
+      "lng": 116.569397
+    },
+    {
+      "id": 339,
+      "spaceType": "轰趴馆",
+      "spaceName": "轰咖轰咖 咖啡主题轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路青年汇三期102号楼10层1011",
+      "address2": "青年路朝阳北路青年汇三期102号楼10层1011 ",
+      "lat": 39.92875,
+      "lng": 116.520938
+    },
+    {
+      "id": 340,
+      "spaceType": "轰趴馆",
+      "spaceName": "灵阁密室逃脱真人体验俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路青年公社104号楼骏一孵化器B1层",
+      "address2": "青年路朝阳北路青年公社104号楼骏一孵化器B1层",
+      "lat": 39.928609,
+      "lng": 116.520461
+    },
+    {
+      "id": 341,
+      "spaceType": "轰趴馆",
+      "spaceName": "朝北63号-京城荟",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路63号",
+      "address2": "青年路朝阳北路63号",
+      "lat": 39.929289,
+      "lng": 116.546839
+    },
+    {
+      "id": 342,
+      "spaceType": "茶馆",
+      "spaceName": "如期而遇茶空间*酒窖",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路107号院15号楼101室",
+      "address2": "青年路朝阳北路107号院15号楼101室",
+      "lat": 39.93181,
+      "lng": 116.51734
+    },
+    {
+      "id": 343,
+      "spaceType": "VR体验馆",
+      "spaceName": "奥秘世界虚拟现实VR体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路朝阳北路101号朝阳大悦城10层",
+      "address2": "青年路朝阳北路101号朝阳大悦城10层",
+      "lat": 39.929788,
+      "lng": 116.52427
+    },
+    {
+      "id": 344,
+      "spaceType": "轰趴馆",
+      "spaceName": "野孩子轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路青年汇青年公社102号楼602",
+      "address2": "青年路青年汇青年公社102号楼602",
+      "lat": 39.928759,
+      "lng": 116.521444
+    },
+    {
+      "id": 345,
+      "spaceType": "轰趴馆",
+      "spaceName": "全城弓猎射箭Plus主题俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路国美第一城3号院6号楼B1层",
+      "address2": "青年路国美第一城3号院6号楼B1层",
+      "lat": 39.939491,
+      "lng": 116.520141
+    },
+    {
+      "id": 346,
+      "spaceType": "轰趴馆",
+      "spaceName": "全城弓猎射箭Plus主题俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路国美第一城3号院6号楼B1层",
+      "address2": "青年路国美第一城3号院6号楼B1层",
+      "lat": 39.939491,
+      "lng": 116.520141
+    },
+    {
+      "id": 347,
+      "spaceType": "轰趴馆",
+      "spaceName": "果冻俱乐部(密室逃脱轰趴馆)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路国美第一城2号院2号楼一层（朝阳大悦城西北）",
+      "address2": "青年路国美第一城2号院2号楼一层（朝阳大悦城西北）",
+      "lat": 39.938581,
+      "lng": 116.519509
+    },
+    {
+      "id": 348,
+      "spaceType": "咖啡馆",
+      "spaceName": "小窝咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区青年路29号院华纺易城20号楼1号底商",
+      "address2": "青年路29号院华纺易城20号楼1号底商",
+      "lat": 39.935045,
+      "lng": 116.521499
+    },
+    {
+      "id": 349,
+      "spaceType": "跆拳道馆",
+      "spaceName": "尚恩国际跆拳道",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区常营陆港城西侧1层底商跆拳道",
+      "address2": "常营陆港城西侧1层底商跆拳道",
+      "lat": 39.929808,
+      "lng": 116.597845
+    },
+    {
+      "id": 350,
+      "spaceType": "花店",
+      "spaceName": "花草季",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区常营朝阳北路丽景园底商地下一层",
+      "address2": "常营朝阳北路丽景园底商地下一层",
+      "lat": 39.930892,
+      "lng": 116.616363
+    },
+    {
+      "id": 351,
+      "spaceType": "玩具店",
+      "spaceName": "泼泼龙",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区小营北四环东路73号远洋未来广场",
+      "address2": "小营北四环东路73号远洋未来广场",
+      "lat": 39.995936,
+      "lng": 116.438753
+    },
+    {
+      "id": 352,
+      "spaceType": "网球场",
+      "spaceName": "太阳宫茂华UHN国际村网球场",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区曙光西路西坝河东里社区2号院",
+      "address2": "曙光西路西坝河东里社区2号院",
+      "lat": 39.972486,
+      "lng": 116.451541
+    },
+    {
+      "id": 353,
+      "spaceType": "VR体验馆",
+      "spaceName": "203真人密室逃脱VR体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区十里堡朝阳北路朝阳雅筑3号楼3单元地下室",
+      "address2": "十里堡朝阳北路朝阳雅筑3号楼3单元地下室",
+      "lat": 39.929407,
+      "lng": 116.527725
+    },
+    {
+      "id": 354,
+      "spaceType": "玩具店",
+      "spaceName": "玩具反斗城",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区十里堡朝阳北路101号朝阳大悦城5",
+      "address2": "十里堡朝阳北路101号朝阳大悦城5",
+      "lat": 39.929997,
+      "lng": 116.524489
+    },
+    {
+      "id": 355,
+      "spaceType": "咖啡馆",
+      "spaceName": "See you coffee",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区十里堡延静里中街工美大厦旁",
+      "address2": "十里堡延静里中街工美大厦旁",
+      "lat": 39.924973,
+      "lng": 116.50541
+    },
+    {
+      "id": 356,
+      "spaceType": "花店",
+      "spaceName": "怡然花趣-花店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区十八里店弘燕路西7号",
+      "address2": "十八里店弘燕路西7号",
+      "lat": 39.87362,
+      "lng": 116.478357
+    },
+    {
+      "id": 357,
+      "spaceType": "博物馆",
+      "spaceName": "中国民航博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区首都机场机场辅路南侧民航200号",
+      "address2": "首都机场机场辅路南侧民航200号",
+      "lat": 39.994492,
+      "lng": 116.494982
+    },
+    {
+      "id": 358,
+      "spaceType": "舞蹈室",
+      "spaceName": "WOW DANCE(798校区)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区酒仙桥路2号798艺术区陶瓷一街镜湖艺术中心一层",
+      "address2": "酒仙桥路2号798艺术区陶瓷一街镜湖艺术中心一层",
+      "lat": 39.989137,
+      "lng": 116.502053
+    },
+    {
+      "id": 359,
+      "spaceType": "舞蹈室",
+      "spaceName": "G-Steps 街舞培训班培训机构",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区酒仙桥北路1号楼C15栋体育中心内B1",
+      "address2": "酒仙桥北路1号楼C15栋体育中心内B1",
+      "lat": 39.994189,
+      "lng": 116.509537
+    },
+    {
+      "id": 360,
+      "spaceType": "博物馆",
+      "spaceName": "中国铁道博物馆东郊馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区酒仙桥北路1号院北侧",
+      "address2": "酒仙桥北路1号院北侧",
+      "lat": 39.995551,
+      "lng": 116.517251
+    },
+    {
+      "id": 361,
+      "spaceType": "咖啡馆",
+      "spaceName": "蜗牛咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区酒仙桥大山子798艺术区北4街蓝色97罐西侧",
+      "address2": "酒仙桥大山子798艺术区北4街蓝色97罐西侧",
+      "lat": 39.99105,
+      "lng": 116.501431
+    },
+    {
+      "id": 362,
+      "spaceType": "跆拳道馆",
+      "spaceName": "勇士毅衡巴西柔术泰拳搏击馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区酒仙桥将台路与驼房营路交界处京客隆驼房营店3楼",
+      "address2": "酒仙桥将台路与驼房营路交界处京客隆驼房营店3楼",
+      "lat": 39.97706,
+      "lng": 116.509196
+    },
+    {
+      "id": 363,
+      "spaceType": "轰趴馆",
+      "spaceName": "All in 75 乐空间",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区珠江帝景B区西2门2号楼1003室",
+      "address2": "珠江帝景B区西2门2号楼1003室",
+      "lat": 39.895837,
+      "lng": 116.488916
+    },
+    {
+      "id": 364,
+      "spaceType": "咖啡馆",
+      "spaceName": "漫咖啡",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三丰北里2号悠唐购物中心二期2层",
+      "address2": "三丰北里2号悠唐购物中心二期2层",
+      "lat": 39.927187,
+      "lng": 116.44426
+    },
+    {
+      "id": 365,
+      "spaceType": "轰趴馆",
+      "spaceName": "和密室-日系和风主题密室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯农展馆南路通广大厦14层1403室",
+      "address2": "三里屯农展馆南路通广大厦14层1403室",
+      "lat": 39.939872,
+      "lng": 116.469621
+    },
+    {
+      "id": 366,
+      "spaceType": "轰趴馆",
+      "spaceName": "城市派都市生活馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯东直门外大街42号宇飞大厦906室",
+      "address2": "三里屯东直门外大街42号宇飞大厦906室",
+      "lat": 39.946135,
+      "lng": 116.444009
+    },
+    {
+      "id": 367,
+      "spaceType": "茶馆",
+      "spaceName": "忆兰舍茶艺茶道插花培训",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯东苑公寓P1栋",
+      "address2": "三里屯东苑公寓P1栋",
+      "lat": 39.952158,
+      "lng": 116.478837
+    },
+    {
+      "id": 368,
+      "spaceType": "酒吧",
+      "spaceName": "YK烤肉回廊",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯北路19号三里屯太古里南区S10-3层",
+      "address2": "三里屯北路19号三里屯太古里南区S10-3层",
+      "lat": 39.940308,
+      "lng": 116.460768
+    },
+    {
+      "id": 369,
+      "spaceType": "轰趴馆",
+      "spaceName": "UPASS密室逃脱体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯朝阳公园南路6号公园大道生活广场B1号红色巴士",
+      "address2": "三里屯朝阳公园南路6号公园大道生活广场B1号红色巴士",
+      "lat": 39.938127,
+      "lng": 116.491531
+    },
+    {
+      "id": 370,
+      "spaceType": "玩具店",
+      "spaceName": "天雅模型",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯工体东路甲15号京武宾馆b1号",
+      "address2": "三里屯工体东路甲15号京武宾馆b1号",
+      "lat": 39.936215,
+      "lng": 116.457307
+    },
+    {
+      "id": 371,
+      "spaceType": "轰趴馆",
+      "spaceName": "网鱼电竞Party欢乐包",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯工人体育馆西路6号",
+      "address2": "三里屯工人体育馆西路6号",
+      "lat": 39.938006,
+      "lng": 116.448803
+    },
+    {
+      "id": 372,
+      "spaceType": "轰趴馆",
+      "spaceName": "爬梯时间轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯工人体育场北路21号永利国际1单元932",
+      "address2": "三里屯工人体育场北路21号永利国际1单元932",
+      "lat": 39.940916,
+      "lng": 116.451592
+    },
+    {
+      "id": 373,
+      "spaceType": "轰趴馆",
+      "spaceName": "七面玲珑轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯soho商场2-B1-203",
+      "address2": "三里屯soho商场2-B1-203",
+      "lat": 39.938361,
+      "lng": 116.460966
+    },
+    {
+      "id": 374,
+      "spaceType": "VR体验馆",
+      "spaceName": "乐翻天VR体验馆 PARK",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯SOHO3号商场1层3111号",
+      "address2": "三里屯SOHO3号商场1层3111号",
+      "lat": 39.956323,
+      "lng": 116.447083
+    },
+    {
+      "id": 375,
+      "spaceType": "花店",
+      "spaceName": "花·礼Flower Ceremony",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯Soho2号商场一层2128室",
+      "address2": "三里屯Soho2号商场一层2128室 ",
+      "lat": 39.956323,
+      "lng": 116.447083
+    },
+    {
+      "id": 376,
+      "spaceType": "轰趴馆",
+      "spaceName": "ELEVEN轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯SOHO-1号商场B1楼-112室",
+      "address2": "三里屯SOHO-1号商场B1楼-112室",
+      "lat": 39.938041,
+      "lng": 116.460395
+    },
+    {
+      "id": 377,
+      "spaceType": "轰趴馆",
+      "spaceName": "ELEVEN专业狼人杀德州扑克桌游俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯SOHO-1号商场B1-115室",
+      "address2": "三里屯SOHO-1号商场B1-115室",
+      "lat": 39.938041,
+      "lng": 116.460395
+    },
+    {
+      "id": 378,
+      "spaceType": "轰趴馆",
+      "spaceName": "面聚轰趴馆·生日聚会私人定制",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三里屯SOHO1号商场B1-111",
+      "address2": "三里屯SOHO1号商场B1-111 ",
+      "lat": 39.928222,
+      "lng": 116.439381
+    },
+    {
+      "id": 379,
+      "spaceType": "花店",
+      "spaceName": "枝後花艺工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区三元桥天元港中心地下一层商业街",
+      "address2": "三元桥天元港中心地下一层商业街",
+      "lat": 39.961339,
+      "lng": 116.466626
+    },
+    {
+      "id": 380,
+      "spaceType": "博物馆",
+      "spaceName": "北京中医药大学博物馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区左家庄北三环东路11号北京中医药大学内",
+      "address2": "左家庄北三环东路11号北京中医药大学内",
+      "lat": 39.977302,
+      "lng": 116.434474
+    },
+    {
+      "id": 381,
+      "spaceType": "儿童摄影",
+      "spaceName": "1208KIDS儿童摄影",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸双井百子湾路32号苹果社区北区3A-1208室",
+      "address2": "国贸双井百子湾路32号苹果社区北区3A-1208室",
+      "lat": 39.90327,
+      "lng": 116.477792
+    },
+    {
+      "id": 382,
+      "spaceType": "儿童摄影",
+      "spaceName": "韩国首尔宝贝Seoul Baby儿童摄影",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸西大望路甲20号院(亚洲健身学院旁)",
+      "address2": "国贸西大望路甲20号院(亚洲健身学院旁) ",
+      "lat": 39.902624,
+      "lng": 116.487546
+    },
+    {
+      "id": 383,
+      "spaceType": "儿童摄影",
+      "spaceName": "韩国童感TOUCH BABY儿童摄影",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸神路街39号 日坛公园北门",
+      "address2": "国贸神路街39号 日坛公园北门",
+      "lat": 39.924502,
+      "lng": 116.450464
+    },
+    {
+      "id": 384,
+      "spaceType": "茶馆",
+      "spaceName": "私聊",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸光华路首经贸大学南门1楼",
+      "address2": "国贸光华路首经贸大学南门1楼",
+      "lat": 39.920132,
+      "lng": 116.480912
+    },
+    {
+      "id": 385,
+      "spaceType": "儿童摄影",
+      "spaceName": "小鬼当佳儿童摄影(世贸天阶店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸光华路9号世贸天阶3楼L308",
+      "address2": "国贸光华路9号世贸天阶3楼L308",
+      "lat": 39.921932,
+      "lng": 116.459954
+    },
+    {
+      "id": 386,
+      "spaceType": "玩具店",
+      "spaceName": "Kids Land",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸光华路9号世贸天阶3楼",
+      "address2": "国贸光华路9号世贸天阶3楼",
+      "lat": 39.921932,
+      "lng": 116.459954
+    },
+    {
+      "id": 387,
+      "spaceType": "儿童摄影",
+      "spaceName": "纸飞机儿童摄影(建外soho店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸建外soho西区18号楼1202室",
+      "address2": "国贸建外soho西区18号楼1202室",
+      "lat": 39.912588,
+      "lng": 116.459622
+    },
+    {
+      "id": 388,
+      "spaceType": "花店",
+      "spaceName": "CBDFlower鲜花",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区国贸金桐西路10号远洋光华国际B1层11A/B单元",
+      "address2": "国贸金桐西路10号远洋光华国际B1层11A/B单元",
+      "lat": 39.921775,
+      "lng": 116.461057
+    },
+    {
+      "id": 389,
+      "spaceType": "跆拳道馆",
+      "spaceName": "中国森迪跆拳道示范团",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区高碑店朝阳花园闸路红星美凯龙商场B2层",
+      "address2": "高碑店朝阳花园闸路红星美凯龙商场B2层",
+      "lat": 39.958953,
+      "lng": 116.521695
+    },
+    {
+      "id": 390,
+      "spaceType": "体育馆",
+      "spaceName": "onefit体能训练工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区高碑店新村1区11-4",
+      "address2": "高碑店新村1区11-4",
+      "lat": 39.908906,
+      "lng": 116.524199
+    },
+    {
+      "id": 391,
+      "spaceType": "舞蹈室",
+      "spaceName": "spy舞蹈中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区高碑店吉里国际艺术区C1(超级蜂巢小区)",
+      "address2": "高碑店吉里国际艺术区C1(超级蜂巢小区)",
+      "lat": 39.904271,
+      "lng": 116.5621
+    },
+    {
+      "id": 392,
+      "spaceType": "咖啡馆",
+      "spaceName": "大隐生活咖",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区高井甲8号红星美凯龙南门（近中国传媒大学）",
+      "address2": "高井甲8号红星美凯龙南门（近中国传媒大学）",
+      "lat": 39.893566,
+      "lng": 116.494809
+    },
+    {
+      "id": 393,
+      "spaceType": "茶馆",
+      "spaceName": "明园茶馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体东路8号康堡花园内明园（工人体育场东门对面）",
+      "address2": "工体东路8号康堡花园内明园（工人体育场东门对面）",
+      "lat": 39.934449,
+      "lng": 116.457477
+    },
+    {
+      "id": 394,
+      "spaceType": "咖啡馆",
+      "spaceName": "雕刻时光咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体东路16号",
+      "address2": "工体东路16号",
+      "lat": 39.932461,
+      "lng": 116.45787
+    },
+    {
+      "id": 395,
+      "spaceType": "酒吧",
+      "spaceName": "香草概念BOTANY",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体北路永利国际东门2单元1209",
+      "address2": "工体北路永利国际东门2单元1209",
+      "lat": 39.940916,
+      "lng": 116.451592
+    },
+    {
+      "id": 396,
+      "spaceType": "私人影院",
+      "spaceName": "BFC暴风超感点播影院",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体北路8号院三里屯SOHO3号商场B1层317室",
+      "address2": "工体北路8号院三里屯SOHO3号商场B1层317室",
+      "lat": 39.938041,
+      "lng": 116.460395
+    },
+    {
+      "id": 397,
+      "spaceType": "轰趴馆",
+      "spaceName": "Just4U生日轰趴馆私人订制",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体北路8号院三里屯SOHO2号商场B1层B1203",
+      "address2": "工体北路8号院三里屯SOHO2号商场B1层B1203",
+      "lat": 39.938041,
+      "lng": 116.460395
+    },
+    {
+      "id": 398,
+      "spaceType": "桌游吧",
+      "spaceName": "ELEVEN专业狼人杀德州扑克桌游俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体北路8号院三里屯SOHO1号商场B1层B1-115室",
+      "address2": "工体北路8号院三里屯SOHO1号商场B1层B1-115室",
+      "lat": 39.938041,
+      "lng": 116.460395
+    },
+    {
+      "id": 399,
+      "spaceType": "私人影院",
+      "spaceName": "艾米1895电影街",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工体北路13号世茂广场3楼",
+      "address2": "工体北路13号世茂广场3楼",
+      "lat": 39.941643,
+      "lng": 116.45672
+    },
+    {
+      "id": 400,
+      "spaceType": "咖啡厅",
+      "spaceName": "TIENSTIENS将将",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工人体育场北路4号北京机电院10号楼",
+      "address2": "工人体育场北路4号北京机电院10号楼",
+      "lat": 39.938028,
+      "lng": 116.46383
+    },
+    {
+      "id": 401,
+      "spaceType": "酒吧",
+      "spaceName": "花语 柑鹿FLOWER MANNA",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工人体育场北路21号永利国际1单元1619室",
+      "address2": "工人体育场北路21号永利国际1单元1619室",
+      "lat": 39.940916,
+      "lng": 116.451592
+    },
+    {
+      "id": 402,
+      "spaceType": "酒吧",
+      "spaceName": "SIR.teen酒吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工人体育场西路6号2层",
+      "address2": "工人体育场西路6号2层",
+      "lat": 39.934646,
+      "lng": 116.450863
+    },
+    {
+      "id": 403,
+      "spaceType": "茶馆",
+      "spaceName": "明园茶馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工人体育场工体东路8号康堡花园内明园",
+      "address2": "工人体育场工体东路8号康堡花园内明园",
+      "lat": 39.934449,
+      "lng": 116.457477
+    },
+    {
+      "id": 404,
+      "spaceType": "酒吧",
+      "spaceName": "比较拿铁酒吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区工人体育场",
+      "address2": "工人体育场",
+      "lat": 39.936705,
+      "lng": 116.453845
+    },
+    {
+      "id": 405,
+      "spaceType": "花店",
+      "spaceName": "小春日和精品花店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区宏泰东街望京公园七区保利中央公园8-38",
+      "address2": "宏泰东街望京公园七区保利中央公园8-38",
+      "lat": 40.015371,
+      "lng": 116.518703
+    },
+    {
+      "id": 406,
+      "spaceType": "轰趴馆",
+      "spaceName": "莱肯小镇专业狼人杀桌游吧",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区光熙家园1号楼南侧下沉步行街底商108",
+      "address2": "光熙家园1号楼南侧下沉步行街底商108",
+      "lat": 39.974536,
+      "lng": 116.439339
+    },
+    {
+      "id": 407,
+      "spaceType": "餐厅",
+      "spaceName": "榕座",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区呼家楼京广桥西北角，京广中心商务楼后附楼B1层",
+      "address2": "呼家楼京广桥西北角，京广中心商务楼后附楼B1层",
+      "lat": 39.927038,
+      "lng": 116.467879
+    },
+    {
+      "id": 408,
+      "spaceType": "健身房",
+      "spaceName": "SpaceCycle",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国门外大街1号国贸商城北区3层",
+      "address2": "建国门外大街1号国贸商城北区3层",
+      "lat": 39.918137,
+      "lng": 116.466105
+    },
+    {
+      "id": 409,
+      "spaceType": "舞蹈室",
+      "spaceName": "c&j玄舞诗集",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路soho号",
+      "address2": "建国路soho号",
+      "lat": 39.928222,
+      "lng": 116.439381
+    },
+    {
+      "id": 410,
+      "spaceType": "舞蹈室",
+      "spaceName": "泫舞舞蹈工作室",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路88号院9号楼大望路SOHO现代城906室",
+      "address2": "建国路88号院9号楼大望路SOHO现代城906室",
+      "lat": 39.913187,
+      "lng": 116.48146
+    },
+    {
+      "id": 411,
+      "spaceType": "咖啡馆",
+      "spaceName": "娱客众筹咖啡馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路88号SOHO现代城西南角（红星大厦）",
+      "address2": "建国路88号SOHO现代城西南角（红星大厦）",
+      "lat": 39.913007,
+      "lng": 116.480104
+    },
+    {
+      "id": 412,
+      "spaceType": "舞蹈室",
+      "spaceName": "甜心豹舞蹈俱乐部(SOHO现代城店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路88号SOHO现代城C座2层s-1402",
+      "address2": "建国路88号SOHO现代城C座2层s-1402",
+      "lat": 39.913011,
+      "lng": 116.481544
+    },
+    {
+      "id": 413,
+      "spaceType": "健身房",
+      "spaceName": "iFitStar星健身(CBD国贸概念店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路88号SOHO现代城A座4108室",
+      "address2": "建国路88号SOHO现代城A座4108室",
+      "lat": 39.913397,
+      "lng": 116.483488
+    },
+    {
+      "id": 414,
+      "spaceType": "咖啡馆",
+      "spaceName": "abbey road 艾比路",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建国路15号院华文国际传媒大厦A座底商103",
+      "address2": "建国路15号院华文国际传媒大厦A座底商103",
+      "lat": 39.916446,
+      "lng": 116.588645
+    },
+    {
+      "id": 415,
+      "spaceType": "健身房",
+      "spaceName": "fit4life女子拳击舞蹈健身俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建外soho西区17号楼2505(清华附小西侧)",
+      "address2": "建外soho西区17号楼2505(清华附小西侧)",
+      "lat": 39.911655,
+      "lng": 116.459175
+    },
+    {
+      "id": 416,
+      "spaceType": "咖啡馆",
+      "spaceName": "basic coffee",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区建外 SOHO东区9号别墅西南角3层",
+      "address2": "建外 SOHO东区9号别墅西南角3层",
+      "lat": 39.911848,
+      "lng": 116.466432
+    },
+    {
+      "id": 417,
+      "spaceType": "跆拳道馆",
+      "spaceName": "鹏礼跆拳道院(北辰天阳百货店",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区慧忠路3号北辰天阳百货2层",
+      "address2": "慧忠路3号北辰天阳百货2层",
+      "lat": 40.002315,
+      "lng": 116.418097
+    },
+    {
+      "id": 418,
+      "spaceType": "轰趴馆",
+      "spaceName": "Aloha 雅萝哈私人派对空间",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区金盏乡东窑村东窑艺术区005号",
+      "address2": "金盏乡东窑村东窑艺术区005号",
+      "lat": 40.004433,
+      "lng": 116.618554
+    },
+    {
+      "id": 419,
+      "spaceType": "咖啡馆",
+      "spaceName": "this café",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区金汇路8号中骏世界城E座底商（星美国际影城旁）",
+      "address2": "金汇路8号中骏世界城E座底商（星美国际影城旁）",
+      "lat": 39.923419,
+      "lng": 116.458526
+    },
+    {
+      "id": 420,
+      "spaceType": "舞蹈室",
+      "spaceName": "G-max舞蹈健身俱乐部",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区京城梨园内北京电影学院影视文创园公众空间六号",
+      "address2": "京城梨园内北京电影学院影视文创园公众空间六号",
+      "lat": 39.977827,
+      "lng": 116.362382
+    },
+    {
+      "id": 421,
+      "spaceType": "跆拳道馆",
+      "spaceName": "管庄正宗跆拳道分馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区管庄路69号",
+      "address2": "管庄路69号",
+      "lat": 39.923003,
+      "lng": 116.597352
+    },
+    {
+      "id": 422,
+      "spaceType": "花店",
+      "spaceName": "ROOP多肉植物花园(蟹岛店)",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区蟹岛度假村内 蟹岛嘉年华 往西100米",
+      "address2": "蟹岛度假村内 蟹岛嘉年华 往西100米",
+      "lat": 40.020204,
+      "lng": 116.562811
+    },
+    {
+      "id": 423,
+      "spaceType": "茶馆",
+      "spaceName": "拾一区",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区安贞和平西街甲2号和平街11区37号楼2楼",
+      "address2": "安贞和平西街甲2号和平街11区37号楼2楼",
+      "lat": 39.974121,
+      "lng": 116.429689
+    },
+    {
+      "id": 424,
+      "spaceType": "健身房",
+      "spaceName": "喜来登游泳健身中心",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区安贞北三环东路36号环球贸易中心内金隅喜来登酒店7楼",
+      "address2": "安贞北三环东路36号环球贸易中心内金隅喜来登酒店7楼",
+      "lat": 39.973686,
+      "lng": 116.414906
+    },
+    {
+      "id": 425,
+      "spaceType": "轰趴馆",
+      "spaceName": "51区轰趴馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区安立路飘亮阳光广场c2座1102",
+      "address2": "安立路飘亮阳光广场c2座1102",
+      "lat": 40.003799,
+      "lng": 116.416363
+    },
+    {
+      "id": 426,
+      "spaceType": "VR体验馆",
+      "spaceName": "陨石科技馆VR体验馆虚拟现实体验馆",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区798/大山子酒仙桥路751DParkD座等等咖啡厅二层",
+      "address2": "798/大山子酒仙桥路751DParkD座等等咖啡厅二层",
+      "lat": 39.960057,
+      "lng": 116.506623
+    },
+    {
+      "id": 427,
+      "spaceType": "舞蹈室",
+      "spaceName": "吉门舞社",
+      "spaceCounty": "朝阳区",
+      "address1": "朝阳区 利泽西街209号望馨商业中心3层 ",
+      "address2": " 利泽西街209号望馨商业中心3层 ",
+      "lat": 40.014497,
+      "lng": 116.46904
+    },
+    {
+      "id": 428,
+      "spaceType": "咖啡馆",
+      "spaceName": "意悦咖啡馆",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区荣华南路12号泰豪智能大厦A座一层",
+      "address2": "荣华南路12号泰豪智能大厦A座一层",
+      "lat": 39.793683,
+      "lng": 116.523435
+    },
+    {
+      "id": 429,
+      "spaceType": "咖啡馆",
+      "spaceName": "F.R.COFFEE",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区荣昌东街隆盛大厦A1层",
+      "address2": "荣昌东街隆盛大厦A1层",
+      "lat": 39.790027,
+      "lng": 116.531241
+    },
+    {
+      "id": 430,
+      "spaceType": "轰趴馆",
+      "spaceName": "约趴空间主题聚会轰趴别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区爱情海玫瑰文化博览园内",
+      "address2": "爱情海玫瑰文化博览园内",
+      "lat": 39.65279,
+      "lng": 116.425195
+    },
+    {
+      "id": 431,
+      "spaceType": "咖啡馆",
+      "spaceName": "帕丁顿西餐厅(亦庄易居国际店)",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄荣华中路5号院易居国际东门",
+      "address2": "亦庄荣华中路5号院易居国际东门",
+      "lat": 39.810347,
+      "lng": 116.506093
+    },
+    {
+      "id": 432,
+      "spaceType": "咖啡馆",
+      "spaceName": "77号咖茶吧",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄天华东路林肯公园c区底商三人学校",
+      "address2": "亦庄天华东路林肯公园c区底商三人学校",
+      "lat": 39.810404,
+      "lng": 116.497555
+    },
+    {
+      "id": 433,
+      "spaceType": "篮球馆",
+      "spaceName": "东方启明星篮球培训中心",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区亦庄国锐金嵿荣华天地会所",
+      "address2": "亦庄国锐金嵿荣华天地会所",
+      "lat": 39.828333,
+      "lng": 116.527543
+    },
+    {
+      "id": 434,
+      "spaceType": "别墅",
+      "spaceName": "独栋豪华花园别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区龙景湾二区",
+      "address2": "龙景湾二区",
+      "lat": 39.627198,
+      "lng": 116.320303
+    },
+    {
+      "id": 435,
+      "spaceType": "别墅",
+      "spaceName": "大兴300平欧式别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区庞各庄富力丹麦小镇",
+      "address2": "庞各庄富力丹麦小镇",
+      "lat": 39.619468,
+      "lng": 116.327454
+    },
+    {
+      "id": 436,
+      "spaceType": "别墅",
+      "spaceName": "新独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区庞各庄富力丹麦小镇",
+      "address2": "庞各庄富力丹麦小镇",
+      "lat": 39.619468,
+      "lng": 116.327454
+    },
+    {
+      "id": 437,
+      "spaceType": "别墅",
+      "spaceName": "少年派 团建轰趴独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区丽水佳园",
+      "address2": "丽水佳园",
+      "lat": 39.613256,
+      "lng": 116.341492
+    },
+    {
+      "id": 438,
+      "spaceType": "别墅",
+      "spaceName": "田园小清新独栋别墅",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区富力丹麦小镇",
+      "address2": "富力丹麦小镇",
+      "lat": 39.65279,
+      "lng": 116.425195
+    },
+    {
+      "id": 439,
+      "spaceType": "健身房",
+      "spaceName": "林肯会俱乐部",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区文化园西路林肯会俱乐部(林肯公园B区",
+      "address2": "文化园西路林肯会俱乐部(林肯公园B区",
+      "lat": 39.810913,
+      "lng": 116.502534
+    },
+    {
+      "id": 440,
+      "spaceType": "咖啡馆",
+      "spaceName": "紫陌啡语",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区文化园西路8号院45号楼1层102室",
+      "address2": "文化园西路8号院45号楼1层102室",
+      "lat": 39.810334,
+      "lng": 116.500865
+    },
+    {
+      "id": 441,
+      "spaceType": "轰趴管",
+      "spaceName": "镜之森林团建聚会别墅园区",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区南四环京开路与京良路交叉口",
+      "address2": "南四环京开路与京良路交叉口",
+      "lat": 39.728634,
+      "lng": 116.351778
+    },
+    {
+      "id": 442,
+      "spaceType": "咖啡馆",
+      "spaceName": "兰里咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区中建国际港09-09号",
+      "address2": "中建国际港09-09号",
+      "lat": 39.759416,
+      "lng": 116.337829
+    },
+    {
+      "id": 443,
+      "spaceType": "篮球馆",
+      "spaceName": "神奇篮球俱乐部",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区西红门双高路1号",
+      "address2": "西红门双高路1号",
+      "lat": 39.775841,
+      "lng": 116.34437
+    },
+    {
+      "id": 444,
+      "spaceType": "咖啡馆",
+      "spaceName": "亦咖咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区景园北街2号52-1",
+      "address2": "景园北街2号52-1",
+      "lat": 39.787268,
+      "lng": 116.528087
+    },
+    {
+      "id": 445,
+      "spaceType": "咖啡馆",
+      "spaceName": "言几又(荟聚购物中心西红门店)",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区欣宁街15号荟聚购物中心3楼",
+      "address2": "欣宁街15号荟聚购物中心3楼",
+      "lat": 39.793891,
+      "lng": 116.33501
+    },
+    {
+      "id": 446,
+      "spaceType": "篮球馆",
+      "spaceName": "青少年篮球培训",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区旧宫颐运康园羽毛球馆",
+      "address2": "旧宫颐运康园羽毛球馆",
+      "lat": 39.812387,
+      "lng": 116.453097
+    },
+    {
+      "id": 447,
+      "spaceType": "咖啡馆",
+      "spaceName": "巨门咖啡",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区黄村顺驰领海57号楼11号底商",
+      "address2": "黄村顺驰领海57号楼11号底商",
+      "lat": 39.679181,
+      "lng": 116.375673
+    },
+    {
+      "id": 448,
+      "spaceType": "篮球馆",
+      "spaceName": "百灵鸟篮球馆",
+      "spaceCounty": "大兴区",
+      "address1": "大兴区黄村金星路",
+      "address2": "黄村金星路",
+      "lat": 39.767825,
+      "lng": 116.279983
+    },
+    {
+      "id": 449,
+      "spaceType": "网球场",
+      "spaceName": "得乐网球培训(石景山古城店",
+      "spaceCounty": "石景山区",
+      "address1": "石景山区石景山路甲61号",
+      "address2": "石景山路甲61号",
+      "lat": 39.938867,
+      "lng": 116.184556
+    },
+    {
+      "id": 450,
+      "spaceType": "健身房",
+      "spaceName": "力美乐健身工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区闹市口中街33号二楼",
+      "address2": "闹市口中街33号二楼",
+      "lat": 39.910788,
+      "lng": 116.370118
+    },
+    {
+      "id": 451,
+      "spaceType": "KTV",
+      "spaceName": "新大都国际娱乐会所",
+      "spaceCounty": "西城区",
+      "address1": "西城区车公庄大街21号",
+      "address2": "车公庄大街21号",
+      "lat": 39.938731,
+      "lng": 116.342798
+    },
+    {
+      "id": 452,
+      "spaceType": "录音棚",
+      "spaceName": "糖果录音棚",
+      "spaceCounty": "西城区",
+      "address1": "西城区赵登禹路甲80号",
+      "address2": "赵登禹路甲80号",
+      "lat": 39.940075,
+      "lng": 116.374921
+    },
+    {
+      "id": 453,
+      "spaceType": "养生馆",
+      "spaceName": "养可医理疗馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门阜城门内大街甲90号",
+      "address2": "复兴门阜城门内大街甲90号",
+      "lat": 39.929263,
+      "lng": 116.376205
+    },
+    {
+      "id": 454,
+      "spaceType": "瑜伽健身",
+      "spaceName": "婵心瑜伽生活馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门南大街甲2号天银大厦A室西座B2楼天银健身俱",
+      "address2": "复兴门南大街甲2号天银大厦A室西座B2楼天银健身俱",
+      "lat": 39.910323,
+      "lng": 116.364546
+    },
+    {
+      "id": 455,
+      "spaceType": "咖啡厅",
+      "spaceName": "Dunkin'Donuts",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门内大街101号百盛购物中心南楼一层s1-02",
+      "address2": "复兴门内大街101号百盛购物中心南楼一层s1-02 ",
+      "lat": 39.913499,
+      "lng": 116.365211
+    },
+    {
+      "id": 456,
+      "spaceType": "西餐厅",
+      "spaceName": "唐秀酒吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门外大街19号唐拉雅秀酒店B1",
+      "address2": "复兴门外大街19号唐拉雅秀酒店B1",
+      "lat": 39.913623,
+      "lng": 116.349631
+    },
+    {
+      "id": 457,
+      "spaceType": "餐厅",
+      "spaceName": "寻味香港",
+      "spaceCounty": "西城区",
+      "address1": "西城区动物园西直门门外大街1号凯德MALL4楼",
+      "address2": "动物园西直门门外大街1号凯德MALL4楼",
+      "lat": 39.947367,
+      "lng": 116.359147
+    },
+    {
+      "id": 458,
+      "spaceType": "西餐厅",
+      "spaceName": "BASE",
+      "spaceCounty": "西城区",
+      "address1": "西城区动物园西直门西环广场T2写字楼7层天台",
+      "address2": "动物园西直门西环广场T2写字楼7层天台",
+      "lat": 39.947069,
+      "lng": 116.35939
+    },
+    {
+      "id": 459,
+      "spaceType": "录音棚",
+      "spaceName": "北京百瑞录音棚",
+      "spaceCounty": "西城区",
+      "address1": "西城区东单三条8-16东方广场东配楼B403室",
+      "address2": "东单三条8-16东方广场东配楼B403室",
+      "lat": 39.93428,
+      "lng": 116.37319
+    },
+    {
+      "id": 460,
+      "spaceType": "轰趴馆",
+      "spaceName": "大嘻地轰趴馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区德胜门西大街15号远洋风景4号楼1单元101",
+      "address2": "德胜门西大街15号远洋风景4号楼1单元101",
+      "lat": 39.951871,
+      "lng": 116.367422
+    },
+    {
+      "id": 461,
+      "spaceType": "餐厅",
+      "spaceName": "日昌餐馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区德外大街安德路81号",
+      "address2": "德外大街安德路81号",
+      "lat": 39.957589,
+      "lng": 116.387853
+    },
+    {
+      "id": 462,
+      "spaceType": "咖啡厅",
+      "spaceName": "密咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区广内大街广安门内乐凯大厦一层",
+      "address2": "广内大街广安门内乐凯大厦一层",
+      "lat": 39.896205,
+      "lng": 116.362997
+    },
+    {
+      "id": 463,
+      "spaceType": "健身房",
+      "spaceName": "金融派健身荟",
+      "spaceCounty": "西城区",
+      "address1": "西城区广成街金宸国际公寓3号楼4单元1301",
+      "address2": "广成街金宸国际公寓3号楼4单元1301",
+      "lat": 39.918893,
+      "lng": 116.368725
+    },
+    {
+      "id": 464,
+      "spaceType": "养生馆",
+      "spaceName": "正生源",
+      "spaceCounty": "西城区",
+      "address1": "西城区广外大街马连道中国文化大厦",
+      "address2": "广外大街马连道中国文化大厦",
+      "lat": 39.883429,
+      "lng": 116.338485
+    },
+    {
+      "id": 465,
+      "spaceType": "餐厅",
+      "spaceName": "杭湘园餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区广外大街广安门外街道马连道甲10号",
+      "address2": "广外大街广安门外街道马连道甲10号",
+      "lat": 39.889845,
+      "lng": 116.333465
+    },
+    {
+      "id": 466,
+      "spaceType": "养生馆",
+      "spaceName": "璽堯堂中医推拿调理工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门内大街醋章胡同40",
+      "address2": "广安门内大街醋章胡同40",
+      "lat": 39.894279,
+      "lng": 116.376532
+    },
+    {
+      "id": 467,
+      "spaceType": "KTV",
+      "spaceName": "金童玉女KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门内大街338港中旅大厦4层",
+      "address2": "广安门内大街338港中旅大厦4层",
+      "lat": 39.894654,
+      "lng": 116.360559
+    },
+    {
+      "id": 468,
+      "spaceType": "舞蹈室",
+      "spaceName": "Tenga舞蹈工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外大街168号朗琴国际大厦B座6层608",
+      "address2": "广安门外大街168号朗琴国际大厦B座6层608",
+      "lat": 39.894558,
+      "lng": 116.348031
+    },
+    {
+      "id": 469,
+      "spaceType": "健身房",
+      "spaceName": "前锋健身俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外手帕口巷2号院菜香根酒楼广安门店4层",
+      "address2": "广安门外手帕口巷2号院菜香根酒楼广安门店4层",
+      "lat": 39.894295,
+      "lng": 116.362566
+    },
+    {
+      "id": 470,
+      "spaceType": "KTV",
+      "spaceName": "紫蘭荟KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外街3号道凤凰苏源大厦",
+      "address2": "广安门外街3号道凤凰苏源大厦",
+      "lat": 39.896039,
+      "lng": 116.335534
+    },
+    {
+      "id": 471,
+      "spaceType": "KTV",
+      "spaceName": "地质礼堂ktv(西四店)",
+      "spaceCounty": "西城区",
+      "address1": "西城区羊肉胡同30号B1楼",
+      "address2": "羊肉胡同30号B1楼",
+      "lat": 39.928517,
+      "lng": 116.37773
+    },
+    {
+      "id": 472,
+      "spaceType": "健身房",
+      "spaceName": "西单商场健身中心",
+      "spaceCounty": "西城区",
+      "address1": "西城区万方西单商场",
+      "address2": "万方西单商场",
+      "lat": 39.919407,
+      "lng": 116.347757
+    },
+    {
+      "id": 473,
+      "spaceType": "轰趴馆",
+      "spaceName": "私宅",
+      "spaceCounty": "西城区",
+      "address1": "西城区北新华街100号2层",
+      "address2": "北新华街100号2层",
+      "lat": 39.909675,
+      "lng": 116.390606
+    },
+    {
+      "id": 474,
+      "spaceType": "KTV",
+      "spaceName": "快乐仙岛ktv",
+      "spaceCounty": "西城区",
+      "address1": "西城区福长街45号",
+      "address2": "福长街45号",
+      "lat": 39.889363,
+      "lng": 116.401629
+    },
+    {
+      "id": 475,
+      "spaceType": "咖啡厅",
+      "spaceName": "熊煮咖啡Bear Brew",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门白塔寺东夹道26号",
+      "address2": "阜成门白塔寺东夹道26号",
+      "lat": 39.931175,
+      "lng": 116.370357
+    },
+    {
+      "id": 476,
+      "spaceType": "咖啡馆",
+      "spaceName": "花时间咖啡厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门南大街9号楼西二环月坛北桥西北角",
+      "address2": "阜成门南大街9号楼西二环月坛北桥西北角",
+      "lat": 39.924892,
+      "lng": 116.362489
+    },
+    {
+      "id": 477,
+      "spaceType": "养生馆",
+      "spaceName": "元氏立元堂",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门四川大厦",
+      "address2": "阜成门四川大厦",
+      "lat": 39.930018,
+      "lng": 116.36083
+    },
+    {
+      "id": 478,
+      "spaceType": "KTV",
+      "spaceName": "万寿宫KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区白纸坊东街甲29号万寿商务酒店B1层",
+      "address2": "白纸坊东街甲29号万寿商务酒店B1层",
+      "lat": 39.884455,
+      "lng": 116.374271
+    },
+    {
+      "id": 479,
+      "spaceType": "健身房",
+      "spaceName": "广安体育中心健身馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区白广路二条广安体育中心南门",
+      "address2": "白广路二条广安体育中心南门",
+      "lat": 39.891901,
+      "lng": 116.361079
+    },
+    {
+      "id": 480,
+      "spaceType": "西餐厅",
+      "spaceName": "南锣鼓巷陆拾号",
+      "spaceCounty": "西城区",
+      "address1": "西城区南锣鼓巷60号",
+      "address2": "南锣鼓巷60号",
+      "lat": 39.943518,
+      "lng": 116.409654
+    },
+    {
+      "id": 481,
+      "spaceType": "养生馆",
+      "spaceName": "清心堂用心按摩平价店",
+      "spaceCounty": "西城区",
+      "address1": "西城区陶然亭南横东街南华里10--7",
+      "address2": "陶然亭南横东街南华里10--7",
+      "lat": 39.889274,
+      "lng": 116.3892
+    },
+    {
+      "id": 482,
+      "spaceType": "KTV",
+      "spaceName": "新花冠KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区展览馆路3号",
+      "address2": "展览馆路3号",
+      "lat": 39.936076,
+      "lng": 116.349886
+    },
+    {
+      "id": 483,
+      "spaceType": "咖啡馆",
+      "spaceName": "1901咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区地安门内大街10号（北海北门向东300米）",
+      "address2": "地安门内大街10号（北海北门向东300米）",
+      "lat": 39.939407,
+      "lng": 116.402844
+    },
+    {
+      "id": 484,
+      "spaceType": "西餐厅",
+      "spaceName": "NO.98Bar",
+      "spaceCounty": "西城区",
+      "address1": "西城区前门煤市街98号",
+      "address2": "前门煤市街98号",
+      "lat": 39.900858,
+      "lng": 116.40111
+    },
+    {
+      "id": 485,
+      "spaceType": "西餐厅",
+      "spaceName": "尚座精酿",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门佟麟阁路95号尚座大厦地下一层",
+      "address2": "宣武门佟麟阁路95号尚座大厦地下一层",
+      "lat": 39.906145,
+      "lng": 116.374715
+    },
+    {
+      "id": 486,
+      "spaceType": "餐厅",
+      "spaceName": "惠家小语炖品店",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门内大街抄手胡同64号繁星戏剧村内",
+      "address2": "宣武门内大街抄手胡同64号繁星戏剧村内",
+      "lat": 39.906781,
+      "lng": 116.380415
+    },
+    {
+      "id": 487,
+      "spaceType": "养生馆",
+      "spaceName": "权健火疗-自然医学养生",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门上斜街71",
+      "address2": "宣武门上斜街71",
+      "lat": 39.904002,
+      "lng": 116.376539
+    },
+    {
+      "id": 488,
+      "spaceType": "咖啡厅",
+      "spaceName": "北京粤财JW万豪酒店大堂吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门外大街18号北京粤财JW万豪酒店1楼",
+      "address2": "宣武门外大街18号北京粤财JW万豪酒店1楼",
+      "lat": 39.902624,
+      "lng": 116.382036
+    },
+    {
+      "id": 489,
+      "spaceType": "餐厅",
+      "spaceName": "港丽餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单北大街131号西单大悦城6楼",
+      "address2": "西单北大街131号西单大悦城6楼",
+      "lat": 39.916938,
+      "lng": 116.379557
+    },
+    {
+      "id": 490,
+      "spaceType": "餐馆",
+      "spaceName": "一花一叶咖餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单北大街109婚庆大楼南门1层",
+      "address2": "西单北大街109婚庆大楼南门1层",
+      "lat": 39.920044,
+      "lng": 116.379006
+    },
+    {
+      "id": 491,
+      "spaceType": "养生馆",
+      "spaceName": "博宇足道养生会馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单堂子胡同西单明珠西侧对面",
+      "address2": "西单堂子胡同西单明珠西侧对面",
+      "lat": 39.91692,
+      "lng": 116.382741
+    },
+    {
+      "id": 492,
+      "spaceType": "咖啡厅",
+      "spaceName": "Dunkin'Donuts",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单金城坊街9-9/9-10号商铺",
+      "address2": "西单金城坊街9-9/9-10号商铺",
+      "lat": 39.922813,
+      "lng": 116.368554
+    },
+    {
+      "id": 493,
+      "spaceType": "私人影院",
+      "spaceName": "云乐迪私影汇",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门北大街32号枫蓝国际购物中心B1层",
+      "address2": "西直门北大街32号枫蓝国际购物中心B1层",
+      "lat": 39.958954,
+      "lng": 116.362574
+    },
+    {
+      "id": 494,
+      "spaceType": "录音棚",
+      "spaceName": "天露霖文化工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门南大街16号西楼806-3",
+      "address2": "西直门南大街16号西楼806-3",
+      "lat": 39.941353,
+      "lng": 116.362781
+    },
+    {
+      "id": 495,
+      "spaceType": "轰趴馆",
+      "spaceName": "BASE",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门西环广场T2写字楼7层天台",
+      "address2": "西直门西环广场T2写字楼7层天台",
+      "lat": 39.947069,
+      "lng": 116.35939
+    },
+    {
+      "id": 496,
+      "spaceType": "KTV",
+      "spaceName": "兰彩鸣KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门社保大厦北侧10米",
+      "address2": "西直门社保大厦北侧10米",
+      "lat": 39.943629,
+      "lng": 116.365916
+    },
+    {
+      "id": 497,
+      "spaceType": "KTV",
+      "spaceName": "德宝KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门外大街22号楼德宝饭店5楼",
+      "address2": "西直门外大街22号楼德宝饭店5楼",
+      "lat": 39.945866,
+      "lng": 116.355195
+    },
+    {
+      "id": 498,
+      "spaceType": "录音棚",
+      "spaceName": "芭伊妮",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门外大街1号凯德MALL购物中心B1楼",
+      "address2": "西直门外大街1号凯德MALL购物中心B1楼",
+      "lat": 39.947367,
+      "lng": 116.359147
+    },
+    {
+      "id": 499,
+      "spaceType": "健身房",
+      "spaceName": "私体动能体能健身工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区西草厂街宣武门沃尔玛东侧二百米椿树园十五号楼底商",
+      "address2": "西草厂街宣武门沃尔玛东侧二百米椿树园十五号楼底商",
+      "lat": 39.899294,
+      "lng": 116.383245
+    },
+    {
+      "id": 500,
+      "spaceType": "西餐厅",
+      "spaceName": "披酒兄弟餐吧Buddy's Pizza Bar",
+      "spaceCounty": "西城区",
+      "address1": "西城区西斯西什库大街31号院27号楼底商",
+      "address2": "西斯西什库大街31号院27号楼底商",
+      "lat": 39.933184,
+      "lng": 116.384114
+    },
+    {
+      "id": 501,
+      "spaceType": "咖啡馆",
+      "spaceName": "猴子咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街91号（天健宾馆西侧）",
+      "address2": "西四南大街91号（天健宾馆西侧）",
+      "lat": 39.925917,
+      "lng": 116.379861
+    },
+    {
+      "id": 502,
+      "spaceType": "餐厅",
+      "spaceName": "天健宾馆中餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街62号天健宾馆1层",
+      "address2": "西四南大街62号天健宾馆1层",
+      "lat": 39.926262,
+      "lng": 116.380418
+    },
+    {
+      "id": 503,
+      "spaceType": "咖啡厅",
+      "spaceName": "那间咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街59号",
+      "address2": "西四南大街59号",
+      "lat": 39.927269,
+      "lng": 116.3798
+    },
+    {
+      "id": 504,
+      "spaceType": "轰趴馆",
+      "spaceName": "枫色年华桌游俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街33号",
+      "address2": "西四南大街33号",
+      "lat": 39.928544,
+      "lng": 116.379772
+    },
+    {
+      "id": 505,
+      "spaceType": "养生馆",
+      "spaceName": "艾晖堂国医艾灸馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区西外大街140号首建金融中心B1",
+      "address2": "西外大街140号首建金融中心B1",
+      "lat": 39.942915,
+      "lng": 116.341907
+    },
+    {
+      "id": 506,
+      "spaceType": "咖啡馆",
+      "spaceName": "1901咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西安门内大街101号（近西什库大街）",
+      "address2": "西安门内大街101号（近西什库大街）",
+      "lat": 39.928499,
+      "lng": 116.382833
+    },
+    {
+      "id": 507,
+      "spaceType": "轰趴馆",
+      "spaceName": "Homer21私人聚会俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口赵登禹路后帽胡同21-2号",
+      "address2": "新街口赵登禹路后帽胡同21-2号",
+      "lat": 39.943674,
+      "lng": 116.375916
+    },
+    {
+      "id": 508,
+      "spaceType": "西餐厅",
+      "spaceName": "NBeerPub牛啤堂",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口护国寺街85号护国新天地1层",
+      "address2": "新街口护国寺街85号护国新天地1层",
+      "lat": 39.941279,
+      "lng": 116.381699
+    },
+    {
+      "id": 509,
+      "spaceType": "咖啡厅",
+      "spaceName": "沏点咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口北大街大半截胡同45号2层",
+      "address2": "新街口北大街大半截胡同45号2层",
+      "lat": 39.948455,
+      "lng": 116.379208
+    },
+    {
+      "id": 510,
+      "spaceType": "录音棚",
+      "spaceName": "韩宫录音棚(新街口店)",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口南大街百花深处16号",
+      "address2": "新街口南大街百花深处16号",
+      "lat": 39.94323,
+      "lng": 116.380165
+    },
+    {
+      "id": 511,
+      "spaceType": "健身房",
+      "spaceName": "汉跃健身会所(新街口)",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口南大街44号",
+      "address2": "新街口南大街44号",
+      "lat": 39.944862,
+      "lng": 116.379633
+    },
+    {
+      "id": 512,
+      "spaceType": "轰趴馆",
+      "spaceName": "D·3Club轰趴馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口西里二区1号楼十二单元003",
+      "address2": "新街口西里二区1号楼十二单元003",
+      "lat": 39.951966,
+      "lng": 116.374738
+    },
+    {
+      "id": 513,
+      "spaceType": "健身房",
+      "spaceName": "西单Auspicious 健身俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区新一代商城5层",
+      "address2": "新一代商城5层",
+      "lat": 39.91731,
+      "lng": 116.381899
+    },
+    {
+      "id": 514,
+      "spaceType": "养生馆",
+      "spaceName": "王群朝中医推拿按摩",
+      "spaceCounty": "西城区",
+      "address1": "西城区小西天牌楼往西600米",
+      "address2": "小西天牌楼往西600米",
+      "lat": 39.958085,
+      "lng": 116.370065
+    },
+    {
+      "id": 515,
+      "spaceType": "养生馆",
+      "spaceName": "医道自愈",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海德胜门内大街羊房胡同54号院",
+      "address2": "什刹海德胜门内大街羊房胡同54号院",
+      "lat": 39.948544,
+      "lng": 116.386077
+    },
+    {
+      "id": 516,
+      "spaceType": "西餐厅",
+      "spaceName": "Just Salad",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海大石啤胡同33号",
+      "address2": "什刹海大石啤胡同33号",
+      "lat": 39.952105,
+      "lng": 116.380751
+    },
+    {
+      "id": 517,
+      "spaceType": "餐厅",
+      "spaceName": "港隆轩茶餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海新街口北外大街1号新华百货5层",
+      "address2": "什刹海新街口北外大街1号新华百货5层",
+      "lat": 39.953683,
+      "lng": 116.377949
+    },
+    {
+      "id": 518,
+      "spaceType": "西餐厅",
+      "spaceName": "悦界酒吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海后海南沿甲10号",
+      "address2": "什刹海后海南沿甲10号",
+      "lat": 39.945385,
+      "lng": 116.398663
+    },
+    {
+      "id": 519,
+      "spaceType": "轰趴馆",
+      "spaceName": "十方小院",
+      "spaceCounty": "西城区",
+      "address1": "西城区寿逾百胡同19号",
+      "address2": "寿逾百胡同19号",
+      "lat": 39.91073,
+      "lng": 116.366854
+    },
+    {
+      "id": 520,
+      "spaceType": "咖啡厅",
+      "spaceName": "Kodo可多咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区鼓楼东大街190号",
+      "address2": "鼓楼东大街190号",
+      "lat": 39.947064,
+      "lng": 116.406304
+    },
+    {
+      "id": 521,
+      "spaceType": "咖啡厅",
+      "spaceName": "1920艺术商店咖啡馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区虎坊桥路口西北角",
+      "address2": "虎坊桥路口西北角",
+      "lat": 39.894439,
+      "lng": 116.393653
+    },
+    {
+      "id": 522,
+      "spaceType": "西餐厅",
+      "spaceName": "埃利金啤酒西餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区月坛金城坊街2号金融街购物中心B1层B114-B115",
+      "address2": "月坛金城坊街2号金融街购物中心B1层B114-B115",
+      "lat": 39.921212,
+      "lng": 116.369027
+    },
+    {
+      "id": 523,
+      "spaceType": "餐厅",
+      "spaceName": "景喜堂烧腊粉面茶餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区金融大街甲9号金融街中心B1-103",
+      "address2": "金融大街甲9号金融街中心B1-103",
+      "lat": 39.925001,
+      "lng": 116.365669
+    },
+    {
+      "id": 524,
+      "spaceType": "舞蹈室",
+      "spaceName": "璇转门舞蹈&潮流生活空间 ",
+      "spaceCounty": "西城区",
+      "address1": "西城区金融街金宸国际公寓3号楼6单元705(复兴门地铁站)",
+      "address2": "金融街金宸国际公寓3号楼6单元705(复兴门地铁站)",
+      "lat": 39.918893,
+      "lng": 116.368725
+    },
+    {
+      "id": 525,
+      "spaceType": "餐厅",
+      "spaceName": "南小馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区金城坊东街2号金融街购物中心里",
+      "address2": "金城坊东街2号金融街购物中心里",
+      "lat": 39.921212,
+      "lng": 116.369027
+    },
+    {
+      "id": 526,
+      "spaceType": "健身房",
+      "spaceName": "贵州酒店连锁健身",
+      "spaceCounty": "西城区",
+      "address1": "西城区教子胡同",
+      "address2": "教子胡同",
+      "lat": 39.892892,
+      "lng": 116.374236
+    },
+    {
+      "id": 527,
+      "spaceType": "台球馆",
+      "spaceName": "诺克台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区龙跃苑一区4号楼2楼",
+      "address2": "龙跃苑一区4号楼2楼",
+      "lat": 40.085159,
+      "lng": 116.360195
+    },
+    {
+      "id": 528,
+      "spaceType": "健身房",
+      "spaceName": "大唐俊秀游泳健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区顺沙路6号科技管理学院",
+      "address2": "顺沙路6号科技管理学院",
+      "lat": 40.176716,
+      "lng": 116.504432
+    },
+    {
+      "id": 529,
+      "spaceType": "游乐园",
+      "spaceName": "咔啦酷抓娃娃",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区东三旗路BHGMall北京华联天通苑购物中心4层",
+      "address2": "东三旗路BHGMall北京华联天通苑购物中心4层",
+      "lat": 40.077018,
+      "lng": 116.421125
+    },
+    {
+      "id": 530,
+      "spaceType": "轰趴馆",
+      "spaceName": "面聚·上地北高端主题轰趴馆",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区万家创业园2楼8066号(京藏高速小汤山出口)",
+      "address2": "万家创业园2楼8066号(京藏高速小汤山出口)",
+      "lat": 40.14471,
+      "lng": 116.271201
+    },
+    {
+      "id": 531,
+      "spaceType": "健身房",
+      "spaceName": "国洋联合潜水中心",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家镇宏福大道温都水城水空间2",
+      "address2": "北七家镇宏福大道温都水城水空间2",
+      "lat": 40.110099,
+      "lng": 116.378873
+    },
+    {
+      "id": 532,
+      "spaceType": "游乐园",
+      "spaceName": "亦电VR htc vive虚拟现实体验",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家名佳花园三区42号楼",
+      "address2": "北七家名佳花园三区42号楼",
+      "lat": 40.112296,
+      "lng": 116.425979
+    },
+    {
+      "id": 533,
+      "spaceType": "台球馆",
+      "spaceName": "台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家定泗路义盛和酒楼旁",
+      "address2": "北七家定泗路义盛和酒楼旁",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 534,
+      "spaceType": "别墅",
+      "spaceName": "香堂林之语别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 535,
+      "spaceType": "别墅",
+      "spaceName": "如园欧式高档豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 536,
+      "spaceType": "别墅",
+      "spaceName": "香堂香邑别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 537,
+      "spaceType": "别墅",
+      "spaceName": "轰趴别墅独栋私密",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇",
+      "address2": "崔村镇",
+      "lat": 40.226366,
+      "lng": 116.35972
+    },
+    {
+      "id": 538,
+      "spaceType": "别墅",
+      "spaceName": "翡翠山庄豪华聚会别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家崔村镇香堂文化新村",
+      "address2": "北七家崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 539,
+      "spaceType": "别墅",
+      "spaceName": "乐天派3号别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 540,
+      "spaceType": "别墅",
+      "spaceName": "嘛嗨轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 541,
+      "spaceType": "别墅",
+      "spaceName": "乐天派2号",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 542,
+      "spaceType": "别墅",
+      "spaceName": "北七家独栋别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家北七家定泗路238号",
+      "address2": "北七家北七家定泗路238号",
+      "lat": 40.124033,
+      "lng": 116.471277
+    },
+    {
+      "id": 543,
+      "spaceType": "别墅",
+      "spaceName": "品味中国古韵",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家北京市昌平区立汤路38号",
+      "address2": "北七家北京市昌平区立汤路38号",
+      "lat": 40.146882,
+      "lng": 116.419774
+    },
+    {
+      "id": 544,
+      "spaceType": "别墅",
+      "spaceName": "维拉派恋空庄园别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家渡上别墅北边",
+      "address2": "北七家渡上别墅北边",
+      "lat": 40.143308,
+      "lng": 116.414654
+    },
+    {
+      "id": 545,
+      "spaceType": "别墅",
+      "spaceName": "高级公寓好友小聚",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家王府公寓",
+      "address2": "北七家王府公寓",
+      "lat": 40.110691,
+      "lng": 116.41495
+    },
+    {
+      "id": 546,
+      "spaceType": "别墅",
+      "spaceName": "明熙独栋豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家王府家庭农场",
+      "address2": "北七家王府家庭农场",
+      "lat": 40.109759,
+      "lng": 116.409138
+    },
+    {
+      "id": 547,
+      "spaceType": "别墅",
+      "spaceName": "聚名轩水韵风情庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家威尼斯花园",
+      "address2": "北七家威尼斯花园",
+      "lat": 40.114798,
+      "lng": 116.421082
+    },
+    {
+      "id": 548,
+      "spaceType": "别墅",
+      "spaceName": "别墅听雨大床房",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家威尼斯花园",
+      "address2": "北七家威尼斯花园",
+      "lat": 40.114798,
+      "lng": 116.421082
+    },
+    {
+      "id": 549,
+      "spaceType": "别墅",
+      "spaceName": "阳坊香江别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北葛路366号",
+      "address2": "北葛路366号",
+      "lat": 40.17865,
+      "lng": 116.138819
+    },
+    {
+      "id": 550,
+      "spaceType": "别墅",
+      "spaceName": "林溪豪华轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区百善镇碧肯山林溪别墅社区",
+      "address2": "百善镇碧肯山林溪别墅社区",
+      "lat": 40.198064,
+      "lng": 116.325215
+    },
+    {
+      "id": 551,
+      "spaceType": "别墅",
+      "spaceName": "锦绣庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区百善镇香堂文化新村别墅区",
+      "address2": "百善镇香堂文化新村别墅区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 552,
+      "spaceType": "别墅",
+      "spaceName": "独栋别墅短租",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑八十四亩地",
+      "address2": "天通苑八十四亩地",
+      "lat": 40.07639,
+      "lng": 116.443472
+    },
+    {
+      "id": 553,
+      "spaceType": "别墅",
+      "spaceName": "乐天派1号 阿凡提青年别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑渡上",
+      "address2": "天通苑渡上",
+      "lat": 40.069775,
+      "lng": 116.432058
+    },
+    {
+      "id": 554,
+      "spaceType": "别墅",
+      "spaceName": "鑫雅园特价别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平崔村镇香堂文化新村",
+      "address2": "昌平崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 555,
+      "spaceType": "别墅",
+      "spaceName": "昌平和顺园聚会高端别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平崔村镇香堂村",
+      "address2": "昌平崔村镇香堂村",
+      "lat": 40.250087,
+      "lng": 116.372231
+    },
+    {
+      "id": 556,
+      "spaceType": "别墅",
+      "spaceName": "豪华别墅轰趴",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平林溪别墅社区",
+      "address2": "昌平林溪别墅社区",
+      "lat": 40.178316,
+      "lng": 116.322402
+    },
+    {
+      "id": 557,
+      "spaceType": "别墅",
+      "spaceName": "豪华轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平林溪别墅社区",
+      "address2": "昌平林溪别墅社区",
+      "lat": 40.178316,
+      "lng": 116.322402
+    },
+    {
+      "id": 558,
+      "spaceType": "别墅",
+      "spaceName": "浪漫至上",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平珠江壹千栋",
+      "address2": "昌平珠江壹千栋",
+      "lat": 40.123516,
+      "lng": 116.393285
+    },
+    {
+      "id": 559,
+      "spaceType": "别墅",
+      "spaceName": "北京香堂轻娱乐舍",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平香堂文化观光中心",
+      "address2": "昌平香堂文化观光中心",
+      "lat": 40.249959,
+      "lng": 116.371784
+    },
+    {
+      "id": 560,
+      "spaceType": "别墅",
+      "spaceName": "龙脉温泉度假别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山龙脉温泉花园",
+      "address2": "小汤山龙脉温泉花园",
+      "lat": 40.187217,
+      "lng": 116.407655
+    },
+    {
+      "id": 561,
+      "spaceType": "别墅",
+      "spaceName": "浪漫时光豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山复地：湾流汇",
+      "address2": "小汤山复地：湾流汇",
+      "lat": 40.164945,
+      "lng": 116.394718
+    },
+    {
+      "id": 562,
+      "spaceType": "别墅",
+      "spaceName": "私家泳池草坪溪流别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山北京昌平区崔阿路/棉辛路(路口)",
+      "address2": "小汤山北京昌平区崔阿路/棉辛路(路口)",
+      "lat": 40.201869,
+      "lng": 116.35739
+    },
+    {
+      "id": 563,
+      "spaceType": "别墅",
+      "spaceName": "梦立方佳山豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 564,
+      "spaceType": "别墅",
+      "spaceName": "康帝庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 565,
+      "spaceType": "别墅",
+      "spaceName": "焕乐墅豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 566,
+      "spaceType": "别墅",
+      "spaceName": "聚欢乐 独栋别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河崔村镇",
+      "address2": "沙河崔村镇",
+      "lat": 40.226366,
+      "lng": 116.35972
+    },
+    {
+      "id": 567,
+      "spaceType": "别墅",
+      "spaceName": "左岸派 玫瑰园别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河北京玫瑰园",
+      "address2": "沙河北京玫瑰园",
+      "lat": 40.164411,
+      "lng": 116.274806
+    },
+    {
+      "id": 568,
+      "spaceType": "别墅",
+      "spaceName": "碧水庄园 安德尼斯",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河碧水庄园",
+      "address2": "沙河碧水庄园",
+      "lat": 40.117829,
+      "lng": 116.293928
+    },
+    {
+      "id": 569,
+      "spaceType": "别墅",
+      "spaceName": "康凯源（君兰庄园）",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂文化新村别墅区",
+      "address2": "沙河香堂文化新村别墅区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 570,
+      "spaceType": "别墅",
+      "spaceName": "聚英会豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂文化新村",
+      "address2": "沙河香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 571,
+      "spaceType": "别墅",
+      "spaceName": "康凯源云顶庄园豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂国际观光中心",
+      "address2": "沙河香堂国际观光中心",
+      "lat": 40.249959,
+      "lng": 116.371784
+    },
+    {
+      "id": 572,
+      "spaceType": "别墅",
+      "spaceName": "康凯源 紫郡庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河九鼎山庄",
+      "address2": "沙河九鼎山庄",
+      "lat": 40.27273,
+      "lng": 116.406158
+    },
+    {
+      "id": 573,
+      "spaceType": "别墅",
+      "spaceName": "兰茵别墅豪华装修",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河京昌平崔村镇香堂别墅",
+      "address2": "沙河京昌平崔村镇香堂别墅",
+      "lat": 40.254979,
+      "lng": 116.373942
+    },
+    {
+      "id": 574,
+      "spaceType": "别墅",
+      "spaceName": "辉煌豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村北七区",
+      "address2": "香堂文化新村北七区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 575,
+      "spaceType": "别墅",
+      "spaceName": "惠馨阁度假村豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村",
+      "address2": "香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 576,
+      "spaceType": "别墅",
+      "spaceName": "左岸派",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村",
+      "address2": "香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 577,
+      "spaceType": "别墅",
+      "spaceName": "奢美别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区御汤山",
+      "address2": "御汤山",
+      "lat": 40.190631,
+      "lng": 116.405816
+    },
+    {
+      "id": 578,
+      "spaceType": "健身房",
+      "spaceName": "君力健身游泳俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区物美超市一层",
+      "address2": "物美超市一层",
+      "lat": 40.071303,
+      "lng": 116.439344
+    },
+    {
+      "id": 579,
+      "spaceType": "台球馆",
+      "spaceName": "好帅兴台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑中苑F区京妮儿童汇东门",
+      "address2": "天通苑中苑F区京妮儿童汇东门",
+      "lat": 40.075127,
+      "lng": 116.42266
+    },
+    {
+      "id": 580,
+      "spaceType": "台球馆",
+      "spaceName": "友盟球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区定泗路184号院",
+      "address2": "定泗路184号院",
+      "lat": 40.122718,
+      "lng": 116.396394
+    },
+    {
+      "id": 581,
+      "spaceType": "健身房",
+      "spaceName": "大鸭梨楼下游泳健身",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区太平庄北街64",
+      "address2": "太平庄北街64",
+      "lat": 40.08601,
+      "lng": 116.442971
+    },
+    {
+      "id": 582,
+      "spaceType": "健身房",
+      "spaceName": "乐迈连锁游泳健身(旗舰店SVIP)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区太平庄中二街",
+      "address2": "太平庄中二街",
+      "lat": 40.080302,
+      "lng": 116.427671
+    },
+    {
+      "id": 583,
+      "spaceType": "游乐园",
+      "spaceName": "昌都金典电玩城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区西环路26号楼",
+      "address2": "西环路26号楼",
+      "lat": 40.229352,
+      "lng": 116.23375
+    },
+    {
+      "id": 584,
+      "spaceType": "游乐园",
+      "spaceName": "身临其境7d多人互动影院",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌崔路203号",
+      "address2": "昌崔路203号",
+      "lat": 40.228691,
+      "lng": 116.270536
+    },
+    {
+      "id": 585,
+      "spaceType": "台球馆",
+      "spaceName": "万赢亿胜台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平镇南环东路32-5号",
+      "address2": "昌平镇南环东路32-5号",
+      "lat": 40.218971,
+      "lng": 116.25526
+    },
+    {
+      "id": 586,
+      "spaceType": "游乐园",
+      "spaceName": "玩家会动漫游艺城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平镇南环路10号院1号楼悦荟万科广场5层",
+      "address2": "昌平镇南环路10号院1号楼悦荟万科广场5层",
+      "lat": 40.218001,
+      "lng": 116.246328
+    },
+    {
+      "id": 587,
+      "spaceType": "游乐园",
+      "spaceName": "先力电影器材(东北2门)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区尚上路附近",
+      "address2": "尚上路附近",
+      "lat": 40.159074,
+      "lng": 116.315214
+    },
+    {
+      "id": 588,
+      "spaceType": "台球馆",
+      "spaceName": "永利台球",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇农贸市场速8宾馆对面",
+      "address2": "小汤山镇农贸市场速8宾馆对面",
+      "lat": 40.183653,
+      "lng": 116.406202
+    },
+    {
+      "id": 589,
+      "spaceType": "健身房",
+      "spaceName": "金科帕提欧健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇小汤山金科帕提欧小区4号楼",
+      "address2": "小汤山镇小汤山金科帕提欧小区4号楼",
+      "lat": 40.189455,
+      "lng": 116.400802
+    },
+    {
+      "id": 590,
+      "spaceType": "游乐园",
+      "spaceName": "九华山庄5d动感影院",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇九华山庄16区B1楼",
+      "address2": "小汤山镇九华山庄16区B1楼",
+      "lat": 40.186127,
+      "lng": 116.42394
+    },
+    {
+      "id": 591,
+      "spaceType": "台球馆",
+      "spaceName": "乐潮台球厅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河镇松兰堡公交车站东世纪华联二层",
+      "address2": "沙河镇松兰堡公交车站东世纪华联二层",
+      "lat": 40.159266,
+      "lng": 116.304686
+    },
+    {
+      "id": 592,
+      "spaceType": "台球馆",
+      "spaceName": "顶品台球(沙河店)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河巩华城大街鑫之星市场南门院内2楼",
+      "address2": "沙河巩华城大街鑫之星市场南门院内2楼",
+      "lat": 40.130301,
+      "lng": 116.274825
+    },
+    {
+      "id": 593,
+      "spaceType": "游乐园",
+      "spaceName": "百善可喜安体验厅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河王于路与百沙路交叉口东150米",
+      "address2": "沙河王于路与百沙路交叉口东150米",
+      "lat": 40.149378,
+      "lng": 116.312049
+    },
+    {
+      "id": 594,
+      "spaceType": "舞蹈室",
+      "spaceName": "舞蝶艺术舞蹈工作室",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观镇龙域北街金域国际中心A座1105室",
+      "address2": "回龙观镇龙域北街金域国际中心A座1105室",
+      "lat": 40.074969,
+      "lng": 116.31955
+    },
+    {
+      "id": 595,
+      "spaceType": "健身房",
+      "spaceName": "骑士国际游泳健身俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观东大街良庄园商业楼四层",
+      "address2": "回龙观东大街良庄园商业楼四层",
+      "lat": 40.086892,
+      "lng": 116.367616
+    },
+    {
+      "id": 596,
+      "spaceType": "台球馆",
+      "spaceName": "寻梦港台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观西大街港龙商业中心二段-1楼",
+      "address2": "回龙观西大街港龙商业中心二段-1楼",
+      "lat": 40.0844,
+      "lng": 116.338769
+    },
+    {
+      "id": 597,
+      "spaceType": "游乐园",
+      "spaceName": "乐天电玩城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观回龙观东大街3号楼",
+      "address2": "回龙观回龙观东大街3号楼",
+      "lat": 40.087047,
+      "lng": 116.367267
+    },
+    {
+      "id": 598,
+      "spaceType": "台球馆",
+      "spaceName": "璟点台球会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观育知西路36号",
+      "address2": "回龙观育知西路36号",
+      "lat": 40.08243,
+      "lng": 116.338644
+    },
+    {
+      "id": 599,
+      "spaceType": "健身房",
+      "spaceName": "回龙观50米标池游泳健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区育知路",
+      "address2": "育知路",
+      "lat": 40.084853,
+      "lng": 116.335088
+    },
+    {
+      "id": 600,
+      "spaceType": "美术馆",
+      "spaceName": "西山美术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区马连洼东一路",
+      "address2": "马连洼东一路",
+      "lat": 40.037015,
+      "lng": 116.293821
+    },
+    {
+      "id": 601,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中央党校体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区颐和园大有庄100号",
+      "address2": "颐和园大有庄100号",
+      "lat": 40.018382,
+      "lng": 116.286258
+    },
+    {
+      "id": 602,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "小舞星旗舰店",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区长春桥路5号新起点嘉园12号楼706室",
+      "address2": "长春桥路5号新起点嘉园12号楼706室",
+      "lat": 39.966674,
+      "lng": 116.309979
+    },
+    {
+      "id": 603,
+      "spaceType": "美术馆",
+      "spaceName": "长歌行儿童艺术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区远大路20号宝蓝大厦C座8A",
+      "address2": "远大路20号宝蓝大厦C座8A",
+      "lat": 39.963267,
+      "lng": 116.293081
+    },
+    {
+      "id": 604,
+      "spaceType": "舞蹈室",
+      "spaceName": "北京V5舞蹈工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街长远天地A2座2层4212室",
+      "address2": "苏州街长远天地A2座2层4212室",
+      "lat": 39.983231,
+      "lng": 116.313446
+    },
+    {
+      "id": 605,
+      "spaceType": "健身房",
+      "spaceName": "3T健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街西屋国际D座9层",
+      "address2": "苏州街西屋国际D座9层",
+      "lat": 39.986453,
+      "lng": 116.313337
+    },
+    {
+      "id": 606,
+      "spaceType": "轰趴管",
+      "spaceName": "微风轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区苏州街12号西屋国际F座902室",
+      "address2": "苏州街12号西屋国际F座902室",
+      "lat": 39.986505,
+      "lng": 116.313938
+    },
+    {
+      "id": 607,
+      "spaceType": "健身房",
+      "spaceName": "奥里森国际健身会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区复兴路33号翠微百货B座B1层",
+      "address2": "复兴路33号翠微百货B座B1层",
+      "lat": 39.91404,
+      "lng": 116.311914
+    },
+    {
+      "id": 608,
+      "spaceType": "DIY手工坊",
+      "spaceName": "锐轩陶吧",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区圣熙8号购物中心四楼儿童区",
+      "address2": "圣熙8号购物中心四楼儿童区",
+      "lat": 40.014234,
+      "lng": 116.36058
+    },
+    {
+      "id": 609,
+      "spaceType": "DIY手工坊",
+      "spaceName": "古岳陶坊DIY陶艺",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区华清商务会馆6层607A",
+      "address2": "华清商务会馆6层607A",
+      "lat": 39.998079,
+      "lng": 116.339951
+    },
+    {
+      "id": 610,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "指尖芭蕾美甲沙龙",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区农大南路1号院1号楼上地华联商厦F2-24",
+      "address2": "农大南路1号院1号楼上地华联商厦F2-24",
+      "lat": 40.034659,
+      "lng": 116.317776
+    },
+    {
+      "id": 611,
+      "spaceType": "羽毛球馆",
+      "spaceName": "北京理工大学羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区魏公村中关村南大街5号北京理工大学内",
+      "address2": "魏公村中关村南大街5号北京理工大学内",
+      "lat": 39.966791,
+      "lng": 116.323202
+    },
+    {
+      "id": 612,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "WillDance舞蹈工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区魏公村1号韦伯豪双兴八座B1",
+      "address2": "魏公村1号韦伯豪双兴八座B1",
+      "lat": 39.9598,
+      "lng": 116.325498
+    },
+    {
+      "id": 613,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "盛舞悦雅芭蕾培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区广源闸路广源大厦4楼8439室",
+      "address2": "广源闸路广源大厦4楼8439室",
+      "lat": 39.949628,
+      "lng": 116.317985
+    },
+    {
+      "id": 614,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "It's ballet！",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区民族大学南路地震局地球物理研究所院内",
+      "address2": "民族大学南路地震局地球物理研究所院内",
+      "lat": 39.953744,
+      "lng": 116.322495
+    },
+    {
+      "id": 615,
+      "spaceType": "舞蹈室",
+      "spaceName": "糖芭蕾",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳亿城中心C座C2电梯上1502",
+      "address2": "万柳亿城中心C座C2电梯上1502",
+      "lat": 39.966496,
+      "lng": 116.307971
+    },
+    {
+      "id": 616,
+      "spaceType": "DIY手工坊",
+      "spaceName": "思迪木 工坊",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳中路6号",
+      "address2": "万柳中路6号",
+      "lat": 39.97513,
+      "lng": 116.304812
+    },
+    {
+      "id": 617,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "小舞星舞蹈培训工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万柳泉宗南路万柳怡水园4号楼1205室",
+      "address2": "万柳泉宗南路万柳怡水园4号楼1205室",
+      "lat": 39.96775,
+      "lng": 116.308582
+    },
+    {
+      "id": 618,
+      "spaceType": "轰趴馆",
+      "spaceName": "面聚·上地北高端主题轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区万家创业园2楼8066号",
+      "address2": "万家创业园2楼8066号",
+      "lat": 40.033162,
+      "lng": 116.239678
+    },
+    {
+      "id": 619,
+      "spaceType": "芭蕾舞培训机构",
+      "spaceName": "蜗牛艺术",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北太平庄文慧园路志强北园30号楼如家酒店地下一层B01",
+      "address2": "北太平庄文慧园路志强北园30号楼如家酒店地下一层B01",
+      "lat": 39.957884,
+      "lng": 116.354401
+    },
+    {
+      "id": 620,
+      "spaceType": "咖啡馆",
+      "spaceName": "品咖啡",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北四环西路66号中国技术交易大厦一楼大厅内",
+      "address2": "北四环西路66号中国技术交易大厦一楼大厅内",
+      "lat": 39.989946,
+      "lng": 116.313979
+    },
+    {
+      "id": 621,
+      "spaceType": "羽毛球馆",
+      "spaceName": "陈梅体育(姐妹花羽毛球培训)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环蓟门桥西首都体育学院内",
+      "address2": "北三环蓟门桥西首都体育学院内",
+      "lat": 39.976563,
+      "lng": 116.35444
+    },
+    {
+      "id": 622,
+      "spaceType": "DIY手工坊",
+      "spaceName": "缝纫之家",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环中路辅路北太平庄桥东南角有研大厦C座底商",
+      "address2": "北三环中路辅路北太平庄桥东南角有研大厦C座底商",
+      "lat": 39.97347,
+      "lng": 116.377481
+    },
+    {
+      "id": 623,
+      "spaceType": "美术馆",
+      "spaceName": "精典画廊",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北三环西路23号蓝景丽家大钟寺家居广场",
+      "address2": "北三环西路23号蓝景丽家大钟寺家居广场",
+      "lat": 39.975048,
+      "lng": 116.350067
+    },
+    {
+      "id": 624,
+      "spaceType": "网球场",
+      "spaceName": "网动体育(北京友谊宾馆网球培训)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南大街1号",
+      "address2": "中关村南大街1号",
+      "lat": 39.969885,
+      "lng": 116.328012
+    },
+    {
+      "id": 625,
+      "spaceType": "别墅",
+      "spaceName": "特价周末两套联租",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西山温泉镇白家疃簸箕水村86号",
+      "address2": "西山温泉镇白家疃簸箕水村86号",
+      "lat": 40.033667,
+      "lng": 116.182783
+    },
+    {
+      "id": 626,
+      "spaceType": "网球场",
+      "spaceName": "昌泰365网球",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河力度家园",
+      "address2": "清河力度家园",
+      "lat": 40.036938,
+      "lng": 116.345409
+    },
+    {
+      "id": 627,
+      "spaceType": "网球场",
+      "spaceName": "三原色辉腾网球培训",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西三环北路83号",
+      "address2": "西三环北路83号",
+      "lat": 39.94251,
+      "lng": 116.315053
+    },
+    {
+      "id": 628,
+      "spaceType": "空手道馆",
+      "spaceName": "国际空手道联盟极真会馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区北下关交大东路66号智地钻河中心2号楼B1层",
+      "address2": "北下关交大东路66号智地钻河中心2号楼B1层",
+      "lat": 39.950658,
+      "lng": 116.357431
+    },
+    {
+      "id": 629,
+      "spaceType": "桌游吧",
+      "spaceName": "神奈桌游吧轰趴馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区宝蓝世纪大厦C座11B(金源购物中心)",
+      "address2": "宝蓝世纪大厦C座11B(金源购物中心)",
+      "lat": 39.963033,
+      "lng": 116.292809
+    },
+    {
+      "id": 630,
+      "spaceType": "轰趴馆",
+      "spaceName": "西山小院-贰号院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区碧云寺路香山公园北门内侧",
+      "address2": "碧云寺路香山公园北门内侧",
+      "lat": 40.001449,
+      "lng": 116.201378
+    },
+    {
+      "id": 631,
+      "spaceType": "轰趴馆",
+      "spaceName": "迷.轰趴别墅",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区百望山北路",
+      "address2": "百望山北路",
+      "lat": 40.044428,
+      "lng": 116.259913
+    },
+    {
+      "id": 632,
+      "spaceType": "空手道馆",
+      "spaceName": "元融会空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区巴沟南路35号万泉新新家园4号楼健身会所",
+      "address2": "巴沟南路35号万泉新新家园4号楼健身会所",
+      "lat": 39.978919,
+      "lng": 116.304641
+    },
+    {
+      "id": 633,
+      "spaceType": "KTV",
+      "spaceName": "鑫金源KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区定慧桥往西第三个红绿灯右转京粮广场",
+      "address2": "定慧桥往西第三个红绿灯右转京粮广场",
+      "lat": 39.936499,
+      "lng": 116.260549
+    },
+    {
+      "id": 634,
+      "spaceType": "轰趴馆",
+      "spaceName": "拾玖空间 Verse & Wine ",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路89号恒兴大厦5A室",
+      "address2": "中关村东路89号恒兴大厦5A室",
+      "lat": 39.988471,
+      "lng": 116.339479
+    },
+    {
+      "id": 635,
+      "spaceType": "轰趴馆",
+      "spaceName": "此时此刻",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路16号院龙湖唐宁one2号楼A座127室底商",
+      "address2": "中关村东路16号院龙湖唐宁one2号楼A座127室底商",
+      "lat": 39.994583,
+      "lng": 116.340982
+    },
+    {
+      "id": 636,
+      "spaceType": "私人影院",
+      "spaceName": "77时尚主题私人影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村东路16号院甲2号楼一层102室",
+      "address2": "中关村东路16号院甲2号楼一层102室",
+      "lat": 39.994604,
+      "lng": 116.342457
+    },
+    {
+      "id": 637,
+      "spaceType": "KTV",
+      "spaceName": "炫舞180·KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村北大街18号",
+      "address2": "中关村北大街18号",
+      "lat": 40.022574,
+      "lng": 116.324912
+    },
+    {
+      "id": 638,
+      "spaceType": "空手道馆",
+      "spaceName": "真然馆空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村北京大学邱德拔体育馆B1层重竞技厅",
+      "address2": "中关村北京大学邱德拔体育馆B1层重竞技厅",
+      "lat": 39.994592,
+      "lng": 116.321801
+    },
+    {
+      "id": 639,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中央民族大学·体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南路27号中央民族大学内",
+      "address2": "中关村南路27号中央民族大学内",
+      "lat": 39.956908,
+      "lng": 116.326833
+    },
+    {
+      "id": 640,
+      "spaceType": "KTV",
+      "spaceName": "骏马国际会所ktv",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村南一条甲1号骏马国际酒店",
+      "address2": "中关村南一条甲1号骏马国际酒店",
+      "lat": 39.986393,
+      "lng": 116.338888
+    },
+    {
+      "id": 641,
+      "spaceType": "私人影院",
+      "spaceName": "尚幕私人订制主题影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区中关村大街40号当代商城8楼",
+      "address2": "中关村大街40号当代商城8楼",
+      "lat": 39.976247,
+      "lng": 116.327324
+    },
+    {
+      "id": 642,
+      "spaceType": "羽毛球馆",
+      "spaceName": "首都体育师范大学体育馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区双榆树北三环西路11号",
+      "address2": "双榆树北三环西路11号",
+      "lat": 39.976885,
+      "lng": 116.35468
+    },
+    {
+      "id": 643,
+      "spaceType": "轰趴馆",
+      "spaceName": "佛伦斯印象欧式别墅砖",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区西四环中路辅路附近",
+      "address2": "西四环中路辅路附近",
+      "lat": 39.904582,
+      "lng": 116.282135
+    },
+    {
+      "id": 644,
+      "spaceType": "轰趴管",
+      "spaceName": "Party Now青年会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清华东路16号艺海大厦1505室",
+      "address2": "清华东路16号艺海大厦1505室",
+      "lat": 40.006065,
+      "lng": 116.35681
+    },
+    {
+      "id": 645,
+      "spaceType": "健身房",
+      "spaceName": "漾健身工作室(橡树湾一期店)",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河小营橡树湾一期底商103号(良子足疗一层)",
+      "address2": "清河小营橡树湾一期底商103号(良子足疗一层)",
+      "lat": 40.041911,
+      "lng": 116.336811
+    },
+    {
+      "id": 646,
+      "spaceType": "羽毛球馆",
+      "spaceName": "泰山饭店羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区清河安宁庄北里8号",
+      "address2": "清河安宁庄北里8号",
+      "lat": 40.050313,
+      "lng": 116.328861
+    },
+    {
+      "id": 647,
+      "spaceType": "美术馆",
+      "spaceName": "大三生产业投行",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区成府路45号中关村智造大街C座2层",
+      "address2": "成府路45号中关村智造大街C座2层",
+      "lat": 40.001213,
+      "lng": 116.340853
+    },
+    {
+      "id": 648,
+      "spaceType": "DIY手工坊",
+      "spaceName": "畅颜十字绣",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区翠微路26号临119",
+      "address2": "翠微路26号临119",
+      "lat": 39.915402,
+      "lng": 116.308865
+    },
+    {
+      "id": 649,
+      "spaceType": "KTV",
+      "spaceName": "景晨轩KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地西路27号",
+      "address2": "上地西路27号",
+      "lat": 40.043423,
+      "lng": 116.312108
+    },
+    {
+      "id": 650,
+      "spaceType": "健身房",
+      "spaceName": "A+fitness私人教练健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地十街1号辉煌国际广场3号楼1818室",
+      "address2": "上地十街1号辉煌国际广场3号楼1818室",
+      "lat": 40.059312,
+      "lng": 116.308921
+    },
+    {
+      "id": 651,
+      "spaceType": "KTV",
+      "spaceName": "北华夜总会",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区上地街道东北旺东路52号",
+      "address2": "上地街道东北旺东路52号",
+      "lat": 40.050162,
+      "lng": 116.307901
+    },
+    {
+      "id": 652,
+      "spaceType": "健身房",
+      "spaceName": "Hey Heroes！私教健身工作室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区紫竹桥路华澳中心公寓610室",
+      "address2": "紫竹桥路华澳中心公寓610室",
+      "lat": 39.951122,
+      "lng": 116.312784
+    },
+    {
+      "id": 653,
+      "spaceType": "空手道馆",
+      "spaceName": "永海堂空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区紫竹桥海店区彰化路7号楼20号",
+      "address2": "紫竹桥海店区彰化路7号楼20号",
+      "lat": 39.948705,
+      "lng": 116.296592
+    },
+    {
+      "id": 654,
+      "spaceType": "羽毛球馆",
+      "spaceName": "尤尼克斯羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区四季青西四环北路132号",
+      "address2": "四季青西四环北路132号",
+      "lat": 39.948472,
+      "lng": 116.28659
+    },
+    {
+      "id": 655,
+      "spaceType": "KTV",
+      "spaceName": "名门世纪ktv",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区四季青杏石口76号",
+      "address2": "四季青杏石口76号",
+      "lat": 40.033162,
+      "lng": 116.239678
+    },
+    {
+      "id": 656,
+      "spaceType": "KTV",
+      "spaceName": "金嘉丽音乐广场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区采石北路橙天嘉禾影院5楼",
+      "address2": "采石北路橙天嘉禾影院5楼",
+      "lat": 39.922811,
+      "lng": 116.266455
+    },
+    {
+      "id": 657,
+      "spaceType": "私人影院",
+      "spaceName": "云影私人影吧",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区彩和坊路八号天创科技大厦东门地下一层",
+      "address2": "彩和坊路八号天创科技大厦东门地下一层",
+      "lat": 39.987787,
+      "lng": 116.315913
+    },
+    {
+      "id": 658,
+      "spaceType": "KTV",
+      "spaceName": "美丽神话KTV",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区高梁桥斜街19号",
+      "address2": "高梁桥斜街19号",
+      "lat": 39.952718,
+      "lng": 116.348337
+    },
+    {
+      "id": 659,
+      "spaceType": "空手道馆",
+      "spaceName": "元融会空手道",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区航天桥西三环世纪经贸大厦A座905室",
+      "address2": "航天桥西三环世纪经贸大厦A座905室",
+      "lat": 39.935146,
+      "lng": 116.317427
+    },
+    {
+      "id": 660,
+      "spaceType": "羽毛球馆",
+      "spaceName": "中塔羽动羽毛球俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区公主坟/万寿路西三环中路11号",
+      "address2": "公主坟/万寿路西三环中路11号",
+      "lat": 39.924753,
+      "lng": 116.312929
+    },
+    {
+      "id": 661,
+      "spaceType": "桌游吧",
+      "spaceName": "假面骑士狼人杀俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交通大学路交大嘉园5栋底商假面club",
+      "address2": "交通大学路交大嘉园5栋底商假面club",
+      "lat": 39.955657,
+      "lng": 116.353049
+    },
+    {
+      "id": 662,
+      "spaceType": "轰趴馆",
+      "spaceName": "优士帝轰趴馆Party House",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交通大学路交大嘉园1号院5-6号楼底商",
+      "address2": "交通大学路交大嘉园1号院5-6号楼底商",
+      "lat": 39.954821,
+      "lng": 116.351475
+    },
+    {
+      "id": 663,
+      "spaceType": "DIY手工坊",
+      "spaceName": "大爱金工银饰diy",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交大东路66号院钻河中心1号1楼1-120室",
+      "address2": "交大东路66号院钻河中心1号1楼1-120室",
+      "lat": 39.950201,
+      "lng": 116.357817
+    },
+    {
+      "id": 664,
+      "spaceType": "桌游吧",
+      "spaceName": "惑星桌游",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区交大东路60号舒至嘉园4号楼背面底商",
+      "address2": "交大东路60号舒至嘉园4号楼背面底商",
+      "lat": 39.952904,
+      "lng": 116.356175
+    },
+    {
+      "id": 665,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路69号蓝色港湾购物中心5楼",
+      "address2": "五棵松复兴路69号蓝色港湾购物中心5楼",
+      "lat": 39.918372,
+      "lng": 116.283281
+    },
+    {
+      "id": 666,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路69号五棵松Hi-UpB1层501-503室",
+      "address2": "五棵松复兴路69号五棵松Hi-UpB1层501-503室",
+      "lat": 39.916132,
+      "lng": 116.277952
+    },
+    {
+      "id": 667,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "卡莫瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松复兴路51号凯德晶品3楼东侧",
+      "address2": "五棵松复兴路51号凯德晶品3楼东侧",
+      "lat": 39.915055,
+      "lng": 116.30327
+    },
+    {
+      "id": 668,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "y7瑜伽培训机构馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松丽泽雅苑6号楼301",
+      "address2": "五棵松丽泽雅苑6号楼301",
+      "lat": 39.912522,
+      "lng": 116.275293
+    },
+    {
+      "id": 669,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "屹婵瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松八里庄路62号院定慧福里1号楼五层508室",
+      "address2": "五棵松八里庄路62号院定慧福里1号楼五层508室",
+      "lat": 39.934445,
+      "lng": 116.283146
+    },
+    {
+      "id": 670,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "锦云舒瑜伽培训机构",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松西翠路17号院17号楼五单元202室",
+      "address2": "五棵松西翠路17号院17号楼五单元202室",
+      "lat": 39.920904,
+      "lng": 116.285867
+    },
+    {
+      "id": 671,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "志强园健身会所",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松志强北园北",
+      "address2": "五棵松志强北园北",
+      "lat": 39.960073,
+      "lng": 116.372056
+    },
+    {
+      "id": 672,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "玉海园.境瑜伽培训机构会馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松玉海园五里20号楼久筑物业三层",
+      "address2": "五棵松玉海园五里20号楼久筑物业三层",
+      "lat": 39.927352,
+      "lng": 116.266201
+    },
+    {
+      "id": 673,
+      "spaceType": "瑜伽培训机构",
+      "spaceName": "北京天润明鸽舞蹈中心",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松永定路百郎园A座",
+      "address2": "五棵松永定路百郎园A座",
+      "lat": 39.916132,
+      "lng": 116.277952
+    },
+    {
+      "id": 674,
+      "spaceType": "羽毛球馆",
+      "spaceName": "羽网天下羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五棵松永定路西里小区12号楼",
+      "address2": "五棵松永定路西里小区12号楼",
+      "lat": 39.912616,
+      "lng": 116.269183
+    },
+    {
+      "id": 675,
+      "spaceType": "桌游吧",
+      "spaceName": "神之眼狼人杀俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五道口东升园12号楼地下一层D06",
+      "address2": "五道口东升园12号楼地下一层D06",
+      "lat": 39.99422,
+      "lng": 116.344168
+    },
+    {
+      "id": 676,
+      "spaceType": "私人影院",
+      "spaceName": "V映私人影院",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区五道口地铁站西南角华清嘉园1号楼底商",
+      "address2": "五道口地铁站西南角华清嘉园1号楼底商",
+      "lat": 39.997941,
+      "lng": 116.343319
+    },
+    {
+      "id": 677,
+      "spaceType": "KTV",
+      "spaceName": "流金岁月音乐广场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区金沟河路19号万城大厦4楼",
+      "address2": "金沟河路19号万城大厦4楼",
+      "lat": 39.924119,
+      "lng": 116.267708
+    },
+    {
+      "id": 678,
+      "spaceType": "KTV",
+      "spaceName": "鑫百顺城",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区玉泉路3号",
+      "address2": "玉泉路3号",
+      "lat": 39.931294,
+      "lng": 116.258658
+    },
+    {
+      "id": 679,
+      "spaceType": "羽毛球馆",
+      "spaceName": "泰川羽毛球馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区京包路7号",
+      "address2": "京包路7号",
+      "lat": 40.088583,
+      "lng": 116.296085
+    },
+    {
+      "id": 680,
+      "spaceType": "美术馆",
+      "spaceName": "趣过北京错觉装置艺术馆",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学清路甲8号圣熙8号购物中心4楼",
+      "address2": "学清路甲8号圣熙8号购物中心4楼",
+      "lat": 40.014234,
+      "lng": 116.36058
+    },
+    {
+      "id": 681,
+      "spaceType": "舞蹈室",
+      "spaceName": "X-Square Dance Lab",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学清路甲18号中关村东升科技园学院8号大厦D座电梯",
+      "address2": "学清路甲18号中关村东升科技园学院8号大厦D座电梯",
+      "lat": 40.015304,
+      "lng": 116.360599
+    },
+    {
+      "id": 682,
+      "spaceType": "健身房",
+      "spaceName": "唯朗健身俱乐部",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区学院路科大天工大厦A座3层",
+      "address2": "学院路科大天工大厦A座3层",
+      "lat": 39.993897,
+      "lng": 116.3621
+    },
+    {
+      "id": 683,
+      "spaceType": "书店",
+      "spaceName": "言几又",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区海淀图书城西大街35号3栋1层，中关村创业大街内",
+      "address2": "海淀图书城西大街35号3栋1层，中关村创业大街内",
+      "lat": 39.989433,
+      "lng": 116.313141
+    },
+    {
+      "id": 684,
+      "spaceType": "空手道馆",
+      "spaceName": "国际空手道联盟极真会馆龚道场",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区花园路甲2号同观商业中心B1层",
+      "address2": "花园路甲2号同观商业中心B1层",
+      "lat": 39.986042,
+      "lng": 116.372462
+    },
+    {
+      "id": 685,
+      "spaceType": "DIY手工坊",
+      "spaceName": "度态制造",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区花园路13号院天博中润2-219",
+      "address2": "花园路13号院天博中润2-219",
+      "lat": 39.978875,
+      "lng": 116.37193
+    },
+    {
+      "id": 686,
+      "spaceType": "DIY手工坊",
+      "spaceName": "涂乐汇(DIY手绘零基础画室",
+      "spaceCounty": "海淀区",
+      "address1": "海淀区杏石口路南艺术家工坊132号",
+      "address2": "杏石口路南艺术家工坊132号",
+      "lat": 39.959785,
+      "lng": 116.239418
+    },
+    {
+      "id": 687,
+      "spaceType": "别墅",
+      "spaceName": "北京延庆半山别墅",
+      "spaceCounty": "延庆县",
+      "address1": "延庆县张山营龙聚山庄",
+      "address2": "张山营龙聚山庄",
+      "lat": 40.520659,
+      "lng": 115.977517
+    },
+    {
+      "id": 688,
+      "spaceType": "别墅",
+      "spaceName": "延庆风景度假别墅",
+      "spaceCounty": "延庆县",
+      "address1": "延庆县融景美庐妫水南街8号院",
+      "address2": "融景美庐妫水南街8号院",
+      "lat": 40.455988,
+      "lng": 115.98913
+    }
+  ]
+}

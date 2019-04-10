@@ -1,0 +1,48 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 16,
+      "spaceType": "别墅",
+      "spaceName": "怀柔山里的度假别墅",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区怀柔幽谷神潭对面黄土梁村",
+      "address2": "怀柔幽谷神潭对面黄土梁村",
+      "lat": 40.536849,
+      "lng": 116.679954
+    },
+    {
+      "id": 17,
+      "spaceType": "别墅",
+      "spaceName": "茶马古道上的那家客栈",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区怀柔河防口村311号",
+      "address2": "怀柔河防口村311号",
+      "lat": 40.440769,
+      "lng": 116.679755
+    },
+    {
+      "id": 18,
+      "spaceType": "别墅",
+      "spaceName": "怀柔慕田峪红螺寺",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区西三村临100号西院别墅",
+      "address2": "西三村临100号西院别墅",
+      "lat": 40.372879,
+      "lng": 116.60095
+    },
+    {
+      "id": 19,
+      "spaceType": "别墅",
+      "spaceName": "怀柔慕田峪雁西湖皇家林园",
+      "spaceCounty": "怀柔区",
+      "address1": "怀柔区莲花池村",
+      "address2": "莲花池村",
+      "lat": 40.448884,
+      "lng": 116.588744
+    }
+  ]
+}

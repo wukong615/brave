@@ -1,0 +1,222 @@
+@charset "utf-8";
+/*临时地图 Page*/
+
+html{
+    height:100%
+}
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.hide {
+    display: none!important
+}
+
+/*工具盒*/
+.tools-box{
+    position: absolute;
+    z-index: 1;
+    right: 10px;
+    top: 10px;
+}
+.tool-expand-btn{
+    color: #f30;
+    font-size: 18px;
+    padding: 5px 10px 2px;
+}
+.tool-shrink-btn{
+    background-color: #ddd;
+    font-size: 20px;
+    height: 40px;
+    left: 0;
+    line-height: 40px;
+    position: absolute;
+    /*top: 0;*/
+    width: 40px;
+}
+
+/*搜索盒*/
+.search-box{
+    background-color: #efeff4;
+    border-bottom: 2px solid #0075C2;
+    display: none;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    width: 0;
+    z-index: 2;
+}
+.search-box table{
+    margin-bottom: 0;
+}
+.search-box table tr td.td-1{
+    width: 10%;
+}
+.search-box table tr td.td-2{
+    width: 45%;
+}
+.search-box table tr td.td-bd{
+    border-bottom: 2px solid #333;
+}
+.search-box table tr td select{
+    font-size: 15px;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.search-box table tr td input{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    height: 40px;
+    margin-bottom: 0;
+    outline: none;
+    text-indent: 10px;
+    width: 80%;
+}
+.search-box table tr td button{
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 18px;
+    height: 39px;
+    line-height: 28px;
+    margin-left: 2%;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.search-box table tr td button.space-list-btn{
+    background: #293136;
+    border: 1px solid #293136;
+}
+.search-box table tr td button.btn-search{
+    background: #0075C2;
+    border: 1px solid #0075c2;
+}
+.search-box table tr td button.save-result{
+    background: #12A33C;
+    border: 1px solid #12A33C;
+}
+.search-box table tr td button.save-result.save-result:hover, .search-box table tr td button.save-result.save-result:focus {
+    background: #0EBE41;
+}
+
+/*地图容器*/
+.map-container{
+    /*border: 1px solid #0075C2;
+    border-left: none;
+    border-right: none;
+    -webkit-height: calc(100% - 72px);
+    -moz-height: calc(100% - 72px);
+    height: calc(100% - 72px);*/
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #FFF;
+    text-align: left;
+}
+.map-container #container{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.BMap_bubble_title, .BMap_bubble_content{
+    font-size: 15px;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+/*提示消息*/
+.message {
+    background-color: #f30;
+    font-size: 15px;
+    color: blue;
+    position: absolute;
+    left: 50%;
+    margin-left: -100px;
+    padding: 5px 0;
+    text-align: center;
+    top: 10px;
+    width: 200px;
+}
+
+/*空间列表*/
+.mui-backdrop2{
+    z-index: 151;
+}
+.space-list-layer{
+    -webkit-height: calc(100% - 70px);
+    -moz-height: calc(100% - 70px);
+    height: calc(100% - 72px);
+    display: none;
+    margin: 2% 5% 0;
+    overflow: auto;
+    position: absolute;
+    top: 40px;
+    width: 90%;
+    z-index: 152;
+}
+.space-list-layer table{
+    background-color: #fff;
+    font-size: 14px;
+    margin-bottom: 0;
+    width: 100%;
+    max-width: 1000%;
+}
+.space-list-layer table thead{
+    background-color: #eee;
+}
+.table-bordered>tbody>tr>td{
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    white-space: nowrap;
+}
+.space-list-layer table tr td.space-opers{
+    padding: 6px 8px;
+}
+.space-list-layer table button{
+    margin-left: 10px;
+    padding: 3px 12px;
+}
+
+.interface-datas{
+    display: none;
+}
+
+@media (orientation: portrait){
+    /*竖屏*/
+    .space-list-layer{
+        top: 40px;
+    }
+} 
+@media (orientation: landscape){
+    /*横屏*/
+    .space-list-layer{
+        top: 43px;
+    }
+} 
+
+/*分页*/
+.page-box{
+    display: none;
+    position: fixed;
+    top: 2%;
+    right: 5%;
+    z-index: 152;
+}
+.page-box button.previous-btn, .page-box button.next-btn{
+    background-color: #444;
+    color: #fff;
+}

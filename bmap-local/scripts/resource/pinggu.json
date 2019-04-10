@@ -1,0 +1,18 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 190,
+      "spaceType": "别墅",
+      "spaceName": "平谷京东大溶洞",
+      "spaceCounty": "平谷区",
+      "address1": "平谷区平谷京东大溶洞别墅区",
+      "address2": "平谷京东大溶洞别墅区",
+      "lat": 40.219292,
+      "lng": 117.260744
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 527,
+      "spaceType": "台球馆",
+      "spaceName": "诺克台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区龙跃苑一区4号楼2楼",
+      "address2": "龙跃苑一区4号楼2楼",
+      "lat": 40.085159,
+      "lng": 116.360195
+    },
+    {
+      "id": 528,
+      "spaceType": "健身房",
+      "spaceName": "大唐俊秀游泳健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区顺沙路6号科技管理学院",
+      "address2": "顺沙路6号科技管理学院",
+      "lat": 40.176716,
+      "lng": 116.504432
+    },
+    {
+      "id": 529,
+      "spaceType": "游乐园",
+      "spaceName": "咔啦酷抓娃娃",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区东三旗路BHGMall北京华联天通苑购物中心4层",
+      "address2": "东三旗路BHGMall北京华联天通苑购物中心4层",
+      "lat": 40.077018,
+      "lng": 116.421125
+    },
+    {
+      "id": 530,
+      "spaceType": "轰趴馆",
+      "spaceName": "面聚·上地北高端主题轰趴馆",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区万家创业园2楼8066号(京藏高速小汤山出口)",
+      "address2": "万家创业园2楼8066号(京藏高速小汤山出口)",
+      "lat": 40.14471,
+      "lng": 116.271201
+    },
+    {
+      "id": 531,
+      "spaceType": "健身房",
+      "spaceName": "国洋联合潜水中心",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家镇宏福大道温都水城水空间2",
+      "address2": "北七家镇宏福大道温都水城水空间2",
+      "lat": 40.110099,
+      "lng": 116.378873
+    },
+    {
+      "id": 532,
+      "spaceType": "游乐园",
+      "spaceName": "亦电VR htc vive虚拟现实体验",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家名佳花园三区42号楼",
+      "address2": "北七家名佳花园三区42号楼",
+      "lat": 40.112296,
+      "lng": 116.425979
+    },
+    {
+      "id": 533,
+      "spaceType": "台球馆",
+      "spaceName": "台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家定泗路义盛和酒楼旁",
+      "address2": "北七家定泗路义盛和酒楼旁",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 534,
+      "spaceType": "别墅",
+      "spaceName": "香堂林之语别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 535,
+      "spaceType": "别墅",
+      "spaceName": "如园欧式高档豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 536,
+      "spaceType": "别墅",
+      "spaceName": "香堂香邑别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇香堂文化新村",
+      "address2": "崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 537,
+      "spaceType": "别墅",
+      "spaceName": "轰趴别墅独栋私密",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区崔村镇",
+      "address2": "崔村镇",
+      "lat": 40.226366,
+      "lng": 116.35972
+    },
+    {
+      "id": 538,
+      "spaceType": "别墅",
+      "spaceName": "翡翠山庄豪华聚会别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家崔村镇香堂文化新村",
+      "address2": "北七家崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 539,
+      "spaceType": "别墅",
+      "spaceName": "乐天派3号别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 540,
+      "spaceType": "别墅",
+      "spaceName": "嘛嗨轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 541,
+      "spaceType": "别墅",
+      "spaceName": "乐天派2号",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家立汤路",
+      "address2": "北七家立汤路",
+      "lat": 40.133741,
+      "lng": 116.440399
+    },
+    {
+      "id": 542,
+      "spaceType": "别墅",
+      "spaceName": "北七家独栋别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家北七家定泗路238号",
+      "address2": "北七家北七家定泗路238号",
+      "lat": 40.124033,
+      "lng": 116.471277
+    },
+    {
+      "id": 543,
+      "spaceType": "别墅",
+      "spaceName": "品味中国古韵",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家北京市昌平区立汤路38号",
+      "address2": "北七家北京市昌平区立汤路38号",
+      "lat": 40.146882,
+      "lng": 116.419774
+    },
+    {
+      "id": 544,
+      "spaceType": "别墅",
+      "spaceName": "维拉派恋空庄园别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家渡上别墅北边",
+      "address2": "北七家渡上别墅北边",
+      "lat": 40.143308,
+      "lng": 116.414654
+    },
+    {
+      "id": 545,
+      "spaceType": "别墅",
+      "spaceName": "高级公寓好友小聚",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家王府公寓",
+      "address2": "北七家王府公寓",
+      "lat": 40.110691,
+      "lng": 116.41495
+    },
+    {
+      "id": 546,
+      "spaceType": "别墅",
+      "spaceName": "明熙独栋豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家王府家庭农场",
+      "address2": "北七家王府家庭农场",
+      "lat": 40.109759,
+      "lng": 116.409138
+    },
+    {
+      "id": 547,
+      "spaceType": "别墅",
+      "spaceName": "聚名轩水韵风情庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家威尼斯花园",
+      "address2": "北七家威尼斯花园",
+      "lat": 40.114798,
+      "lng": 116.421082
+    },
+    {
+      "id": 548,
+      "spaceType": "别墅",
+      "spaceName": "别墅听雨大床房",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北七家威尼斯花园",
+      "address2": "北七家威尼斯花园",
+      "lat": 40.114798,
+      "lng": 116.421082
+    },
+    {
+      "id": 549,
+      "spaceType": "别墅",
+      "spaceName": "阳坊香江别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区北葛路366号",
+      "address2": "北葛路366号",
+      "lat": 40.17865,
+      "lng": 116.138819
+    },
+    {
+      "id": 550,
+      "spaceType": "别墅",
+      "spaceName": "林溪豪华轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区百善镇碧肯山林溪别墅社区",
+      "address2": "百善镇碧肯山林溪别墅社区",
+      "lat": 40.198064,
+      "lng": 116.325215
+    },
+    {
+      "id": 551,
+      "spaceType": "别墅",
+      "spaceName": "锦绣庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区百善镇香堂文化新村别墅区",
+      "address2": "百善镇香堂文化新村别墅区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 552,
+      "spaceType": "别墅",
+      "spaceName": "独栋别墅短租",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑八十四亩地",
+      "address2": "天通苑八十四亩地",
+      "lat": 40.07639,
+      "lng": 116.443472
+    },
+    {
+      "id": 553,
+      "spaceType": "别墅",
+      "spaceName": "乐天派1号 阿凡提青年别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑渡上",
+      "address2": "天通苑渡上",
+      "lat": 40.069775,
+      "lng": 116.432058
+    },
+    {
+      "id": 554,
+      "spaceType": "别墅",
+      "spaceName": "鑫雅园特价别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平崔村镇香堂文化新村",
+      "address2": "昌平崔村镇香堂文化新村",
+      "lat": 40.256485,
+      "lng": 116.371073
+    },
+    {
+      "id": 555,
+      "spaceType": "别墅",
+      "spaceName": "昌平和顺园聚会高端别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平崔村镇香堂村",
+      "address2": "昌平崔村镇香堂村",
+      "lat": 40.250087,
+      "lng": 116.372231
+    },
+    {
+      "id": 556,
+      "spaceType": "别墅",
+      "spaceName": "豪华别墅轰趴",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平林溪别墅社区",
+      "address2": "昌平林溪别墅社区",
+      "lat": 40.178316,
+      "lng": 116.322402
+    },
+    {
+      "id": 557,
+      "spaceType": "别墅",
+      "spaceName": "豪华轰趴别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平林溪别墅社区",
+      "address2": "昌平林溪别墅社区",
+      "lat": 40.178316,
+      "lng": 116.322402
+    },
+    {
+      "id": 558,
+      "spaceType": "别墅",
+      "spaceName": "浪漫至上",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平珠江壹千栋",
+      "address2": "昌平珠江壹千栋",
+      "lat": 40.123516,
+      "lng": 116.393285
+    },
+    {
+      "id": 559,
+      "spaceType": "别墅",
+      "spaceName": "北京香堂轻娱乐舍",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平香堂文化观光中心",
+      "address2": "昌平香堂文化观光中心",
+      "lat": 40.249959,
+      "lng": 116.371784
+    },
+    {
+      "id": 560,
+      "spaceType": "别墅",
+      "spaceName": "龙脉温泉度假别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山龙脉温泉花园",
+      "address2": "小汤山龙脉温泉花园",
+      "lat": 40.187217,
+      "lng": 116.407655
+    },
+    {
+      "id": 561,
+      "spaceType": "别墅",
+      "spaceName": "浪漫时光豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山复地：湾流汇",
+      "address2": "小汤山复地：湾流汇",
+      "lat": 40.164945,
+      "lng": 116.394718
+    },
+    {
+      "id": 562,
+      "spaceType": "别墅",
+      "spaceName": "私家泳池草坪溪流别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山北京昌平区崔阿路/棉辛路(路口)",
+      "address2": "小汤山北京昌平区崔阿路/棉辛路(路口)",
+      "lat": 40.201869,
+      "lng": 116.35739
+    },
+    {
+      "id": 563,
+      "spaceType": "别墅",
+      "spaceName": "梦立方佳山豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 564,
+      "spaceType": "别墅",
+      "spaceName": "康帝庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 565,
+      "spaceType": "别墅",
+      "spaceName": "焕乐墅豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山香堂文化新村",
+      "address2": "小汤山香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 566,
+      "spaceType": "别墅",
+      "spaceName": "聚欢乐 独栋别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河崔村镇",
+      "address2": "沙河崔村镇",
+      "lat": 40.226366,
+      "lng": 116.35972
+    },
+    {
+      "id": 567,
+      "spaceType": "别墅",
+      "spaceName": "左岸派 玫瑰园别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河北京玫瑰园",
+      "address2": "沙河北京玫瑰园",
+      "lat": 40.164411,
+      "lng": 116.274806
+    },
+    {
+      "id": 568,
+      "spaceType": "别墅",
+      "spaceName": "碧水庄园 安德尼斯",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河碧水庄园",
+      "address2": "沙河碧水庄园",
+      "lat": 40.117829,
+      "lng": 116.293928
+    },
+    {
+      "id": 569,
+      "spaceType": "别墅",
+      "spaceName": "康凯源（君兰庄园）",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂文化新村别墅区",
+      "address2": "沙河香堂文化新村别墅区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 570,
+      "spaceType": "别墅",
+      "spaceName": "聚英会豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂文化新村",
+      "address2": "沙河香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 571,
+      "spaceType": "别墅",
+      "spaceName": "康凯源云顶庄园豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河香堂国际观光中心",
+      "address2": "沙河香堂国际观光中心",
+      "lat": 40.249959,
+      "lng": 116.371784
+    },
+    {
+      "id": 572,
+      "spaceType": "别墅",
+      "spaceName": "康凯源 紫郡庄园",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河九鼎山庄",
+      "address2": "沙河九鼎山庄",
+      "lat": 40.27273,
+      "lng": 116.406158
+    },
+    {
+      "id": 573,
+      "spaceType": "别墅",
+      "spaceName": "兰茵别墅豪华装修",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河京昌平崔村镇香堂别墅",
+      "address2": "沙河京昌平崔村镇香堂别墅",
+      "lat": 40.254979,
+      "lng": 116.373942
+    },
+    {
+      "id": 574,
+      "spaceType": "别墅",
+      "spaceName": "辉煌豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村北七区",
+      "address2": "香堂文化新村北七区",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 575,
+      "spaceType": "别墅",
+      "spaceName": "惠馨阁度假村豪华别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村",
+      "address2": "香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 576,
+      "spaceType": "别墅",
+      "spaceName": "左岸派",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区香堂文化新村",
+      "address2": "香堂文化新村",
+      "lat": 40.250305,
+      "lng": 116.375987
+    },
+    {
+      "id": 577,
+      "spaceType": "别墅",
+      "spaceName": "奢美别墅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区御汤山",
+      "address2": "御汤山",
+      "lat": 40.190631,
+      "lng": 116.405816
+    },
+    {
+      "id": 578,
+      "spaceType": "健身房",
+      "spaceName": "君力健身游泳俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区物美超市一层",
+      "address2": "物美超市一层",
+      "lat": 40.071303,
+      "lng": 116.439344
+    },
+    {
+      "id": 579,
+      "spaceType": "台球馆",
+      "spaceName": "好帅兴台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区天通苑中苑F区京妮儿童汇东门",
+      "address2": "天通苑中苑F区京妮儿童汇东门",
+      "lat": 40.075127,
+      "lng": 116.42266
+    },
+    {
+      "id": 580,
+      "spaceType": "台球馆",
+      "spaceName": "友盟球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区定泗路184号院",
+      "address2": "定泗路184号院",
+      "lat": 40.122718,
+      "lng": 116.396394
+    },
+    {
+      "id": 581,
+      "spaceType": "健身房",
+      "spaceName": "大鸭梨楼下游泳健身",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区太平庄北街64",
+      "address2": "太平庄北街64",
+      "lat": 40.08601,
+      "lng": 116.442971
+    },
+    {
+      "id": 582,
+      "spaceType": "健身房",
+      "spaceName": "乐迈连锁游泳健身(旗舰店SVIP)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区太平庄中二街",
+      "address2": "太平庄中二街",
+      "lat": 40.080302,
+      "lng": 116.427671
+    },
+    {
+      "id": 583,
+      "spaceType": "游乐园",
+      "spaceName": "昌都金典电玩城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区西环路26号楼",
+      "address2": "西环路26号楼",
+      "lat": 40.229352,
+      "lng": 116.23375
+    },
+    {
+      "id": 584,
+      "spaceType": "游乐园",
+      "spaceName": "身临其境7d多人互动影院",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌崔路203号",
+      "address2": "昌崔路203号",
+      "lat": 40.228691,
+      "lng": 116.270536
+    },
+    {
+      "id": 585,
+      "spaceType": "台球馆",
+      "spaceName": "万赢亿胜台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平镇南环东路32-5号",
+      "address2": "昌平镇南环东路32-5号",
+      "lat": 40.218971,
+      "lng": 116.25526
+    },
+    {
+      "id": 586,
+      "spaceType": "游乐园",
+      "spaceName": "玩家会动漫游艺城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区昌平镇南环路10号院1号楼悦荟万科广场5层",
+      "address2": "昌平镇南环路10号院1号楼悦荟万科广场5层",
+      "lat": 40.218001,
+      "lng": 116.246328
+    },
+    {
+      "id": 587,
+      "spaceType": "游乐园",
+      "spaceName": "先力电影器材(东北2门)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区尚上路附近",
+      "address2": "尚上路附近",
+      "lat": 40.159074,
+      "lng": 116.315214
+    },
+    {
+      "id": 588,
+      "spaceType": "台球馆",
+      "spaceName": "永利台球",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇农贸市场速8宾馆对面",
+      "address2": "小汤山镇农贸市场速8宾馆对面",
+      "lat": 40.183653,
+      "lng": 116.406202
+    },
+    {
+      "id": 589,
+      "spaceType": "健身房",
+      "spaceName": "金科帕提欧健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇小汤山金科帕提欧小区4号楼",
+      "address2": "小汤山镇小汤山金科帕提欧小区4号楼",
+      "lat": 40.189455,
+      "lng": 116.400802
+    },
+    {
+      "id": 590,
+      "spaceType": "游乐园",
+      "spaceName": "九华山庄5d动感影院",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区小汤山镇九华山庄16区B1楼",
+      "address2": "小汤山镇九华山庄16区B1楼",
+      "lat": 40.186127,
+      "lng": 116.42394
+    },
+    {
+      "id": 591,
+      "spaceType": "台球馆",
+      "spaceName": "乐潮台球厅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河镇松兰堡公交车站东世纪华联二层",
+      "address2": "沙河镇松兰堡公交车站东世纪华联二层",
+      "lat": 40.159266,
+      "lng": 116.304686
+    },
+    {
+      "id": 592,
+      "spaceType": "台球馆",
+      "spaceName": "顶品台球(沙河店)",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河巩华城大街鑫之星市场南门院内2楼",
+      "address2": "沙河巩华城大街鑫之星市场南门院内2楼",
+      "lat": 40.130301,
+      "lng": 116.274825
+    },
+    {
+      "id": 593,
+      "spaceType": "游乐园",
+      "spaceName": "百善可喜安体验厅",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区沙河王于路与百沙路交叉口东150米",
+      "address2": "沙河王于路与百沙路交叉口东150米",
+      "lat": 40.149378,
+      "lng": 116.312049
+    },
+    {
+      "id": 594,
+      "spaceType": "舞蹈室",
+      "spaceName": "舞蝶艺术舞蹈工作室",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观镇龙域北街金域国际中心A座1105室",
+      "address2": "回龙观镇龙域北街金域国际中心A座1105室",
+      "lat": 40.074969,
+      "lng": 116.31955
+    },
+    {
+      "id": 595,
+      "spaceType": "健身房",
+      "spaceName": "骑士国际游泳健身俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观东大街良庄园商业楼四层",
+      "address2": "回龙观东大街良庄园商业楼四层",
+      "lat": 40.086892,
+      "lng": 116.367616
+    },
+    {
+      "id": 596,
+      "spaceType": "台球馆",
+      "spaceName": "寻梦港台球俱乐部",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观西大街港龙商业中心二段-1楼",
+      "address2": "回龙观西大街港龙商业中心二段-1楼",
+      "lat": 40.0844,
+      "lng": 116.338769
+    },
+    {
+      "id": 597,
+      "spaceType": "游乐园",
+      "spaceName": "乐天电玩城",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观回龙观东大街3号楼",
+      "address2": "回龙观回龙观东大街3号楼",
+      "lat": 40.087047,
+      "lng": 116.367267
+    },
+    {
+      "id": 598,
+      "spaceType": "台球馆",
+      "spaceName": "璟点台球会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区回龙观育知西路36号",
+      "address2": "回龙观育知西路36号",
+      "lat": 40.08243,
+      "lng": 116.338644
+    },
+    {
+      "id": 599,
+      "spaceType": "健身房",
+      "spaceName": "回龙观50米标池游泳健身会所",
+      "spaceCounty": "昌平区",
+      "address1": "昌平区育知路",
+      "address2": "育知路",
+      "lat": 40.084853,
+      "lng": 116.335088
+    }
+  ]
+}

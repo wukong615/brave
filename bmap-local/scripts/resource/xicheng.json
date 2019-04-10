@@ -1,0 +1,778 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 450,
+      "spaceType": "健身房",
+      "spaceName": "力美乐健身工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区闹市口中街33号二楼",
+      "address2": "闹市口中街33号二楼",
+      "lat": 39.910788,
+      "lng": 116.370118
+    },
+    {
+      "id": 451,
+      "spaceType": "KTV",
+      "spaceName": "新大都国际娱乐会所",
+      "spaceCounty": "西城区",
+      "address1": "西城区车公庄大街21号",
+      "address2": "车公庄大街21号",
+      "lat": 39.938731,
+      "lng": 116.342798
+    },
+    {
+      "id": 452,
+      "spaceType": "录音棚",
+      "spaceName": "糖果录音棚",
+      "spaceCounty": "西城区",
+      "address1": "西城区赵登禹路甲80号",
+      "address2": "赵登禹路甲80号",
+      "lat": 39.940075,
+      "lng": 116.374921
+    },
+    {
+      "id": 453,
+      "spaceType": "养生馆",
+      "spaceName": "养可医理疗馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门阜城门内大街甲90号",
+      "address2": "复兴门阜城门内大街甲90号",
+      "lat": 39.929263,
+      "lng": 116.376205
+    },
+    {
+      "id": 454,
+      "spaceType": "瑜伽健身",
+      "spaceName": "婵心瑜伽生活馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门南大街甲2号天银大厦A室西座B2楼天银健身俱",
+      "address2": "复兴门南大街甲2号天银大厦A室西座B2楼天银健身俱",
+      "lat": 39.910323,
+      "lng": 116.364546
+    },
+    {
+      "id": 455,
+      "spaceType": "咖啡厅",
+      "spaceName": "Dunkin'Donuts",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门内大街101号百盛购物中心南楼一层s1-02",
+      "address2": "复兴门内大街101号百盛购物中心南楼一层s1-02 ",
+      "lat": 39.913499,
+      "lng": 116.365211
+    },
+    {
+      "id": 456,
+      "spaceType": "西餐厅",
+      "spaceName": "唐秀酒吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区复兴门外大街19号唐拉雅秀酒店B1",
+      "address2": "复兴门外大街19号唐拉雅秀酒店B1",
+      "lat": 39.913623,
+      "lng": 116.349631
+    },
+    {
+      "id": 457,
+      "spaceType": "餐厅",
+      "spaceName": "寻味香港",
+      "spaceCounty": "西城区",
+      "address1": "西城区动物园西直门门外大街1号凯德MALL4楼",
+      "address2": "动物园西直门门外大街1号凯德MALL4楼",
+      "lat": 39.947367,
+      "lng": 116.359147
+    },
+    {
+      "id": 458,
+      "spaceType": "西餐厅",
+      "spaceName": "BASE",
+      "spaceCounty": "西城区",
+      "address1": "西城区动物园西直门西环广场T2写字楼7层天台",
+      "address2": "动物园西直门西环广场T2写字楼7层天台",
+      "lat": 39.947069,
+      "lng": 116.35939
+    },
+    {
+      "id": 459,
+      "spaceType": "录音棚",
+      "spaceName": "北京百瑞录音棚",
+      "spaceCounty": "西城区",
+      "address1": "西城区东单三条8-16东方广场东配楼B403室",
+      "address2": "东单三条8-16东方广场东配楼B403室",
+      "lat": 39.93428,
+      "lng": 116.37319
+    },
+    {
+      "id": 460,
+      "spaceType": "轰趴馆",
+      "spaceName": "大嘻地轰趴馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区德胜门西大街15号远洋风景4号楼1单元101",
+      "address2": "德胜门西大街15号远洋风景4号楼1单元101",
+      "lat": 39.951871,
+      "lng": 116.367422
+    },
+    {
+      "id": 461,
+      "spaceType": "餐厅",
+      "spaceName": "日昌餐馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区德外大街安德路81号",
+      "address2": "德外大街安德路81号",
+      "lat": 39.957589,
+      "lng": 116.387853
+    },
+    {
+      "id": 462,
+      "spaceType": "咖啡厅",
+      "spaceName": "密咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区广内大街广安门内乐凯大厦一层",
+      "address2": "广内大街广安门内乐凯大厦一层",
+      "lat": 39.896205,
+      "lng": 116.362997
+    },
+    {
+      "id": 463,
+      "spaceType": "健身房",
+      "spaceName": "金融派健身荟",
+      "spaceCounty": "西城区",
+      "address1": "西城区广成街金宸国际公寓3号楼4单元1301",
+      "address2": "广成街金宸国际公寓3号楼4单元1301",
+      "lat": 39.918893,
+      "lng": 116.368725
+    },
+    {
+      "id": 464,
+      "spaceType": "养生馆",
+      "spaceName": "正生源",
+      "spaceCounty": "西城区",
+      "address1": "西城区广外大街马连道中国文化大厦",
+      "address2": "广外大街马连道中国文化大厦",
+      "lat": 39.883429,
+      "lng": 116.338485
+    },
+    {
+      "id": 465,
+      "spaceType": "餐厅",
+      "spaceName": "杭湘园餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区广外大街广安门外街道马连道甲10号",
+      "address2": "广外大街广安门外街道马连道甲10号",
+      "lat": 39.889845,
+      "lng": 116.333465
+    },
+    {
+      "id": 466,
+      "spaceType": "养生馆",
+      "spaceName": "璽堯堂中医推拿调理工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门内大街醋章胡同40",
+      "address2": "广安门内大街醋章胡同40",
+      "lat": 39.894279,
+      "lng": 116.376532
+    },
+    {
+      "id": 467,
+      "spaceType": "KTV",
+      "spaceName": "金童玉女KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门内大街338港中旅大厦4层",
+      "address2": "广安门内大街338港中旅大厦4层",
+      "lat": 39.894654,
+      "lng": 116.360559
+    },
+    {
+      "id": 468,
+      "spaceType": "舞蹈室",
+      "spaceName": "Tenga舞蹈工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外大街168号朗琴国际大厦B座6层608",
+      "address2": "广安门外大街168号朗琴国际大厦B座6层608",
+      "lat": 39.894558,
+      "lng": 116.348031
+    },
+    {
+      "id": 469,
+      "spaceType": "健身房",
+      "spaceName": "前锋健身俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外手帕口巷2号院菜香根酒楼广安门店4层",
+      "address2": "广安门外手帕口巷2号院菜香根酒楼广安门店4层",
+      "lat": 39.894295,
+      "lng": 116.362566
+    },
+    {
+      "id": 470,
+      "spaceType": "KTV",
+      "spaceName": "紫蘭荟KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区广安门外街3号道凤凰苏源大厦",
+      "address2": "广安门外街3号道凤凰苏源大厦",
+      "lat": 39.896039,
+      "lng": 116.335534
+    },
+    {
+      "id": 471,
+      "spaceType": "KTV",
+      "spaceName": "地质礼堂ktv(西四店)",
+      "spaceCounty": "西城区",
+      "address1": "西城区羊肉胡同30号B1楼",
+      "address2": "羊肉胡同30号B1楼",
+      "lat": 39.928517,
+      "lng": 116.37773
+    },
+    {
+      "id": 472,
+      "spaceType": "健身房",
+      "spaceName": "西单商场健身中心",
+      "spaceCounty": "西城区",
+      "address1": "西城区万方西单商场",
+      "address2": "万方西单商场",
+      "lat": 39.919407,
+      "lng": 116.347757
+    },
+    {
+      "id": 473,
+      "spaceType": "轰趴馆",
+      "spaceName": "私宅",
+      "spaceCounty": "西城区",
+      "address1": "西城区北新华街100号2层",
+      "address2": "北新华街100号2层",
+      "lat": 39.909675,
+      "lng": 116.390606
+    },
+    {
+      "id": 474,
+      "spaceType": "KTV",
+      "spaceName": "快乐仙岛ktv",
+      "spaceCounty": "西城区",
+      "address1": "西城区福长街45号",
+      "address2": "福长街45号",
+      "lat": 39.889363,
+      "lng": 116.401629
+    },
+    {
+      "id": 475,
+      "spaceType": "咖啡厅",
+      "spaceName": "熊煮咖啡Bear Brew",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门白塔寺东夹道26号",
+      "address2": "阜成门白塔寺东夹道26号",
+      "lat": 39.931175,
+      "lng": 116.370357
+    },
+    {
+      "id": 476,
+      "spaceType": "咖啡馆",
+      "spaceName": "花时间咖啡厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门南大街9号楼西二环月坛北桥西北角",
+      "address2": "阜成门南大街9号楼西二环月坛北桥西北角",
+      "lat": 39.924892,
+      "lng": 116.362489
+    },
+    {
+      "id": 477,
+      "spaceType": "养生馆",
+      "spaceName": "元氏立元堂",
+      "spaceCounty": "西城区",
+      "address1": "西城区阜成门四川大厦",
+      "address2": "阜成门四川大厦",
+      "lat": 39.930018,
+      "lng": 116.36083
+    },
+    {
+      "id": 478,
+      "spaceType": "KTV",
+      "spaceName": "万寿宫KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区白纸坊东街甲29号万寿商务酒店B1层",
+      "address2": "白纸坊东街甲29号万寿商务酒店B1层",
+      "lat": 39.884455,
+      "lng": 116.374271
+    },
+    {
+      "id": 479,
+      "spaceType": "健身房",
+      "spaceName": "广安体育中心健身馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区白广路二条广安体育中心南门",
+      "address2": "白广路二条广安体育中心南门",
+      "lat": 39.891901,
+      "lng": 116.361079
+    },
+    {
+      "id": 480,
+      "spaceType": "西餐厅",
+      "spaceName": "南锣鼓巷陆拾号",
+      "spaceCounty": "西城区",
+      "address1": "西城区南锣鼓巷60号",
+      "address2": "南锣鼓巷60号",
+      "lat": 39.943518,
+      "lng": 116.409654
+    },
+    {
+      "id": 481,
+      "spaceType": "养生馆",
+      "spaceName": "清心堂用心按摩平价店",
+      "spaceCounty": "西城区",
+      "address1": "西城区陶然亭南横东街南华里10--7",
+      "address2": "陶然亭南横东街南华里10--7",
+      "lat": 39.889274,
+      "lng": 116.3892
+    },
+    {
+      "id": 482,
+      "spaceType": "KTV",
+      "spaceName": "新花冠KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区展览馆路3号",
+      "address2": "展览馆路3号",
+      "lat": 39.936076,
+      "lng": 116.349886
+    },
+    {
+      "id": 483,
+      "spaceType": "咖啡馆",
+      "spaceName": "1901咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区地安门内大街10号（北海北门向东300米）",
+      "address2": "地安门内大街10号（北海北门向东300米）",
+      "lat": 39.939407,
+      "lng": 116.402844
+    },
+    {
+      "id": 484,
+      "spaceType": "西餐厅",
+      "spaceName": "NO.98Bar",
+      "spaceCounty": "西城区",
+      "address1": "西城区前门煤市街98号",
+      "address2": "前门煤市街98号",
+      "lat": 39.900858,
+      "lng": 116.40111
+    },
+    {
+      "id": 485,
+      "spaceType": "西餐厅",
+      "spaceName": "尚座精酿",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门佟麟阁路95号尚座大厦地下一层",
+      "address2": "宣武门佟麟阁路95号尚座大厦地下一层",
+      "lat": 39.906145,
+      "lng": 116.374715
+    },
+    {
+      "id": 486,
+      "spaceType": "餐厅",
+      "spaceName": "惠家小语炖品店",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门内大街抄手胡同64号繁星戏剧村内",
+      "address2": "宣武门内大街抄手胡同64号繁星戏剧村内",
+      "lat": 39.906781,
+      "lng": 116.380415
+    },
+    {
+      "id": 487,
+      "spaceType": "养生馆",
+      "spaceName": "权健火疗-自然医学养生",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门上斜街71",
+      "address2": "宣武门上斜街71",
+      "lat": 39.904002,
+      "lng": 116.376539
+    },
+    {
+      "id": 488,
+      "spaceType": "咖啡厅",
+      "spaceName": "北京粤财JW万豪酒店大堂吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区宣武门外大街18号北京粤财JW万豪酒店1楼",
+      "address2": "宣武门外大街18号北京粤财JW万豪酒店1楼",
+      "lat": 39.902624,
+      "lng": 116.382036
+    },
+    {
+      "id": 489,
+      "spaceType": "餐厅",
+      "spaceName": "港丽餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单北大街131号西单大悦城6楼",
+      "address2": "西单北大街131号西单大悦城6楼",
+      "lat": 39.916938,
+      "lng": 116.379557
+    },
+    {
+      "id": 490,
+      "spaceType": "餐馆",
+      "spaceName": "一花一叶咖餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单北大街109婚庆大楼南门1层",
+      "address2": "西单北大街109婚庆大楼南门1层",
+      "lat": 39.920044,
+      "lng": 116.379006
+    },
+    {
+      "id": 491,
+      "spaceType": "养生馆",
+      "spaceName": "博宇足道养生会馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单堂子胡同西单明珠西侧对面",
+      "address2": "西单堂子胡同西单明珠西侧对面",
+      "lat": 39.91692,
+      "lng": 116.382741
+    },
+    {
+      "id": 492,
+      "spaceType": "咖啡厅",
+      "spaceName": "Dunkin'Donuts",
+      "spaceCounty": "西城区",
+      "address1": "西城区西单金城坊街9-9/9-10号商铺",
+      "address2": "西单金城坊街9-9/9-10号商铺",
+      "lat": 39.922813,
+      "lng": 116.368554
+    },
+    {
+      "id": 493,
+      "spaceType": "私人影院",
+      "spaceName": "云乐迪私影汇",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门北大街32号枫蓝国际购物中心B1层",
+      "address2": "西直门北大街32号枫蓝国际购物中心B1层",
+      "lat": 39.958954,
+      "lng": 116.362574
+    },
+    {
+      "id": 494,
+      "spaceType": "录音棚",
+      "spaceName": "天露霖文化工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门南大街16号西楼806-3",
+      "address2": "西直门南大街16号西楼806-3",
+      "lat": 39.941353,
+      "lng": 116.362781
+    },
+    {
+      "id": 495,
+      "spaceType": "轰趴馆",
+      "spaceName": "BASE",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门西环广场T2写字楼7层天台",
+      "address2": "西直门西环广场T2写字楼7层天台",
+      "lat": 39.947069,
+      "lng": 116.35939
+    },
+    {
+      "id": 496,
+      "spaceType": "KTV",
+      "spaceName": "兰彩鸣KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门社保大厦北侧10米",
+      "address2": "西直门社保大厦北侧10米",
+      "lat": 39.943629,
+      "lng": 116.365916
+    },
+    {
+      "id": 497,
+      "spaceType": "KTV",
+      "spaceName": "德宝KTV",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门外大街22号楼德宝饭店5楼",
+      "address2": "西直门外大街22号楼德宝饭店5楼",
+      "lat": 39.945866,
+      "lng": 116.355195
+    },
+    {
+      "id": 498,
+      "spaceType": "录音棚",
+      "spaceName": "芭伊妮",
+      "spaceCounty": "西城区",
+      "address1": "西城区西直门外大街1号凯德MALL购物中心B1楼",
+      "address2": "西直门外大街1号凯德MALL购物中心B1楼",
+      "lat": 39.947367,
+      "lng": 116.359147
+    },
+    {
+      "id": 499,
+      "spaceType": "健身房",
+      "spaceName": "私体动能体能健身工作室",
+      "spaceCounty": "西城区",
+      "address1": "西城区西草厂街宣武门沃尔玛东侧二百米椿树园十五号楼底商",
+      "address2": "西草厂街宣武门沃尔玛东侧二百米椿树园十五号楼底商",
+      "lat": 39.899294,
+      "lng": 116.383245
+    },
+    {
+      "id": 500,
+      "spaceType": "西餐厅",
+      "spaceName": "披酒兄弟餐吧Buddy's Pizza Bar",
+      "spaceCounty": "西城区",
+      "address1": "西城区西斯西什库大街31号院27号楼底商",
+      "address2": "西斯西什库大街31号院27号楼底商",
+      "lat": 39.933184,
+      "lng": 116.384114
+    },
+    {
+      "id": 501,
+      "spaceType": "咖啡馆",
+      "spaceName": "猴子咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街91号（天健宾馆西侧）",
+      "address2": "西四南大街91号（天健宾馆西侧）",
+      "lat": 39.925917,
+      "lng": 116.379861
+    },
+    {
+      "id": 502,
+      "spaceType": "餐厅",
+      "spaceName": "天健宾馆中餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街62号天健宾馆1层",
+      "address2": "西四南大街62号天健宾馆1层",
+      "lat": 39.926262,
+      "lng": 116.380418
+    },
+    {
+      "id": 503,
+      "spaceType": "咖啡厅",
+      "spaceName": "那间咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街59号",
+      "address2": "西四南大街59号",
+      "lat": 39.927269,
+      "lng": 116.3798
+    },
+    {
+      "id": 504,
+      "spaceType": "轰趴馆",
+      "spaceName": "枫色年华桌游俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区西四南大街33号",
+      "address2": "西四南大街33号",
+      "lat": 39.928544,
+      "lng": 116.379772
+    },
+    {
+      "id": 505,
+      "spaceType": "养生馆",
+      "spaceName": "艾晖堂国医艾灸馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区西外大街140号首建金融中心B1",
+      "address2": "西外大街140号首建金融中心B1",
+      "lat": 39.942915,
+      "lng": 116.341907
+    },
+    {
+      "id": 506,
+      "spaceType": "咖啡馆",
+      "spaceName": "1901咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区西安门内大街101号（近西什库大街）",
+      "address2": "西安门内大街101号（近西什库大街）",
+      "lat": 39.928499,
+      "lng": 116.382833
+    },
+    {
+      "id": 507,
+      "spaceType": "轰趴馆",
+      "spaceName": "Homer21私人聚会俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口赵登禹路后帽胡同21-2号",
+      "address2": "新街口赵登禹路后帽胡同21-2号",
+      "lat": 39.943674,
+      "lng": 116.375916
+    },
+    {
+      "id": 508,
+      "spaceType": "西餐厅",
+      "spaceName": "NBeerPub牛啤堂",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口护国寺街85号护国新天地1层",
+      "address2": "新街口护国寺街85号护国新天地1层",
+      "lat": 39.941279,
+      "lng": 116.381699
+    },
+    {
+      "id": 509,
+      "spaceType": "咖啡厅",
+      "spaceName": "沏点咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口北大街大半截胡同45号2层",
+      "address2": "新街口北大街大半截胡同45号2层",
+      "lat": 39.948455,
+      "lng": 116.379208
+    },
+    {
+      "id": 510,
+      "spaceType": "录音棚",
+      "spaceName": "韩宫录音棚(新街口店)",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口南大街百花深处16号",
+      "address2": "新街口南大街百花深处16号",
+      "lat": 39.94323,
+      "lng": 116.380165
+    },
+    {
+      "id": 511,
+      "spaceType": "健身房",
+      "spaceName": "汉跃健身会所(新街口)",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口南大街44号",
+      "address2": "新街口南大街44号",
+      "lat": 39.944862,
+      "lng": 116.379633
+    },
+    {
+      "id": 512,
+      "spaceType": "轰趴馆",
+      "spaceName": "D·3Club轰趴馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区新街口西里二区1号楼十二单元003",
+      "address2": "新街口西里二区1号楼十二单元003",
+      "lat": 39.951966,
+      "lng": 116.374738
+    },
+    {
+      "id": 513,
+      "spaceType": "健身房",
+      "spaceName": "西单Auspicious 健身俱乐部",
+      "spaceCounty": "西城区",
+      "address1": "西城区新一代商城5层",
+      "address2": "新一代商城5层",
+      "lat": 39.91731,
+      "lng": 116.381899
+    },
+    {
+      "id": 514,
+      "spaceType": "养生馆",
+      "spaceName": "王群朝中医推拿按摩",
+      "spaceCounty": "西城区",
+      "address1": "西城区小西天牌楼往西600米",
+      "address2": "小西天牌楼往西600米",
+      "lat": 39.958085,
+      "lng": 116.370065
+    },
+    {
+      "id": 515,
+      "spaceType": "养生馆",
+      "spaceName": "医道自愈",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海德胜门内大街羊房胡同54号院",
+      "address2": "什刹海德胜门内大街羊房胡同54号院",
+      "lat": 39.948544,
+      "lng": 116.386077
+    },
+    {
+      "id": 516,
+      "spaceType": "西餐厅",
+      "spaceName": "Just Salad",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海大石啤胡同33号",
+      "address2": "什刹海大石啤胡同33号",
+      "lat": 39.952105,
+      "lng": 116.380751
+    },
+    {
+      "id": 517,
+      "spaceType": "餐厅",
+      "spaceName": "港隆轩茶餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海新街口北外大街1号新华百货5层",
+      "address2": "什刹海新街口北外大街1号新华百货5层",
+      "lat": 39.953683,
+      "lng": 116.377949
+    },
+    {
+      "id": 518,
+      "spaceType": "西餐厅",
+      "spaceName": "悦界酒吧",
+      "spaceCounty": "西城区",
+      "address1": "西城区什刹海后海南沿甲10号",
+      "address2": "什刹海后海南沿甲10号",
+      "lat": 39.945385,
+      "lng": 116.398663
+    },
+    {
+      "id": 519,
+      "spaceType": "轰趴馆",
+      "spaceName": "十方小院",
+      "spaceCounty": "西城区",
+      "address1": "西城区寿逾百胡同19号",
+      "address2": "寿逾百胡同19号",
+      "lat": 39.91073,
+      "lng": 116.366854
+    },
+    {
+      "id": 520,
+      "spaceType": "咖啡厅",
+      "spaceName": "Kodo可多咖啡",
+      "spaceCounty": "西城区",
+      "address1": "西城区鼓楼东大街190号",
+      "address2": "鼓楼东大街190号",
+      "lat": 39.947064,
+      "lng": 116.406304
+    },
+    {
+      "id": 521,
+      "spaceType": "咖啡厅",
+      "spaceName": "1920艺术商店咖啡馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区虎坊桥路口西北角",
+      "address2": "虎坊桥路口西北角",
+      "lat": 39.894439,
+      "lng": 116.393653
+    },
+    {
+      "id": 522,
+      "spaceType": "西餐厅",
+      "spaceName": "埃利金啤酒西餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区月坛金城坊街2号金融街购物中心B1层B114-B115",
+      "address2": "月坛金城坊街2号金融街购物中心B1层B114-B115",
+      "lat": 39.921212,
+      "lng": 116.369027
+    },
+    {
+      "id": 523,
+      "spaceType": "餐厅",
+      "spaceName": "景喜堂烧腊粉面茶餐厅",
+      "spaceCounty": "西城区",
+      "address1": "西城区金融大街甲9号金融街中心B1-103",
+      "address2": "金融大街甲9号金融街中心B1-103",
+      "lat": 39.925001,
+      "lng": 116.365669
+    },
+    {
+      "id": 524,
+      "spaceType": "舞蹈室",
+      "spaceName": "璇转门舞蹈&潮流生活空间 ",
+      "spaceCounty": "西城区",
+      "address1": "西城区金融街金宸国际公寓3号楼6单元705(复兴门地铁站)",
+      "address2": "金融街金宸国际公寓3号楼6单元705(复兴门地铁站)",
+      "lat": 39.918893,
+      "lng": 116.368725
+    },
+    {
+      "id": 525,
+      "spaceType": "餐厅",
+      "spaceName": "南小馆",
+      "spaceCounty": "西城区",
+      "address1": "西城区金城坊东街2号金融街购物中心里",
+      "address2": "金城坊东街2号金融街购物中心里",
+      "lat": 39.921212,
+      "lng": 116.369027
+    },
+    {
+      "id": 526,
+      "spaceType": "健身房",
+      "spaceName": "贵州酒店连锁健身",
+      "spaceCounty": "西城区",
+      "address1": "西城区教子胡同",
+      "address2": "教子胡同",
+      "lat": 39.892892,
+      "lng": 116.374236
+    }
+  ]
+}

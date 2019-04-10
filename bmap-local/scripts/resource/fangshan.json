@@ -1,0 +1,248 @@
+{
+  "ver": "1.0",
+  "ret": true,
+  "errcode": 0,
+  "errmsg": "",
+  "data": [
+    {
+      "id": 166,
+      "spaceType": "台球馆",
+      "spaceName": "亿龙达台球厅",
+      "spaceCounty": "房山区",
+      "address1": "房山区阎村镇嘉煜宾馆西20米",
+      "address2": "阎村镇嘉煜宾馆西20米",
+      "lat": 39.726509,
+      "lng": 116.091034
+    },
+    {
+      "id": 167,
+      "spaceType": "台球馆",
+      "spaceName": "碰撞人生台球会所",
+      "spaceCounty": "房山区",
+      "address1": "房山区长阳镇长阳路45号",
+      "address2": "长阳镇长阳路45号",
+      "lat": 39.759633,
+      "lng": 116.2252
+    },
+    {
+      "id": 168,
+      "spaceType": "游泳馆",
+      "spaceName": "长阳体育馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区长阳路农业职业学院主校区内",
+      "address2": "长阳路农业职业学院主校区内",
+      "lat": 39.757069,
+      "lng": 116.206176
+    },
+    {
+      "id": 169,
+      "spaceType": "游泳馆",
+      "spaceName": "活月游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区窦店镇大于路北京城建·琨廷售楼处负一楼",
+      "address2": "窦店镇大于路北京城建·琨廷售楼处负一楼",
+      "lat": 39.657738,
+      "lng": 116.074536
+    },
+    {
+      "id": 170,
+      "spaceType": "台球馆",
+      "spaceName": "云川台球连锁俱乐部(198窦店店",
+      "spaceCounty": "房山区",
+      "address1": "房山区窦店镇山水汇豪苑项目1号楼4层",
+      "address2": "窦店镇山水汇豪苑项目1号楼4层",
+      "lat": 39.654655,
+      "lng": 116.080897
+    },
+    {
+      "id": 171,
+      "spaceType": "游泳馆",
+      "spaceName": "君力游泳健身会馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区昊天大街加州水郡西区商业广场负一楼",
+      "address2": "昊天大街加州水郡西区商业广场负一楼",
+      "lat": 39.767904,
+      "lng": 116.166516
+    },
+    {
+      "id": 172,
+      "spaceType": "游泳馆",
+      "spaceName": "加州水郡游泳健身",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡昊天大街48-218-2号楼",
+      "address2": "良乡昊天大街48-218-2号楼",
+      "lat": 39.747132,
+      "lng": 116.156741
+    },
+    {
+      "id": 173,
+      "spaceType": "游泳馆",
+      "spaceName": "ao奥力游泳健身会所",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡昊天大街3106号",
+      "address2": "良乡昊天大街3106号",
+      "lat": 39.747132,
+      "lng": 116.156741
+    },
+    {
+      "id": 174,
+      "spaceType": "台球馆",
+      "spaceName": "云川台球城(良乡178店)",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡拱辰大街49号科豪大厦4层",
+      "address2": "良乡拱辰大街49号科豪大厦4层",
+      "lat": 39.7413,
+      "lng": 116.148281
+    },
+    {
+      "id": 175,
+      "spaceType": "别墅",
+      "spaceName": "英伦乡村别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区韩村河韩村河镇",
+      "address2": "韩村河韩村河镇",
+      "lat": 39.607865,
+      "lng": 115.960534
+    },
+    {
+      "id": 176,
+      "spaceType": "别墅",
+      "spaceName": "豪华温泉独栋别墅",
+      "spaceCounty": "房山区",
+      "address1": "北京房山区长阳长阳",
+      "address2": "长阳长阳",
+      "lat": 39.726753,
+      "lng": 115.862836
+    },
+    {
+      "id": 177,
+      "spaceType": "别墅",
+      "spaceName": "私家园子 民宅别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区凯旋大街",
+      "address2": "凯旋大街",
+      "lat": 39.710681,
+      "lng": 116.128992
+    },
+    {
+      "id": 178,
+      "spaceType": "别墅",
+      "spaceName": "2号阳光别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡阳光邑上",
+      "address2": "良乡阳光邑上",
+      "lat": 39.736858,
+      "lng": 116.167707
+    },
+    {
+      "id": 179,
+      "spaceType": "别墅",
+      "spaceName": "1号阳光派别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡良乡阳光邑上2号楼102",
+      "address2": "良乡良乡阳光邑上2号楼102",
+      "lat": 39.736858,
+      "lng": 116.167707
+    },
+    {
+      "id": 180,
+      "spaceType": "别墅",
+      "spaceName": "乐聚派2号",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡良乡理工大学附近",
+      "address2": "良乡良乡理工大学附近",
+      "lat": 39.741621,
+      "lng": 116.159602
+    },
+    {
+      "id": 181,
+      "spaceType": "别墅",
+      "spaceName": "乐聚派4号",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡大学城西站阳光邑上小区22号别墅101",
+      "address2": "良乡大学城西站阳光邑上小区22号别墅101",
+      "lat": 39.730224,
+      "lng": 116.16419
+    },
+    {
+      "id": 182,
+      "spaceType": "别墅",
+      "spaceName": "全新600平别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区良乡加州水郡东区",
+      "address2": "良乡加州水郡东区",
+      "lat": 39.773849,
+      "lng": 116.176037
+    },
+    {
+      "id": 183,
+      "spaceType": "别墅",
+      "spaceName": "十渡风景山居小墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区房山一渡",
+      "address2": "房山一渡",
+      "lat": 39.603426,
+      "lng": 115.697842
+    },
+    {
+      "id": 184,
+      "spaceType": "别墅",
+      "spaceName": "大宁私享俱乐部",
+      "spaceCounty": "房山区",
+      "address1": "房山区大宁山庄别墅一区14排",
+      "address2": "大宁山庄别墅一区14排",
+      "lat": 39.816007,
+      "lng": 116.218289
+    },
+    {
+      "id": 185,
+      "spaceType": "别墅",
+      "spaceName": "十渡依山面水独栋泳池别墅",
+      "spaceCounty": "房山区",
+      "address1": "房山区十渡镇西关上村",
+      "address2": "十渡镇西关上村",
+      "lat": 39.646436,
+      "lng": 115.595943
+    },
+    {
+      "id": 186,
+      "spaceType": "台球馆",
+      "spaceName": "天湖会议中心-保龄球馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区青龙湖镇小苑上村150号",
+      "address2": "青龙湖镇小苑上村150号",
+      "lat": 39.789373,
+      "lng": 116.071317
+    },
+    {
+      "id": 187,
+      "spaceType": "游泳馆",
+      "spaceName": "天宇顺通游泳健身俱乐部",
+      "spaceCounty": "房山区",
+      "address1": "房山区城关镇房山仓房小区房山一中对面丰源大厦",
+      "address2": "城关镇房山仓房小区房山一中对面丰源大厦",
+      "lat": 39.708352,
+      "lng": 115.992367
+    },
+    {
+      "id": 188,
+      "spaceType": "游泳馆",
+      "spaceName": "普度山庄宾馆游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区十渡镇十大路普渡山庄宾馆",
+      "address2": "十渡镇十大路普渡山庄宾馆",
+      "lat": 39.637306,
+      "lng": 115.584067
+    },
+    {
+      "id": 189,
+      "spaceType": "游泳馆",
+      "spaceName": "燕化游泳馆",
+      "spaceCounty": "房山区",
+      "address1": "房山区燕山工体街44号",
+      "address2": "燕山工体街44号",
+      "lat": 39.738375,
+      "lng": 115.966763
+    }
+  ]
+}
